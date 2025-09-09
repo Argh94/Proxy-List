@@ -4,7 +4,7 @@
 ![زبان برنامه‌نویسی](https://img.shields.io/badge/زبان-JavaScript-yellow)
 ![به‌روزرسانی خودکار](https://img.shields.io/badge/به%E2%80%8Cروزرسانی-هر%205%20ساعت-blue)
 
-این پروژه به‌صورت خودکار لیست‌های پروکسی را از منابع عمومی جمع‌آوری کرده و در مخزن GitHub ([Argh94/Proxy-List](https://github.com/Argh94/Proxy-List)) به‌روزرسانی می‌کند. پروکسی‌ها هر ۵ ساعت یک‌بار به‌صورت خودکار آپدیت می‌شوند و در فایل‌های متنی دسته‌بندی‌شده ذخیره می‌گردند. این اسکریپت از پروتکل‌های مختلف پروکسی (HTTP، HTTPS، SOCKS4، SOCKS5، MTProto) و همچنین پروکسی‌های با فرمت `host:port` پشتیبانی می‌کند.
+این پروژه به‌صورت خودکار لیست‌های پروکسی را از منابع عمومی جمع‌آوری کرده و در مخزن GitHub ([Argh94/Proxy-List](https://github.com/Argh94/Proxy-List)) به‌روزرسانی می‌کند. پروکسی‌ها هر ۱ ساعت یک‌بار به‌صورت خودکار آپدیت می‌شوند و در فایل‌های متنی دسته‌بندی‌شده ذخیره می‌گردند. این اسکریپت از پروتکل‌های مختلف پروکسی (HTTP، HTTPS، SOCKS4، SOCKS5، MTProto) و همچنین پروکسی‌های با فرمت `host:port` پشتیبانی می‌کند.
 
 ---
 
@@ -94,3 +94,10 @@ curl -O https://raw.githubusercontent.com/Argh94/Proxy-List/main/HTTP.txt
 
 تشکر از ارائه‌دهندگان لیست‌های پروکسی متن‌باز  
 این پروژه با ❤️ برای جامعه کاربران پروکسی ساخته شده است.
+---
+
+## 📊 Stargazers
+<p align="center">
+  <img src="https://starchart.cc/Argh94/Proxy-List.svg?variant=adaptive" alt="Stargazers over time" />
+</p>
+---
