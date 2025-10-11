@@ -9,6 +9,19 @@
 ![No License](https://img.shields.io/badge/license-Not%20specified-lightgrey?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square)
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/auto--update-every%201%20hour-blue?style=flat-square" alt="Auto Update">
+  <img src="https://img.shields.io/github/stars/Argh94/Proxy-List?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Argh94/Proxy-List?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/issues/Argh94/Proxy-List?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/last-commit/Argh94/Proxy-List?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/Argh94/Proxy-List?style=flat-square" alt="Repo Size">
+  <img src="https://img.shields.io/badge/license-Not%20specified-lightgrey?style=flat-square" alt="No License">
+  <img src="https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square" alt="Maintained">
+</div>
+
+
 ---
 
 ## 🌟 Overview
