@@ -1,103 +1,124 @@
-# اسکریپت جمع‌آوری لیست پروکسی
+# Proxy-List 🚀🛡️
 
-![وضعیت پروژه](https://img.shields.io/badge/وضعیت-فعال-brightgreen)
-![زبان برنامه‌نویسی](https://img.shields.io/badge/زبان-JavaScript-yellow)
-![به‌روزرسانی خودکار](https://img.shields.io/badge/به%E2%80%8Cروزرسانی-هر%205%20ساعت-blue)
-
-این پروژه به‌صورت خودکار لیست‌های پروکسی را از منابع عمومی جمع‌آوری کرده و در مخزن GitHub ([Argh94/Proxy-List](https://github.com/Argh94/Proxy-List)) به‌روزرسانی می‌کند. پروکسی‌ها هر ۱ ساعت یک‌بار به‌صورت خودکار آپدیت می‌شوند و در فایل‌های متنی دسته‌بندی‌شده ذخیره می‌گردند. این اسکریپت از پروتکل‌های مختلف پروکسی (HTTP، HTTPS، SOCKS4، SOCKS5، MTProto) و همچنین پروکسی‌های با فرمت `host:port` پشتیبانی می‌کند.
-
----
-
-## 📖 معرفی
-
-این پروژه برای ارائه لیست‌های به‌روز و قابل اعتماد پروکسی طراحی شده است. پروکسی‌ها از منابع عمومی جمع‌آوری و سازمان‌دهی می‌شوند و هر ۵ ساعت در مخزن GitHub به‌روزرسانی خواهند شد. این پروژه مناسب کاربرانی است که به دنبال پروکسی‌های متنوع برای استفاده در ابزارهای مختلف هستند.
+![Auto Update](https://img.shields.io/badge/auto--update-every%201%20hour-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Argh94/Proxy-List?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Argh94/Proxy-List?style=flat-square)
+![Issues](https://img.shields.io/github/issues/Argh94/Proxy-List?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Argh94/Proxy-List?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Argh94/Proxy-List?style=flat-square)
+![No License](https://img.shields.io/badge/license-Not%20specified-lightgrey?style=flat-square)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square)
 
 ---
 
-### ✨ ویژگی‌ها
+## 🌟 Overview
 
-- جمع‌آوری پروکسی از منابع متعدد (HTTP، HTTPS، SOCKS4، SOCKS5، MTProto و `host:port`)
-- پشتیبانی از لیست‌های پروکسی رمزگذاری‌شده با Base64
-- حذف خودکار پروکسی‌های تکراری
-- ذخیره پروکسی‌های `host:port` در فایل `HTTP.txt` با پیشوند `http://`
-- به‌روزرسانی خودکار هر ۵ ساعت با پیام کامیت سفارشی (مثل ♻️ HTTP.txt at ...)
-- مدیریت خطاها برای اطمینان از پایداری فرآیند
+**Proxy-List** is an open-source project that automatically gathers and updates a comprehensive list of the most popular proxy and VPN config protocols from various online sources (including Telegram channels, websites, and more). The repository is refreshed every hour and offers categorized, ready-to-use text and config files for both developers and general users.
 
 ---
 
-## 🚀 شروع به کار
+## 📦 Supported Proxy & VPN Types
 
-### پیش‌نیازها
-
-- دسترسی به مخزن GitHub ([Argh94/Proxy-List](https://github.com/Argh94/Proxy-List)) برای مشاهده فایل‌های پروکسی
-- ابزارهایی مانند `curl`، `wget` یا کلاینت‌های پروکسی برای استفاده از لیست‌های پروکسی
-
----
-
-### استفاده
-
-لیست‌های پروکسی هر ۵ ساعت یک‌بار به‌صورت خودکار در مخزن GitHub به‌روزرسانی می‌شوند. فایل‌های خروجی شامل موارد زیر هستند:
-
-- `HTTP.txt`: پروکسی‌های HTTP و پروکسی‌های `host:port` (با پیشوند `http://`)
-- `HTTPS.txt`: پروکسی‌های HTTPS
-- `SOCKS4.txt`: پروکسی‌های SOCKS4
-- `SOCKS5.txt`: پروکسی‌های SOCKS5
-- `MTProto.txt`: پروکسی‌های MTProto (ویژه تلگرام)
-- `All_Proxies.txt`: لیست ترکیبی از تمام پروکسی‌ها
-
-#### برای دانلود فایل‌ها:
-
-1. به مخزن GitHub ([Argh94/Proxy-List](https://github.com/Argh94/Proxy-List)) بروید.
-2. فایل مورد نظر (مثل `HTTP.txt`) را دانلود کنید.
-3. از پروکسی‌ها در کلاینت‌های خود (مثل مرورگر، تلگرام یا ابزارهای دیگر) استفاده کنید.
-
-**مثال دانلود با `curl`:**
-```bash
-curl -O https://raw.githubusercontent.com/Argh94/Proxy-List/main/HTTP.txt
-```
+| Category      | Protocols                          | Example Use-cases             |
+|:--------------|:-----------------------------------|:------------------------------|
+| **Proxies**   | HTTP, HTTPS, SOCKS4, SOCKS5, MTProto | Browsing, Telegram, Gaming, etc. |
+| **VPN/Configs** | WireGuard, Trojan, VLESS, VMess, Hysteria, Tuic | Secure network, bypass restrictions, streaming, etc. |
 
 ---
 
-## 🛠 پیکربندی و افزودن منابع جدید پروکسی
+## 🔥 Features
 
-برای اضافه کردن منابع جدید، با نگهدارنده پروژه تماس بگیرید تا URLهای جدید به لیست منابع اضافه شوند.
+- **Multi-Protocol Support:**  
+  HTTP, HTTPS, SOCKS4, SOCKS5, MTProto, WireGuard, Trojan, VLESS, VMess, Hysteria, Tuic, and more!
 
----
+- **Automatic Updates:**  
+  All lists and configs are refreshed automatically every hour.
 
-## ⚡ استفاده از پروکسی‌ها
+- **Diverse Sources:**  
+  Aggregates from various web and Telegram sources for the latest, most stable proxies.
 
-- فایل‌های پروکسی را در ابزارهای خود وارد کنید.
-- برای پروکسی‌های `host:port` در HTTP.txt، مطمئن شوید که از پروتکل `http://` استفاده می‌کنید.
-- برای پروکسی‌های MTProto، از کلاینت‌های تلگرام استفاده کنید.
+- **Easy for Everyone:**  
+  - **Developers:** Easily switch server IPs, automate proxy rotation, test network security.
+  - **End-users:** Access blocked platforms, improve gaming connection, use Telegram proxies, and more.
 
----
-
-## 🤝 مشارکت
-
-از مشارکت شما استقبال می‌کنیم! لطفاً مراحل زیر را دنبال کنید:
-
-1. مخزن را فورک کنید.
-2. یک شاخه جدید بسازید (`git checkout -b feature/your-feature`)
-3. تغییرات خود را کامیت کنید (`git commit -m 'Add your feature'`)
-4. شاخه را به مخزن خود پوش کنید (`git push origin feature/your-feature`)
-5. یک Pull Request باز کنید.
+- **Rich Filtering:**  
+  Select proxies/configs by ping, speed, and location to optimize your connection.
 
 ---
 
-## 📬 تماس
+## 📁 Repository Structure
 
-برای گزارش مشکلات، پیشنهادات یا افزودن منابع جدید، یک Issue در GitHub باز کنید یا با نگهدارنده پروژه در تماس بگیرید.
+| File/Folder         | Description                        |
+|:--------------------|:-----------------------------------|
+| `http.txt`          | HTTP proxies list                  |
+| `https.txt`         | HTTPS proxies list                 |
+| `socks4.txt`        | SOCKS4 proxies list                |
+| `socks5.txt`        | SOCKS5 proxies list                |
+| `mtproto.txt`       | MTProto proxies for Telegram       |
+| `wireguard/`        | WireGuard VPN configs              |
+| `v2ray/`            | VMess/VLESS configs                |
+| `trojan/`           | Trojan configs                     |
+| `hysteria/`         | Hysteria configs                   |
+| `tuic/`             | Tuic configs                       |
+| ...                 | And more!                          |
 
 ---
 
-## 🙏 قدردانی
+## 🚀 Getting Started
 
-تشکر از ارائه‌دهندگان لیست‌های پروکسی متن‌باز  
-این پروژه با ❤️ برای جامعه کاربران پروکسی ساخته شده است.
+1. **Browse or Download:**  
+   Visit this repository and download the file(s) you need.
+
+2. **Choose Your Proxy/Config:**  
+   - For Telegram → use `mtproto.txt`
+   - For browsers/games → try `http.txt`, `socks5.txt`, etc.
+   - For VPN clients → use configs from `wireguard/`, `v2ray/`, `trojan/`, etc.
+
+3. **Setup & Use:**
+   - **Telegram:**  
+     Go to `Settings` → `Data and Storage` → `Proxy` → `Add Proxy` and paste details from `mtproto.txt`.
+   - **Apps/Browsers:**  
+     Enter IP and Port from the chosen file in your app’s proxy settings.
+   - **VPN Clients:**  
+     Import config files directly or copy details as required.
+
+4. **Test & Optimize:**  
+   Select the best performing proxy/config based on speed, ping, and location.
+
 ---
 
-## 📊 Stargazers
-<p align="center">
-  <img src="https://starchart.cc/Argh94/Proxy-List.svg?variant=adaptive" alt="Stargazers over time" />
-</p>
+## 📝 Example: Add MTProto Proxy in Telegram
+
+1. Open **Telegram Settings**.
+2. Go to **Data and Storage → Proxy Settings**.
+3. Tap **Add Proxy** and select **MTProto**.
+4. Paste a line from `mtproto.txt` and save!
+
+---
+
+## ⚠️ Notes
+
+- Proxies/configs are publicly scraped – performance and uptime may vary.
+- Always test before using for sensitive activities.
+- Respect the laws of your country regarding proxy/VPN usage.
+
+---
+
+## 🤝 Contributing
+
+Help us improve!  
+- Add new sources  
+- Report dead proxies  
+- Submit a [Pull Request](https://github.com/Argh94/Proxy-List/pulls) or [open an Issue](https://github.com/Argh94/Proxy-List/issues)
+
+---
+
+## 📜 License
+
+Currently **No license specified** – please use responsibly or suggest a license via PR.
+
+---
+
+**Wishing you a free and secure internet!** 🌐🕊️
+
 ---
