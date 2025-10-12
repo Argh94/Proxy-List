@@ -1,2 +1,2 @@
-tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3,spdy/3.1#FI   TUIC-TCP-NTLS - Aeza International Ltd  79.137.206.126
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@tuic4.cpionline.us:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX   TUIC-TCP-NTLS  None
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB   TUIC-TCP-NTLS - AS-VULTR  64.176.191.133
+tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@2a12:5940:71f8::2:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3,spdy/3.1#NL   TUIC-TCP-NTLS - Aeza International Ltd  2a12:5940:71f8::2
