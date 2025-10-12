@@ -51,58 +51,53 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:2381?sni=www.nintendogam
 trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?sni=www.nintendogames.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2002
 trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560&host=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2066
 trojan://installshield@176.97.68.153:8443?sni=176.97.68.153&allowInsecure=1&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001
-trojan://z3u6rhbd-81hf-wf1h-223f-0hikvvln59dh@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/10/12 | 04:38
-trojan://82qvrbe6-0r9m-cyi7-anoo-mcr5ma7tkqbx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1w2k1l7u-mlfb-itue-fb6n-yj3nr0bjl5b7@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
-trojan://auto@172.64.35.168:443?sni=b96ef9ae.trojanfree-76s.pages.dev&peer=b96ef9ae.trojanfree-76s.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.35.168
-trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
-trojan://psycho@104.21.48.1:443?sni=pSychO.sueX12.IR&peer=pSychO.sueX12.IR&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.48.1
-trojan://telegram-id-privatevpns@35.177.223.124:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#GB   TROJAN-TCP-TLS - AMAZON-02  35.177.223.124
-trojan://395ab0f4-5fed-40e1-a96f-1a9568a2ccfc@id.artunnel57.host:443?sni=id.artunnel57.host&peer=id.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://bpb-trojan@104.18.37.111:443?sni=mindrOOm-5cz.pAgEs.dEV&peer=mindrOOm-5cz.pAgEs.dEV&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.37.111
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?sni=aio.zipzap.biz.id&peer=aio.zipzap.biz.id&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.156.25
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?sni=amin.karkas1.ir&peer=amin.karkas1.ir&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@15.188.175.202:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.175.202
-trojan://telegram-id-directvpn@18.170.178.186:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#GB   TROJAN-TCP-TLS - AMAZON-02  18.170.178.186
-trojan://maradona_vpn@maradona_vpn11.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://bpb-trojan@104.26.4.60:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.4.60
-trojan://Watashi_VPN@104.18.27.94:8443?sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&peer=t-watashi-r-jacket-o-people-jan.watashi-java.ir&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.27.94
-trojan://telegram-id-directvpn@15.188.242.55:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.242.55
-trojan://ceffeae2-facc-4ce9-a7ee-554db02e619d@singapore.artunnel57.host:443?sni=singapore.artunnel57.host&peer=singapore.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://maradona_vpn@maradona_vpn2.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://saMgiangGt@art5.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://Maradona_vpn@maradona_vpn6.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://28898b61-10c8-40ab-aa6a-68e23ff97843@xray.artunnel57.host:443?sni=xray.artunnel57.host&peer=xray.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL   TROJAN-TCP-TLS - Scaleway S.a.s.  51.15.86.181
-trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:443?sni=frankfurt.artunnel57.host&peer=frankfurt.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@18.193.171.224:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.193.171.224
-trojan://telegram-id-privatevpns@13.43.8.32:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#GB   TROJAN-TCP-TLS - AMAZON-02  13.43.8.32
-trojan://253bc477d4e43c209f2d427272968280@58.152.53.94:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.53.94
-trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES   TROJAN-TCP-TLS - OVH SAS  141.227.128.69
-trojan://b7a4cec5-1f03-4a01-9c25-abee5b801d14@multiport.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
-trojan://telegram-id-privatevpns@54.78.141.167:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE   TROJAN-TCP-TLS - AMAZON-02  54.78.141.167
-trojan://40f256db-09d7-4b3a-83c6-a68cd45b3d34@uae.artunnel57.host:443?sni=uae.artunnel57.host&peer=uae.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://4134219f-2384-449c-92e9-50fe8474c30a@mumbai-m2.4422331.xyz:10086?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://e6b506e9-2d37-40cb-aff9-35678d0e6c69@amin.karkas1.ir:443?sni=amin.karkas1.ir&peer=amin.karkas1.ir&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@15.188.36.211:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.36.211
-trojan://cba32ac1-abbb-4371-ba50-19eb5c38748c@135.181.253.237:443?sni=xvqn.de&peer=xvqn.de&security=tls#FI   TROJAN-TCP-TLS - Hetzner Online GmbH  135.181.253.237
-trojan://maradona_vpn@maradona_vpn3.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@63.180.34.20:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.180.34.20
-trojan://telegram-id-directvpn@51.44.130.78:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  51.44.130.78
-trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?sni=t6.teslacdn2.live&peer=t6.teslacdn2.live&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  217.182.76.235
+trojan://c2hkb53i-s5rp-4ec6-c4hk-v65hre7zx4ol@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/10/12 | 07:53
+trojan://jwxtkpqy-px67-4g33-q49q-bh3sab5q6t30@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://69u97q2p-qqlz-by3e-ffis-mf3giq4ygdf0@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://telegram-id-privatevpns@15.236.166.144:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.236.166.144
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@us2.trojanvh.xyz:80?sni=us2.trojanvh.xyz&peer=us2.trojanvh.xyz&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?sni=cloudflare.node-ssl.cdn-alibaba.com&peer=cloudflare.node-ssl.cdn-alibaba.com&security=tls#HK   TROJAN-TCP-TLS - VCL-147-149513  103.181.165.218
-trojan://cEb_dB5HwUHAoP60X2kP-Q@nl.tuiem.com:81?security=none#NL   TROJAN-TCP-NTLS - DIGITALOCEAN-ASN  178.62.252.32
-trojan://auto@162.159.44.192:443?sni=b96ef9ae.trojanfree-76s.pages.dev&peer=b96ef9ae.trojanfree-76s.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.44.192
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
-trojan://maradona_vpn@maradona_vpn6.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://22dxmxezsm@pouriya.cf:443?sni=brec3xLN7Zl2.pouriya.cf&peer=brec3xLN7Zl2.pouriya.cf&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net&peer=x1fr-ovh.devefun.net&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  51.68.13.106
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?sni=amin.karkas1.ir&peer=amin.karkas1.ir&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-privatevpns@13.61.60.200:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE   TROJAN-TCP-TLS - AMAZON-02  13.61.60.200
+trojan://WyRE1b2elC@map.wimax.cc:8443?sni=map.wimax.cc&peer=map.wimax.cc&security=tls#US   TROJAN-TCP-TLS - OVH SAS  51.81.155.59
+trojan://0dd9c2ad-1a7e-435b-8e97-909957ca1724@xray.artunnel57.host:443?sni=xray.artunnel57.host&peer=xray.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://saMgiangGt@art4.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://7d47fe63-71ce-4966-b962-218e4ed0c83c@newyork.artunnel57.host:443?sni=newyork.artunnel57.host&peer=newyork.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://auto@172.67.49.134:443?sni=trojanfree-76s.pages.dev&peer=trojanfree-76s.pages.dev&security=tls#XX   TROJAN-TCP-TLS  172.67.49.134
+trojan://telegram-id-directvpn@15.237.33.236:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.237.33.236
+trojan://saMgiangGt@art2.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://1eb9fcd3-4875-4eae-a66e-bb054b84384d@id.artunnel57.host:443?sni=id.artunnel57.host&peer=id.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
 trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:443?sni=sg.multiport1.artunnel57.host&peer=sg.multiport1.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://telegram-id-privatevpns@3.78.152.130:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.78.152.130
 trojan://33807240-47f7-4ac4-88af-21367db8ba6e@newyork.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
-trojan://telegram-id-directvpn@15.222.9.61:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA   TROJAN-TCP-TLS - AMAZON-02  15.222.9.61
-trojan://saMgiangGt@maradona6.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@35.180.220.246:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  35.180.220.246
+trojan://2a7fdc9d-5811-464d-b30d-50e831c12a3f@london.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
+trojan://zY0HGcoAcY2v@www.speedtest.net:443?sni=SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv&peer=SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.148.22
+trojan://c8e1be0e-b8e9-48a6-ad7c-2627a64e3b3d@singapore.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#TR   TROJAN-TCP-TLS - Meric Internet Teknolojileri A.S.  194.146.26.40
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?sni=aio.zipzap.biz.id&peer=aio.zipzap.biz.id&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.156.25
+trojan://b7a4cec5-1f03-4a01-9c25-abee5b801d14@multiport.artunnel57.host:443?sni=YourBugHost&peer=YourBugHost&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#SG   TROJAN-TCP-TLS - AMAZON-02  13.250.177.51
+trojan://telegram-id-directvpn@51.44.130.78:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  51.44.130.78
+trojan://971ff4bb-1f8e-4651-ad9d-5adfaf1647c4@bangalore.artunnel57.host:443?sni=bangalore.artunnel57.host&peer=bangalore.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://Maradona_vpn@maradona_vpn10.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?sni=speedtest.net&peer=speedtest.net&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  51.91.11.29
+trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH   TROJAN-TCP-TLS - OVH SAS  141.227.138.29
+trojan://telegram-id-privatevpns@54.78.141.167:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE   TROJAN-TCP-TLS - AMAZON-02  54.78.141.167
+trojan://4134219f-2384-449c-92e9-50fe8474c30a@mumbai-m2.4422331.xyz:10086?security=tls#XX   TROJAN-TCP-TLS  None
+trojan://bpb-trojan@185.176.24.2:443?sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&peer=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  185.176.24.2
+trojan://xl87654321@stonebreak.online:443?sni=stonebreak.online&peer=stonebreak.online&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://b7a4cec5-1f03-4a01-9c25-abee5b801d14@multiport.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
+trojan://cd27884b-c5af-34ec-b75f-8248077818fe@b.mg.us.cat77.cloud:5215?security=tls#XX   TROJAN-TCP-TLS  None
+trojan://saMgiangGt@art5.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:443?sni=frankfurt.artunnel57.host&peer=frankfurt.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://%3AbC5%5Elakx%3E$d@fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev:443?sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv&peer=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.46.247
+trojan://xxoo@146.19.230.241:443?security=tls#GB   TROJAN-TCP-TLS - Pq Hosting Plus S.r.l.  146.19.230.241
+trojan://Maradona_vpn@185.59.218.220:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  185.59.218.220
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?sni=amin.karkas1.ir&peer=amin.karkas1.ir&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://maradona_vpn@maradona_vpn12.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231?sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com&peer=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com&security=tls#CN   TROJAN-TCP-TLS - China Mobile communications corporation  183.240.180.15
+trojan://maradona_vpn@maradona_vpn1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://telegram-id-privatevpns@52.57.84.177:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  52.57.84.177
+trojan://93446612-cbff-4016-b01b-a683fa73920c@bangalore.artunnel57.host:443?sni=bangalore.artunnel57.host&peer=bangalore.artunnel57.host&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&peer=rc6.freeguard.org&security=tls#US   TROJAN-TCP-TLS - AS-COLOCROSSING  198.23.229.250
+trojan://telegram-id-directvpn@13.39.213.129:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  13.39.213.129
+trojan://Maradona_vpn@maradona_vpn7.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://bpb-trojan@104.26.4.60:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.4.60
