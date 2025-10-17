@@ -1,12 +1,9 @@
-hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.243.187
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@2a0c:4ac1:8::2ae:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::2ae
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?sni=hshl.huasuan666.top&insecure=1#NL   HYSTERIA2-TCP-NTLS - NKtelecom INC  195.133.79.116
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?sni=fus01.mistea.top&insecure=1#US   HYSTERIA2-TCP-NTLS - DARTNODE  108.165.213.197
 hysteria2://b02327ac-a49a-11ef-a673-f23c913c8d2b@a4c80725-t48f40-t7udc0-1pqhp.us.hyhuawei.com:443?sni=a4c80725-t48f40-t7udc0-1pqhp.us.hyhuawei.com&insecure=0#US   HYSTERIA2-TCP-NTLS - SHARKTECH  107.167.18.99
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsxg.huasuan666.top:22153?sni=hsxg.huasuan666.top&insecure=1#HK   HYSTERIA2-TCP-NTLS - ASNET  103.136.150.23
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35200?insecure=0&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - AS-VULTR  185.92.220.240
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  51.159.111.32
+hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.40
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.243.187
+hysteria2://aad0f592-2bcb-452e-a858-fd05622a0db1@2001:470:1f04:24e:cf93:2356:cbd8:1212:57132?insecure=1#US   HYSTERIA2-TCP-NTLS - HURRICANE  2001:470:1f04:24e:cf93:2356:cbd8:1212
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
