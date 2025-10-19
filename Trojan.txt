@@ -1,63 +1,94 @@
-trojan://n5tnqa1z-nv5u-c33q-xl7z-j3435z2ypris@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/10/18 | 23:42
-trojan://lk458iua-i2wj-r01p-x5q5-n60m6tpjcaxy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8esaeykg-1u8k-ymxy-647z-umon0f89gbbn@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://k64t1uy8-cbue-bw1j-eq8z-bqmnh0go5idx@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/10/19 | 04:21
+trojan://k2hs1sil-widq-j9ku-cmuz-f384hh714kt9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vewgf3ei-537m-veph-h7wa-3nl6hnwnxp3z@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://tunnel-v2ray_configs_pools_official-pl@pl-1.stunnel.cc:8441?sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&peer=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&security=tls#PL   TROJAN-TCP-TLS - OVH SAS  51.77.59.0
+trojan://auto@172.66.45.2:443?sni=dcf741e8.epeius-2gy.pages.dev&peer=dcf741e8.epeius-2gy.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.45.2
+trojan://telegram-id-privatevpns@51.21.59.141:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE   TROJAN-TCP-TLS - AMAZON-02  51.21.59.141
+trojan://redfree8@104.17.148.22:80?security=none#XX   TROJAN-TCP-NTLS - CLOUDFLARENET  104.17.148.22
+trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://telegram-id-privatevpns@3.121.146.203:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.121.146.203
+trojan://bpb-trojan@23.227.60.8:443?sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&peer=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&security=tls#CA   TROJAN-TCP-TLS - CLOUDFLARENET  23.227.60.8
+trojan://telegram-id-privatevpns@63.177.201.129:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.177.201.129
+trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz&peer=nodes.830901.xyz&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  135.125.232.253
+trojan://telegram-id-privatevpns@63.178.172.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.178.172.63
+trojan://01TELEGRAM-ID-conf0088@abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au:22878?security=tls#XX   TROJAN-TCP-TLS  None
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?sni=jobscareertoday.com&peer=jobscareertoday.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.147.5
+trojan://telegram-id-privatevpns@35.181.217.224:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  35.181.217.224
+trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  104.248.18.1
+trojan://telegram-id-privatevpns@13.37.24.11:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  13.37.24.11
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org&peer=ftp.debian.org&security=tls#NL   TROJAN-TCP-TLS - Pq Hosting Plus S.r.l.  185.236.233.111
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.131.243
-trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10-Bpb-WOrKer-paneL.pagEs.DeV&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://atioxPSs6L@gsjcjkskfkdkkv.iranshopping.xyz:2052?security=tls#IR   TROJAN-TCP-TLS - Noyan Abr Arvan Co. ( Private Joint Stock)  188.121.107.65
+trojan://BxceQaOe@36.151.195.112:4556?sni=36.151.195.112&peer=36.151.195.112&security=tls#CN   TROJAN-TCP-TLS - China Mobile communications corporation  36.151.195.112
+trojan://c253e9f7-3209-4a78-8e8f-8f5ca362b020@cdnfire.xiaomispeed.com:21104?sni=cdnfire.xiaomispeed.com&peer=cdnfire.xiaomispeed.com&security=tls#TW   TROJAN-TCP-TLS - Data Communication Business Group  220.130.58.138
+trojan://02XtoczO7V@104.17.247.140:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.247.140
+trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?sni=nl.xtls.sitespeedtest.net&peer=nl.xtls.sitespeedtest.net&security=tls#NL   TROJAN-TCP-TLS - Baykov Ilya Sergeevich  194.147.33.207
+trojan://telegram-id-privatevpns@3.123.147.205:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.123.147.205
+trojan://02XtoczO7V@104.25.149.137:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.25.149.137
+trojan://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?sni=joss.krikkrik.xyz&peer=joss.krikkrik.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.33.216
+trojan://telegram-id-privatevpns@15.188.172.113:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.172.113
+trojan://745654@154.3.37.9:443?sni=hk.cestbon.work&peer=hk.cestbon.work&security=tls#HK   TROJAN-TCP-TLS - DMIT  154.3.37.9
+trojan://tunnel-astrovpn_official918@195.133.92.56:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&security=tls#PT   TROJAN-TCP-TLS - ASNET  195.133.92.56
+trojan://f0532122-948c-46cf-a392-15cc8233d1c0@145.239.237.92:443?sni=t1.teslacdn2.live&peer=t1.teslacdn2.live&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  145.239.237.92
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?sni=10-bpB-woRKer-pANeL.pAGes.dev&peer=10-bpB-woRKer-pANeL.pAGes.dev&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#XX   TROJAN-TCP-REALITY  None
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?sni=$fr1.trojanvh.xyz&peer=$fr1.trojanvh.xyz&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  51.91.11.29
-trojan://telegram-id-privatevpns@51.45.17.91:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  51.45.17.91
-trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?sni=joss.krikkrik.xyz&peer=joss.krikkrik.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.192.215
-trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL   TROJAN-TCP-TLS - Scaleway S.a.s.  51.15.86.181
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE   TROJAN-TCP-TLS - Advin Services LLC  146.19.215.81
-trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?sni=jobscareerfortoday.com&peer=jobscareerfortoday.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.61.7
-trojan://xl87654321@stonebreak.online:443?sni=stonebreak.online&peer=stonebreak.online&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://@Geek_Spot@176.97.210.2:12882?security=tls#DE   TROJAN-TCP-TLS - Tube-Hosting  176.97.210.2
-trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://slch2024@209.94.90.195:2096?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#US   TROJAN-TCP-TLS - PROTOCOL  209.94.90.195
-trojan://telegram-id-privatevpns@13.39.90.33:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  13.39.90.33
-trojan://02XtoczO7V@104.19.111.152:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.111.152
-trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none#XX   TROJAN-TCP-NTLS  None
-trojan://4134219f-2384-449c-92e9-50fe8474c30a@mumbai-m2.4422331.xyz:10086?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://Bw5Mz7QkVp@70.34.206.32:443?sni=z-v2-077787.kailib.com&peer=z-v2-077787.kailib.com&security=tls#SE   TROJAN-TCP-TLS - AS-VULTR  70.34.206.32
-trojan://bpb-trojan@104.21.30.195:443?sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&peer=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.30.195
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@2.hg.kr.cat77.cloud:8443?sni=2.hg.kr.cat77.cloud&peer=2.hg.kr.cat77.cloud&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&peer=chatbuzzteambhm.chatbuzzt7150.workers.dev&security=tls#DE   TROJAN-TCP-TLS - OVH SAS  54.38.156.210
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#CN   TROJAN-TCP-TLS - Chinanet  119.147.118.191
-trojan://telegram-id-directvpn@18.193.171.224:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.193.171.224
-trojan://tunnel-astrovpn_official928@206.206.126.109:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&security=tls#SG   TROJAN-TCP-TLS - OVH SAS  206.206.126.109
-trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  51.91.97.39
-trojan://telegram-id-privatevpns@35.180.53.192:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  35.180.53.192
-trojan://ttfang@45.131.4.216:2096?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  45.131.4.216
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?sni=www.baidu.com&peer=www.baidu.com&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.138.24
 trojan://telegram-id-privatevpns@35.181.218.22:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  35.181.218.22
-trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@t3.teslacdn2.live:443?sni=t3.teslacdn2.live&peer=t3.teslacdn2.live&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
-trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn1.868863.xyz:443?sni=tt-a5-cdn.the-best-airport.top#Join+Telegram:@Farah_VPN
-trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#Join+Telegram:@Farah_VPN
-trojan://telegram-id-privatevpns@3.127.101.4:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://xxoo@138.124.183.226:443?security=tls#US   TROJAN-TCP-TLS - WorkTitans B.V.  138.124.183.226
+trojan://01TELEGRAM-ID-conf0088@verymad.net.verymad.net:22878?security=tls#XX   TROJAN-TCP-TLS  None
+trojan://iwangjie@138.124.118.34:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2Fproxyip%3Dproxyip.fxxk.dedyn.io#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?allowInsecure=0&sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@141.94.68.216:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@135.125.232.253:2053?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://iwangjie@83.147.254.185:443?allowInsecure=0&sni=nodes.830901.xyz&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://BxceQaOe@36.151.195.112:4556?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.195.112:4556?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:316?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn3.868863.xyz:443?allowInsecure=0&sni=tt-c5-cdn.the-best-airport.top&ws=1&wspath=%2Fvideomuaawe#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn1.868863.xyz:443?allowInsecure=0&sni=tt-a5-cdn.the-best-airport.top&ws=1&wspath=%2Fagraeabtegrrh#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
+trojan://BxceQaOe@36.151.195.112:4556?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:316?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
+trojan://tg-dns68@162.159.153.67:443?security=tls&amp;type=ws&amp;sni=vip.putata.eu.org&amp;host=vip.putata.eu.org#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@63.179.224.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://blue2024@108.162.195.159:443?sni=hb.lii2010.us.kg#Join+Telegram:@Farah_VPN
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#Join+Telegram:@Farah_VPN
-trojan://telegram-id-privatevpns@18.168.239.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Join+Telegram:@Farah_VPN
-trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#Join+Telegram:@Farah_VPN
-trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#Join+Telegram:@Farah_VPN
-trojan://bpb-trojan@162.159.152.227:443?security=tls&amp;sni=cf.090227.xyz&amp;allowInsecure=1&amp;type=tcp#Join+Telegram:@Farah_VPN
-trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#Join+Telegram:@Farah_VPN
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Join+Telegram:@Farah_VPN
+trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x2swe-ovh.devefun.net#Join+Telegram:@Farah_VPN
+trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:2283?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@3.127.101.4:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://tunnel-astrovpn_official927@188.208.110.58:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=188.208.110.58#Join+Telegram:@Farah_VPN
+trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Join+Telegram:@Farah_VPN
+trojan://bpb-trojan@190.93.245.69:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@51.45.17.91:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://telegram-id-directvpn@51.44.130.78:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@3.72.164.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://Aimer@141.11.203.191:8443/?type=tcp&amp;security=tls&amp;sni=epgb.aimercc.dpdns.org&amp;allowInsecure=1#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@15.236.166.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@52.47.52.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://telegram-id-directvpn@35.181.188.39:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://atioxPSs6L@gsjcjkskfkdkkv.iranshopping.xyz:2052?path=/&security=tls&fp=chrome&type=ws#Join+Telegram:@Farah_VPN
+trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&amp;sni=mmbiz10.redapricotcloud.com&amp;type=tcp&amp;headerType=none#Join+Telegram:@Farah_VPN
+trojan://NISHIKUITAN111@172.67.254.32:443?#Join+Telegram:@Farah_VPN
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#Join+Telegram:@Farah_VPN
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?sni=www.baidu.com#Join+Telegram:@Farah_VPN
-trojan://tunnel-astrovpn_official028@92.112.126.22:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=92.112.126.22#Join+Telegram:@Farah_VPN
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?allowInsecure=1&sni=www.baidu.com#Join+Telegram:@Farah_VPN
-trojan://telegram-id-privatevpns@35.181.188.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
+trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#Join+Telegram:@Farah_VPN
+trojan://tunnel-astrovpnofficial1828@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#Join+Telegram:@Farah_VPN
 trojan://telegram-id-directvpn@63.180.91.167:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
-trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
-trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#Join+Telegram:@Farah_VPN
-trojan://telegram-id-privatevpns@3.65.9.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#Join+Telegram:@Farah_VPN
-trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?allowInsecure=0&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Join+Telegram:@Farah_VPN
-trojan://telegram-id-directvpn@13.37.210.69:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Join+Telegram:@Farah_VPN
-trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#Join+Telegram:@Farah_VPN
+trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#Join+Telegram:@Farah_VPN
+trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-jp.05vr9nyqg5.download:13011?allowInsecure=0&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#Join+Telegram:@Farah_VPN
+trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#Join+Telegram:@Farah_VPN
+trojan://tunnel-astrovpn_official928@206.206.126.109:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=206.206.126.109#Join+Telegram:@Farah_VPN
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#Join+Telegram:@Farah_VPN
+trojan://bebffc49-b2d0-4c56-a8df-62d1603446a4@104.21.33.216:443?path=/Free-VPN-CF-Geo-Project/AE2&security=tls&host=joss.krikkrik.xyz&fp=chrome&type=ws&sni=joss.krikkrik.xyz#Join+Telegram:@Farah_VPN
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv#%40Hope_Net-join-us-on-Telegram
