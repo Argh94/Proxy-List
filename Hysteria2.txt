@@ -1,17 +1,16 @@
-hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?sni=bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  3.123.41.12
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1#HK   HYSTERIA2-TCP-NTLS - ASNET  212.192.13.191
-hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - EL  113.192.61.19
-hysteria2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443?sni=www.microsoft.com&insecure=1#JP   HYSTERIA2-TCP-NTLS - KAGOYA JAPAN Inc.  133.18.163.202
+hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?sni=www.bing.com&insecure=1#NL   HYSTERIA2-TCP-NTLS - DELUXHOST  85.208.9.189
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?sni=d.eans.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - DASABO OU  31.57.241.25
+hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@2a14:3f87:f001:1a::a:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:1a::a
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  51.159.111.32
+hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:9::a
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?sni=bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Tech Tide Portugal Unipessoal LDA  94.249.150.59
+hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?sni=bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - PONYNET  209.141.37.115
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  2001:bc8:32d7:302::11
+hysteria2://8f43835e-10b3-4744-915c-cecb33ee7ff2@2604:6600:2000:c::3f:443?insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  2604:6600:2000:c::3f
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.243.187
 hysteria2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  5.231.70.146
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - AS-VULTR  185.92.220.240
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=lsj3.mangshe.xyz&insecure=1#US   HYSTERIA2-TCP-NTLS - AS-COLOCROSSING  204.152.198.162
-hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@tw2.xn--9kqw1xbnu.shop:443?insecure=1#TW   HYSTERIA2-TCP-NTLS - Data Communication Business Group  114.44.81.74
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://56c8cfae-dc99-4d28-ac7a-da8800f26c29@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?sni=banmabanmabanmabanmabanmabanma4.wanlidag.top&insecure=1#US   HYSTERIA2-TCP-NTLS - RELIABLESITE  151.243.168.76
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?sni=fus02.mistea.top&insecure=1#US   HYSTERIA2-TCP-NTLS - DARTNODE  38.45.89.97
-hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#GB   HYSTERIA2-TCP-NTLS - Iomart Cloud Services Limited  81.168.83.89
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - NKtelecom INC  213.108.198.123
+hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@2a0c:4ac1:8::121:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::121
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
