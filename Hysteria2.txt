@@ -1,28 +1,31 @@
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?sni=Singaporex-4.nezhasu.com&insecure=1#SG   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  140.245.35.215
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?sni=gy6.nezhasu.com&insecure=1#MX   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  163.192.132.155
-hysteria2://7daa4a7f-f76e-4941-84bd-c6004cdbb859@tr1.oomz.ru:30000?sni=bing.com&insecure=1#TR   HYSTERIA2-TCP-NTLS - Meric Internet Teknolojileri A.S.  31.40.205.73
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&insecure=0&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - AS-VULTR  185.92.220.240
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?sni=Amsterdam.nezhasu.com&insecure=1#NL   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  141.148.246.181
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?sni=mumbai-4.nezhasu.com&insecure=1#IN   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  80.225.219.253
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?sni=falankefu1.nezhasu.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  79.76.117.160
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102?insecure=1#US   HYSTERIA2-TCP-NTLS - OVH SAS  51.81.223.22
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?sni=bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Tech Tide Portugal Unipessoal LDA  94.249.197.95
-hysteria2://7daa4a7f-f76e-4941-84bd-c6004cdbb859@hk1.oomz.ru:50000?sni=bing.com&insecure=1#HK   HYSTERIA2-TCP-NTLS - HKT Limited  209.9.201.202
-hysteria2://4e084535-bd62-458b-84a2-a0dc57c957aa@us2083.yydzx.xyz:13504?sni=us2083.yydzx.xyz&insecure=0#US   HYSTERIA2-TCP-NTLS - SYSTEMINPLACE  104.250.239.166
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=1#MX   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  159.54.157.23
-hysteria2://dongtaiwang.com@163.172.21.105:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  163.172.21.105
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#HK   HYSTERIA2-TCP-NTLS - Ultahost, Inc.  192.142.4.13
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?insecure=1#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
-hysteria2://764002d9-0a5b-469c-9897-cc67a85d493b@kr.xn--gmq00sc0nuve.shop:21216?sni=kr.xn--gmq00sc0nuve.shop&insecure=0#US   HYSTERIA2-TCP-NTLS - Kaopu Cloud HK Limited  38.54.40.10
-hysteria2://77bdbc78-d2fd-44d7-889e-3364ad77307c@xjp1.qucloud.top:58430?sni=xjp1.qucloud.top&insecure=1#US   HYSTERIA2-TCP-NTLS - AS-COLOCROSSING  107.175.75.47
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443?sni=Valparaiso-1.nezhasu.cn&insecure=1#CL   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  165.1.121.165
-hysteria2://de81cf6b-0d2f-42be-ac60-a3b734216739@pq.us3.globals-download.com:35000?sni=tv.apple.com&insecure=1#US   HYSTERIA2-TCP-NTLS - NATOLAB  134.195.101.121
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?sni=www.bing.com&insecure=1#CA   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  40.233.103.51
-hysteria2://c8750ad3-8ba9-4b33-bbdb-e7798845a629@15.204.129.38:33333?insecure=1#US   HYSTERIA2-TCP-NTLS - OVH SAS  15.204.129.38
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  2001:bc8:32d7:302::11
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#KR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  158.180.77.90
+hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?sni=us11.588878.xyz&insecure=1&obfs=salamander#XX   HYSTERIA2-TCP-NTLS  None
+hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.40
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?sni=SanJose.nezhasu.com&insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  64.181.231.239
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#KR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  140.245.68.133
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?sni=www.bing.com&insecure=1#NL   HYSTERIA2-TCP-NTLS - DELUXHOST  85.208.9.189
-hysteria2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  5.231.70.146
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@2a0c:4ac1:8::2ae:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::2ae
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::121
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-2.nezhasu.com:443?sni=mumbai-2.nezhasu.com&insecure=1#IN   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  141.148.193.250
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@139.99.89.107:30002?insecure=1#SG   HYSTERIA2-TCP-NTLS - OVH SAS  139.99.89.107
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443?sni=ylsl.nezhasu.com&insecure=1#IL   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  129.159.135.167
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - EL  113.192.61.19
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?sni=d.eans.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - DASABO OU  31.57.241.25
+hysteria2://710488f0-d6f3-4587-90f9-6703ef7bd57a@lsxg1.lansecs.top:58338?sni=lsxg1.lansecs.top&insecure=1#HK   HYSTERIA2-TCP-NTLS - WAP.AC LTD  45.149.92.33
+hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&insecure=1&obfs=salamander#GB   HYSTERIA2-TCP-NTLS - Iomart Cloud Services Limited  81.168.83.89
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-2.nezhasu.cn:443?sni=Valparaiso-2.nezhasu.cn&insecure=1#CL   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  165.1.121.129
+hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander#FI   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  46.62.152.236
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#GB   HYSTERIA2-TCP-NTLS - ASNET  91.149.238.71
+hysteria2://764002d9-0a5b-469c-9897-cc67a85d493b@kr.xn--gmq00sc0nuve.shop:21216?sni=kr.xn--gmq00sc0nuve.shop&insecure=0#US   HYSTERIA2-TCP-NTLS - Kaopu Cloud HK Limited  38.54.40.10
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ashburn.nezhasu.com:443?sni=ashburn.nezhasu.com&insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.162.101
+hysteria2://7daa4a7f-f76e-4941-84bd-c6004cdbb859@de1.oomz.ru:30000?sni=bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  92.5.59.208
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#BR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.226.162.10
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#BR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  144.22.187.105
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.21.45
+hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#XX   HYSTERIA2-TCP-NTLS  None
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#%40V2rayNG3%20%2310
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338/?insecure=1&sni=lsyd1.lansecs.top#https://t.me/ShadowsocksM22
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecure=1&sni=lsyd1.lansecs.top#MCI-IR--%40V2rayAlpha-16
@@ -98,7 +101,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@db1.nezhasu.com:443?security=tl
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@db1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=db1.nezhasu.com#%F0%9F%A7%B899%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#%40meli_proxyy
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40oneclickvpnkeys
@@ -227,6 +229,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443/?m
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%8D%A594%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%8E%8D78%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=Tokyo.nezhasu.com#%F0%9F%8F%8572%40oneclickvpnkeys
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=Tokyo.nezhasu.com#
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Tokyo.nezhasu.com#%F0%9F%8F%8572%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Tokyo.nezhasu.com#1%F0%9F%A7%B8%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443/?mport=50000-65535&insecure=1&sni=Valparaiso-1.nezhasu.cn#%F0%9F%8F%8571%40oneclickvpnkeys
@@ -418,6 +421,7 @@ hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=t
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#MCI-IR--%40V2rayAlpha-7
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#MCI-IR--@V2rayAlpha-7
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#Telegram=@SOSkeyNET
+hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&insecure=1#
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?insecure=1&obfs=salamander&obfs-password=bipbip#%40V2rayNG3%20%2311
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#@V2rayNG3
@@ -506,7 +510,6 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1#@v2ray_configs_pool
 hysteria2://YwuvGJk36B@81.168.83.89:2083?sni=
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%235
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@Selinc
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%236
@@ -647,6 +650,13 @@ hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni= [By EbraS
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni= [By EbraSha]&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%2317
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni= [By EbraSha]&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%2322
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni= [By EbraSha]&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%2327
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=Amsterdam.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun1.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun2.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun3.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun4.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun4.nezhasu.com#Telegram = @SOSkeyNET
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@marseille-1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=marseille-1.nezhasu.com#Telegram = @SOSkeyNET
 hy2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338/?insecure=1&sni=lsyd1.lansecs.top#https://t.me/ShadowsocksM22
 hy2://06c625ea-5902-11ee-9e87-f23c9313b177@f1d942ca-t3bpc0-t3ss2y-4mce.la.shifen.uk:1743/?sni=f1d942ca-t3bpc0-t3ss2y-4mce.la.shifen.uk#https://t.me/ShadowsocksM30
 hy2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:45311/?sni=
