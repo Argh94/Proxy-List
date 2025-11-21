@@ -1,70 +1,131 @@
-trojan://gci5li6i-kxl9-w51i-2rw4-knup2xzfdr4w@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/11/20 | 23:44
-trojan://v0oufxhd-wemy-4fp7-31ne-4cpl3rwjh5bs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f9uixabw-4a93-2tmo-s8xb-06d60aj7qktb@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
-trojan://Aimer@108.165.152.78:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.152.78
-trojan://2AAF5UEsSd@37.27.249.93:20000?security=none#FI   TROJAN-TCP-NTLS - Hetzner Online GmbH  37.27.249.93
-trojan://BxceQaOe@58.152.26.173:443?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.26.173
-trojan://LxJCPOP40a@206.206.77.237:51469?sni=cloudflare.com&peer=cloudflare.com&security=reality#SG   TROJAN-TCP-REALITY - Regxa Company for Information Technology Ltd  206.206.77.237
-trojan://BxceQaOe@219.79.165.55:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  219.79.165.55
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?sni=wus05.weyaf9sdoh2h.space&peer=wus05.weyaf9sdoh2h.space&security=tls#US   TROJAN-TCP-TLS - VCL-147-149513  23.186.200.111
-trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?sni=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO&peer=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.65.123
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@203.198.122.135:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  203.198.122.135
+trojan://tfnh3rev-sif0-toj8-gy7l-23hewolg3bq3@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/11/21 | 04:17
+trojan://0yrvr1k9-ulyh-nsgi-0vsg-88s3nyqhjh3d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://84egbuaw-aect-9tg2-weex-gg6y3py6far1@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#GB   TROJAN-TCP-TLS - OVH SAS  91.199.32.191
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?sni=uk2.safecdn.site&peer=uk2.safecdn.site&security=tls#MD   TROJAN-TCP-TLS - Pq Hosting Plus S.r.l.  94.131.122.157
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?sni=temporaltortellini.click&peer=temporaltortellini.click&security=tls#US   TROJAN-TCP-TLS - Kaopu Cloud HK Limited  149.104.92.121
+trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls#HK   TROJAN-TCP-TLS - ANTI-DDOS  45.158.22.33
+trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@us2.trojanvh.xyz:80?sni=us2.trojanvh.xyz&peer=us2.trojanvh.xyz&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://xl87654321@stonebreak.online:443?sni=stonebreak.online&peer=stonebreak.online&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://telegram-id-privatevpns@52.19.49.176:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE   TROJAN-TCP-TLS - AMAZON-02  52.19.49.176
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.131.243
 trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@t3.teslacdn2.live:443?sni=t3.teslacdn2.live&peer=t3.teslacdn2.live&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.116.227
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?sni=wus04.weyaf9sdoh2h.space&peer=wus04.weyaf9sdoh2h.space&security=tls#US   TROJAN-TCP-TLS - VCL-147-149513  23.186.200.110
-trojan://trojan@109.234.211.66:2087?security=tls#ES   TROJAN-TCP-TLS - CLOUDFLARENET  109.234.211.66
-trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?sni=CVFgTrE4.222560.XyZ&peer=CVFgTrE4.222560.XyZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.149.202
-trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#DE   TROJAN-TCP-TLS - OVH SAS  57.129.16.72
-trojan://telegram-id-privatevpns@63.179.9.91:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.179.9.91
-trojan://telegram-id-v2rayvpnchannel@18.198.122.60:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.198.122.60
-trojan://telegram-id-directvpn@44.193.210.156:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  44.193.210.156
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?sni=sweetdream.sweetthunder.click&peer=sweetdream.sweetthunder.click&security=tls#FR   TROJAN-TCP-TLS - AS-VULTR  217.69.10.156
-trojan://Go5e2nKM8P@188.42.88.252:2083?sni=aa.v2jey.fun&peer=aa.v2jey.fun&security=tls#LU   TROJAN-TCP-TLS - Cloudflare London, LLC  188.42.88.252
-trojan://8OXD5VVt8s@176.32.39.29:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#RU   TROJAN-TCP-REALITY - LLC Baxet  176.32.39.29
-trojan://BxceQaOe@58.152.25.241:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.25.241
-trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939?sni=xuhyqrwofidgl.zwodhfgqaps.click&peer=xuhyqrwofidgl.zwodhfgqaps.click&security=tls#MX   TROJAN-TCP-TLS - AS-VULTR  216.238.94.42
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#CN   TROJAN-TCP-TLS - Cloudie Limited  221.128.195.9
-trojan://auto@104.21.48.61:443?sni=nameless-term-9c25.vpnconnect202020.workers.dev&peer=nameless-term-9c25.vpnconnect202020.workers.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.48.61
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@b.mg.us.cat77.cloud:5215?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?sni=present-blowfish.sunbeam921.monster&peer=present-blowfish.sunbeam921.monster&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@35.93.73.121:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  35.93.73.121
-trojan://telegram-id-directvpn@18.153.170.41:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.153.170.41
-trojan://8T7egv3W4T@91.107.252.182:26805?security=none#DE   TROJAN-TCP-NTLS - Hetzner Online GmbH  91.107.252.182
-trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?sni=soft98.ir&peer=soft98.ir&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  165.22.30.47
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@89.163.224.122:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE   TROJAN-TCP-TLS - WIIT AG  89.163.224.122
-trojan://telegram-id-directvpn@3.219.34.229:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  3.219.34.229
-trojan://telegram-id-directvpn@3.123.87.45:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.123.87.45
-trojan://telegram-id-privatevpns@52.57.81.66:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  52.57.81.66
-trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?sni=broker.superpokemon.com&peer=broker.superpokemon.com&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  35.77.216.3
-trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES   TROJAN-TCP-TLS - OVH SAS  141.227.128.69
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19&peer=37.202.200.19&security=tls#JP   TROJAN-TCP-TLS - SKY-SPARK  37.202.200.19
-trojan://BxceQaOe@153.121.65.212:5156?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  153.121.65.212
-trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.81.84
-trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#NL   TROJAN-TCP-TLS - Baykov Ilya Sergeevich  138.124.30.8
-trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls#US   TROJAN-TCP-TLS - ORACLE-BMC-31898  155.248.205.39
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#XX   TROJAN-TCP-REALITY  None
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#SG   TROJAN-TCP-TLS - xTom Pty Ltd  96.9.213.108
-trojan://telegram-id-directvpn@34.231.80.229:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  34.231.80.229
-trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://telegram-id-directvpn@51.21.138.5:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE   TROJAN-TCP-TLS - AMAZON-02  51.21.138.5
+trojan://telegram-id-privatevpns@13.39.62.210:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  13.39.62.210
+trojan://Aimer@46.254.93.251:2087?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  46.254.93.251
+trojan://telegram-id-privatevpns@51.21.59.141:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE   TROJAN-TCP-TLS - AMAZON-02  51.21.59.141
+trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&peer=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&security=tls#EE   TROJAN-TCP-TLS - Brainoza OU  5.188.200.224
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls#NL   TROJAN-TCP-TLS - xTom GmbH  78.142.194.129
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online&peer=nextstepcareer.online&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  165.22.74.230
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#EE   TROJAN-TCP-TLS - Aktsiaselts WaveCom  37.252.5.75
+trojan://bpb-trojan@2606:4700:310c::ac42:2c57:443?sni=10-BpB-worKeR-pAnEL.paGEs.dEV&peer=10-BpB-worKeR-pAnEL.paGEs.dEV&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  2606:4700:310c::ac42:2c57
+trojan://Aimer@160.79.105.133:8443?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - ANTHROPIC  160.79.105.133
+trojan://1e1a7efa-a4f1-4936-a470-a001e0c3c85b@212.227.144.37:8443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#ES   TROJAN-TCP-TLS - IONOS SE  212.227.144.37
+trojan://redfree8@104.17.148.22:80?security=none#XX   TROJAN-TCP-NTLS - CLOUDFLARENET  104.17.148.22
 trojan://telegram-id-privatevpns@15.188.216.8:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.216.8
-trojan://telegram-id-privatevpns@18.170.53.62:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB   TROJAN-TCP-TLS - AMAZON-02  18.170.53.62
-trojan://telegram-id-directvpn@3.228.217.5:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  3.228.217.5
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.124.55
-trojan://trojan@22b.net:2087?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.95.187
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.110.40
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org&peer=rc8.freeguard.org&security=tls#US   TROJAN-TCP-TLS - AS-COLOCROSSING  192.3.107.252
+trojan://amclubs@103.160.204.1:443?sni=tran.amclubstest.nyc.mn&peer=tran.amclubstest.nyc.mn&security=tls#XX   TROJAN-TCP-TLS  103.160.204.1
+trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?sni=cdir-0203.wlfvip.com&peer=cdir-0203.wlfvip.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.97.82
+trojan://telegram-id-privatevpns@52.47.189.11:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  52.47.189.11
+trojan://F6xOQXz%3Drp7yeiNV@134.195.197.69:19579?sni=goodmorning.dancingbrick.click&peer=goodmorning.dancingbrick.click&security=tls#CA   TROJAN-TCP-TLS - AS-GLOBALTELEHOST  134.195.197.69
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?sni=joss.dus.biz.id&peer=joss.dus.biz.id&security=tls#IL   TROJAN-TCP-TLS - Pq Hosting Plus S.r.l.  94.131.114.50
+trojan://telegram-id-privatevpns@52.29.189.85:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  52.29.189.85
 trojan://telegram-id-directvpn@3.142.169.64:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  3.142.169.64
-trojan://telegram-id-directvpn@35.87.137.2:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  35.87.137.2
+trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790?security=tls#XX   TROJAN-TCP-TLS  None
+trojan://telegram-id-privatevpns@3.65.9.213:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.65.9.213
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#NL   TROJAN-TCP-TLS - Serva One Ltd  81.22.132.183
+trojan://telegram-id-privatevpns@15.188.170.162:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.170.162
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?sni=wus05.weyaf9sdoh2h.space&peer=wus05.weyaf9sdoh2h.space&security=tls#US   TROJAN-TCP-TLS - VCL-147-149513  23.186.200.111
+trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#IL   TROJAN-TCP-TLS - Pq Hosting Plus S.r.l.  77.91.74.6
+trojan://trojan@104.24.57.5:443?sni=azadnet2-dl4.pages.dev&peer=azadnet2-dl4.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.57.5
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org&peer=rc8.freeguard.org&security=tls#US   TROJAN-TCP-TLS - AS-COLOCROSSING  192.3.107.252
+trojan://telegram-id-directvpn@18.153.170.41:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.153.170.41
+trojan://telegram-id-directvpn@3.139.147.10:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  3.139.147.10
+trojan://fg20mtCFHy@usiys.southbyte.xyz:5897?security=tls#US   TROJAN-TCP-TLS - ZEN-ECN  128.14.180.218
+trojan://e4976559-623f-42f6-9566-f09209ad5ea0@cdnfire.xiaomispeed.com:25502?sni=cdnfire.xiaomispeed.com&peer=cdnfire.xiaomispeed.com&security=tls#TW   TROJAN-TCP-TLS - Data Communication Business Group  220.130.58.138
+trojan://3r372@91.195.240.94:443?sni=tj786.37927.online&peer=tj786.37927.online&security=tls#DE   TROJAN-TCP-TLS - SEDO GmbH  91.195.240.94
+trojan://telegram-id-directvpn@3.219.34.229:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  3.219.34.229
 trojan://Aimer@188.164.159.248:2053?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#AM   TROJAN-TCP-TLS - Cloudflare London, LLC  188.164.159.248
-trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?sni=raincoat.bluetigeraa.click&peer=raincoat.bluetigeraa.click&security=tls#US   TROJAN-TCP-TLS - AS-VULTR  155.138.228.41
-trojan://@Geek_Spot@176.97.210.2:12882?security=tls#DE   TROJAN-TCP-TLS - Tube-Hosting  176.97.210.2
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?sni=fluxfloss.click&peer=fluxfloss.click&security=tls#AE   TROJAN-TCP-TLS - Kaopu Cloud HK Limited  38.54.8.233
+trojan://Aimer@188.164.159.43:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#AM   TROJAN-TCP-TLS - Cloudflare London, LLC  188.164.159.43
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.117.182
+trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  104.248.18.1
+trojan://BxceQaOe@112.120.31.96:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  112.120.31.96
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#XX   TROJAN-TCP-REALITY  None
+trojan://telegram-id-privatevpns@63.181.53.217:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.181.53.217
+trojan://xxoo@138.124.183.226:443?security=tls#US   TROJAN-TCP-TLS - WorkTitans B.V.  138.124.183.226
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.81.84
+trojan://telegram-id-privatevpns@13.37.75.244:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  13.37.75.244
+trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#DK   TROJAN-TCP-TLS - M247 Europe SRL  38.180.72.162
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:2890?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.138.24
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls#HK   TROJAN-TCP-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED  165.154.112.107
+trojan://telegram-id-privatevpns@18.170.53.62:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#GB   TROJAN-TCP-TLS - AMAZON-02  18.170.53.62
+trojan://trojan@tm-azarbayjab1.1.workers.dev:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.31.174
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?sni=joss.gpj1.web.id&peer=joss.gpj1.web.id&security=tls#PL   TROJAN-TCP-TLS - Melbikomas UAB  217.30.10.31
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?sni=wus02.weyaf9sdoh2h.space&peer=wus02.weyaf9sdoh2h.space&security=tls#US   TROJAN-TCP-TLS - VCL-147-149513  23.186.200.108
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#CN   TROJAN-TCP-TLS - Cloudie Limited  221.128.195.9
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz&peer=jp2-july.88888802.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.66.223
+trojan://telegram-id-directvpn@3.236.90.173:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-AES  3.236.90.173
 trojan://telegram-id-privatevpns@63.180.216.119:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  63.180.216.119
+trojan://BxceQaOe@58.152.25.241:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.25.241
+trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010?sni=ukmydxecn.jidxalgzyh.click&peer=ukmydxecn.jidxalgzyh.click&security=tls#CL   TROJAN-TCP-TLS - AS-VULTR  64.176.13.78
+trojan://telegram-id-directvpn@35.93.73.121:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  35.93.73.121
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz&peer=sg01.freeflyingcloud.xyz&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  13.248.169.48
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
+trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?path=%2FFree-VPN-CF-Geo-Project%2F38.180.72.162%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%B0
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.191%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
+trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?path=%2FFree-VPN-CF-Geo-Project%2F77.91.74.6%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B9
+trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AA%F0%9F%87%AA
+trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.162%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%BF
+trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?path=%2FFree-VPN-CF-Geo-Project%2F185.247.184.186%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B9
+trojan://9d6aef63-e6c6-4a0f-a001-221450103494@195.16.74.240:81?path=%2FFree-VPN-CF-Geo-Project%2F195.16.74.240%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
+trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443?path=%2FFree-VPN-CF-Geo-Project%2F89.28.236.243%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%B0
+trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?path=%2FFree-VPN-CF-Geo-Project%2F81.22.132.183%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
+trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?path=%2FFree-VPN-CF-Geo-Project%2F158.178.206.197%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443?path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A7%F0%9F%87%AA
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9A%A1%20%7C
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
+trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=randomized&type=ws&sni=dc1bf227.vf-8co.pages.dev#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.50.229.81:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+trojan://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=azaDNEt-sEMEJ.PageS.Dev&type=ws&sni=AzADnet-semEj.PAGes.dEv#[]t.me/ConfigsHub
+trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=flt2.ftpcomand.com#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.180.120.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.180.120.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.182.177.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+trojan://65086520307764900@18.139.61.105:443?security=tls&type=tcp&sni=dynamic-shrew.shiner427.skin#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.231.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#[]t.me/ConfigsHub
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@bgroup.node3.t.nodelist-airport.com:50001?#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.193.212.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.43.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.39.43.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://bpb-trojan@172.67.180.227:443?encryption=none&security=tls&sni=mashdt.pages.dev&alpn=h3&fp=randomized&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560#[]t.me/ConfigsHub
+trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#[]t.me/ConfigsHub
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:4210?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#[]t.me/ConfigsHub
+trojan://22dcdbbe-db22-4ebb-b2f3-ad6b6a133a99@77.37.96.132:443?path=%2FFree-VPN-CF-Geo-Project%2F77.37.96.132%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[]t.me/ConfigsHub
+trojan://6ddec1fd-29c3-4ac0-a242-0a7a9b717cea@147.135.209.2:443?path=%2FFree-VPN-CF-Geo-Project%2F147.135.209.2%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[]t.me/ConfigsHub
+trojan://b951058a-ff0e-4de2-927e-8282fd24455f@185.195.69.19:443?path=%2FFree-VPN-CF-Geo-Project%2F185.195.69.19%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[]t.me/ConfigsHub
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@203.198.122.135:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.netr%E2%99%A1ya#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.57.61.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.57.61.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.236.59.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://blue2024@104.19.217.93:443?allowInsecure=1&sni=td.promote.icu#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.124.147.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.181.53.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.181.53.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://tg-dns68@162.159.153.180:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.127.33.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://0@154.17.225.73:443/?type=ws&host=snippets.sbak.netlib.re&path=%2Fproxyip%3Dd23d61f1.tp81.ip.090227.xyz&security=tls&sni=snippets.sbak.netlib.re#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.180.215.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.41.235.27:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://tg-dns68@162.159.153.67:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.180.215.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=/Free-VPN-CF-Geo-Project/217.30.10.31=8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.25.241:443?allowInsecure=0&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.124:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -91,107 +152,21 @@ trojan://BxceQaOe@116.49.237.130:381?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:2890?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.130.66:2053?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://BxceQaOe@18.162.123.55:2773?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?security=tls&sni=a913a5b91ce37ed2.noproblemvpn.ru&type=ws&path=/tw#https://t.me/ShadowsocksM30
-trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA           : @V2rayvlessbot :  @bilichilii_back  :@VmessProtocol@V2rayProtocol                  
-trojan://1e1a7efa-a4f1-4936-a470-a001e0c3c85b@212.227.144.37:8443?path=/Free-VPN-CF-Geo-Project/212.227.144.37=8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#Telegram:@IP_CF Channel : @IP_CF_Config Main Channel : @IP_CF
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%8E%A185%40oneclickvpnkeys
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%40V2RAYROZ
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM41
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM22
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#@Hope_Net-join-us-on-Telegram
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&host=joss.gpj1.web.id#[openproxylist.com] trojan-US
-trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&type=grpc#https://t.me/ShadowsocksM10
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&type=ws&sni=de1.trojanvpn.de&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&host=de1.trojanvpn.dE#@Hope_Net-join-us-on-Telegram Warning: Proxy may not work on all network operators. Please wait a few seconds after starting a proxy.All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel    20         !            !   :           1     !         :#WomenLifeFreedom#MahsaAmini #ToomajSalehi@Hope_Net 
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&type=ws&sni=de1.trojanvpn.de&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&host=de1.trojanvpn.dE#@Hope_Net-join-us-on-Telegram
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#%F0%9F%94%9428%40oneclickvpnkeys
-trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?path=/Free-VPN-CF-Geo-Project/185.229.66.213=2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#Telegram:@IP_CF Channel : @IP_CF_Config Main Channel : @IP_CF
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
-trojan://700f759e-6ecb-4632-861c-2c88b1ffc6c4@dttw1.bitznet.one:33003?sni=cert.bitbyte.one#@Hope_Net-join-us-on-Telegram
-trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#Telegram:@IP_CF Channel : @IP_CF_Config Main Channel : @IP_CF
-trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?path=/Free-VPN-CF-Geo-Project/77.91.74.6=443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#Telegram:@IP_CF Channel : @IP_CF_Config Main Channel : @IP_CF
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#%F0%9F%8E%A12%40oneclickvpnkeys
-trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#%F0%9F%8F%81RELAY-108.165.152.78-0692
-trojan://Aimer@154.197.64.27:443/?type=tcp&security=tls&sni=agepm.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%8F%81RELAY-154.197.64.27-1301
-trojan://Aimer@156.225.72.199:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%8F%81RELAY-156.225.72.199-1378
-trojan://Aimer@160.79.105.133:8443/?type=tcp&security=tls&sni=epccc.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US-160.79.105.133-1453
-trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%8F%81RELAY-188.164.159.138-1497
-trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.248:2053/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@206.238.236.198:2083/?type=tcp&security=tls&sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
-trojan://Aimer@27.50.49.188:2096/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@46.254.93.251:2087/?type=tcp&security=tls&sni=epmd.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%8F%81RELAY-46.254.93.251-1006
-trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%8E%A163%40oneclickvpnkeys
-trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#%F0%9F%93%9F76%40oneclickvpnkeys
-trojan://BxceQaOe@38.180.191.251:443?security=tls&headerType=none&type=tcp&sni=t.me%2Fripaojiedian#Telegram = @SOSkeyNET
-trojan://BxceQaOe@58.152.25.241:443?sni=t.me%252Fripaojiedian#[openproxylist.com] trojan-HK
-trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp#Telegram = @SOSkeyNET
-trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#Telegram = @SOSkeyNET
-trojan://F6xOQXz%3Drp7yeiNV@134.195.197.69:19579/?type=tcp&security=tls&sni=goodmorning.dancingbrick.click#%F0%9F%93%9F69%40oneclickvpnkeys
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp#All-%40V2rayAlpha--1
-trojan://H8Gwt1EIq-jxr%3Dg%23@139.84.233.136:15813/?type=tcp&security=tls&sni=luckyday.silentrocket.click#%F0%9F%93%9F84%40oneclickvpnkeys
-trojan://LxJCPOP40a@206.206.77.237:51469?mode=gun&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#All-%40V2rayAlpha--41
-trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&sni=cloudflare.com&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf&type=grpc#https://t.me/ShadowsocksM18
-trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010/?type=tcp&security=tls&sni=ukmydxecn.jidxalgzyh.click#%F0%9F%8E%A13%40oneclickvpnkeys
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartphone.angrypiano.click#%F0%9F%8E%A113%40oneclickvpnkeys
-trojan://SSorg@172.67.157.40:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#%F0%9F%8E%A14%40oneclickvpnkeys
-trojan://Watashi_VPN@104.18.26.94:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@Hope_Net-join-us-on-Telegram Warning: Proxy may not work on all network operators. Please wait a few seconds after starting a proxy.All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel    20         !            !   :           1     !         :#WomenLifeFreedom#MahsaAmini #ToomajSalehi@Hope_Net 
-trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#%F0%9F%8E%A112%40oneclickvpnkeys
-trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#%F0%9F%93%9F72%40oneclickvpnkeys
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
-trojan://bpb-trojan@162.159.152.59:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#@Hope_Net-join-us-on-Telegram Warning: Proxy may not work on all network operators. Please wait a few seconds after starting a proxy.All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel    20         !            !   :           1     !         :#WomenLifeFreedom#MahsaAmini #ToomajSalehi@Hope_Net 
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#Channel%20id%3A%40proxy_kafee%F0%9F%87%AF%F0%9F%87%B5
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@52.196.180.54:2890?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM20
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM17
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#@Hope_Net-join-us-on-Telegram
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#%F0%9F%8E%A15%40oneclickvpnkeys
-trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9#%F0%9F%8E%A133%40oneclickvpnkeys
-trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=d9#telegram%20%40MTMVPN%207
-trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#@Hope_Net-join-us-on-Telegram
-trojan://fg20mtCFHy@ufbji.zippydeal.xyz:5743/?type=tcp&security=tls#%F0%9F%93%9F75%40oneclickvpnkeys
-trojan://fg20mtCFHy@usiys.southbyte.xyz:5897/?type=tcp&security=tls#%F0%9F%93%9F67%40oneclickvpnkeys
-trojan://fg20mtCFHy@uspoc.southbyte.xyz:5684/?type=tcp&security=tls#%F0%9F%93%9F65%40oneclickvpnkeys
-trojan://fg20mtCFHy@ustcx.southbyte.xyz:5761/?type=tcp&security=tls#%F0%9F%93%9F74%40oneclickvpnkeys
-trojan://fg20mtCFHy@usygh.zippydeal.xyz:5710/?type=tcp&security=tls#%F0%9F%93%9F60%40oneclickvpnkeys
-trojan://fg20mtCFHy@yrcyu.zippydeal.xyz:5761/?type=tcp&security=tls#%F0%9F%93%9F70%40oneclickvpnkeys
-trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#All-%40V2rayAlpha--9
-trojan://telegram-id-directvpn@13.36.72.124:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@13.37.75.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@13.39.215.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@15.188.170.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@15.188.170.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@15.236.59.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@18.198.122.60:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%93%9F4%40oneclickvpnkeys
-trojan://telegram-id-directvpn@18.198.122.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@3.127.33.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@3.127.33.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@3.65.9.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@3.72.127.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@3.77.167.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@35.181.137.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN 
-trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?path=%2FFree-VPN-CF-Geo-Project%2F38.180.72.162%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%B0
-trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.191%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
-trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?path=%2FFree-VPN-CF-Geo-Project%2F77.91.74.6%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
-trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
-trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B9
-trojan://e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098@51.15.210.1:443?path=%2FFree-VPN-CF-Geo-Project%2F51.15.210.1%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
-trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?path=%2FFree-VPN-CF-Geo-Project%2F138.124.30.8%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AA%F0%9F%87%AA
-trojan://f583143c-2cbe-47f5-804d-27efa55442a1@81.91.214.162:443?path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.162%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%BF
-trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?path=%2FFree-VPN-CF-Geo-Project%2F185.247.184.186%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B9
-trojan://9d6aef63-e6c6-4a0f-a001-221450103494@195.16.74.240:81?path=%2FFree-VPN-CF-Geo-Project%2F195.16.74.240%3D81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
-trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443?path=%2FFree-VPN-CF-Geo-Project%2F89.28.236.243%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%B0
-trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?path=%2FFree-VPN-CF-Geo-Project%2F81.22.132.183%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
-trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?path=%2FFree-VPN-CF-Geo-Project%2F158.178.206.197%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
-trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443?path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A7%F0%9F%87%AA
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9A%A1%20%7C
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.39.240:1334?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.39.240-1163
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0257
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0264
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0262
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:1334?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0271
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.73.102:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.73.102-0332
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0291
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0274
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-0261
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-1162
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.124:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.124-1158
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-1166
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-1168
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.106.144:5553?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-1165
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0294
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
@@ -1191,3 +1166,4 @@ trojan://3747000103274291200@195.133.93.135:443/?type=tcp&security=tls&sni=
 trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@hg.jiashumao.net:34210?allowInsecure=1&sni=
 trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@jpa-zf.jiashumao.net:29881?allowInsecure=1&sni=
 trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@mlxy-zf.jiashumao.net:27171?allowInsecure=1&sni=
+trojan://375e1e34-8f6f-39be-bdb9-52080f546d4d@sg-zf.jiashumao.net:29465?allowInsecure=1&sni=
