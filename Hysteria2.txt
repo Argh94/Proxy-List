@@ -1,16 +1,18 @@
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#IN   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  144.24.101.176
-hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@lundun3.nezhasu.com:443?sni=lundun3.nezhasu.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  79.72.90.13
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-1.nezhasu.com:443?sni=mumbai-1.nezhasu.com&insecure=1#IN   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  144.24.121.249
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@2a0c:4ac1:8::2ae:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::2ae
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?sni=gy5.nezhasu.com&insecure=1#MX   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  159.54.157.23
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?sni=hl01.mistea.top&insecure=1#NL   HYSTERIA2-TCP-NTLS - Hostshield Ltd  193.142.59.41
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.243.187
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?insecure=0#US   HYSTERIA2-TCP-NTLS - Kaopu Cloud HK Limited  38.60.204.29
 hysteria2://dongtaiwang.com@195.154.206.231:33880?sni=apple.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  195.154.206.231
-hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@tr.xn--gmq00sc0nuve.shop:21105?insecure=0#TR   HYSTERIA2-TCP-NTLS - Ultahost, Inc.  78.135.93.114
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102?insecure=1#US   HYSTERIA2-TCP-NTLS - OVH SAS  51.81.223.22
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander#FI   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  46.62.152.236
+hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?sni=www.bing.com&insecure=1#CA   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  40.233.83.110
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE   HYSTERIA2-TCP-NTLS - Ultahost, Inc.  84.200.87.248
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?sni=du.wish.ml&insecure=1#CA   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  140.238.137.165
+hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@lundun2.nezhasu.com:443?sni=lundun2.nezhasu.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.70.197
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36300?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0#HK   HYSTERIA2-TCP-NTLS - Kaopu Cloud HK Limited  38.54.85.243
+hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@2a0c:4ac1:8::2ae:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  2a0c:4ac1:8::2ae
+hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander#FI   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  46.62.152.236
+hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@hk.xn--gmq00sc0nuve.shop:21268?insecure=0#HK   HYSTERIA2-TCP-NTLS - Datacamp Limited  95.214.181.84
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy9.nezhasu.com:443?sni=gy9.nezhasu.com&insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  158.101.3.39
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?insecure=1#BR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  144.22.187.105
-hysteria2://e9bc7ffe-04fa-448c-813e-f3f730989d4c@5.180.30.16:52886?sni=api.push.apple.com&insecure=1#US   HYSTERIA2-TCP-NTLS - Pq Hosting Plus S.r.l.  5.180.30.16
-hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@my.xn--gmq00sc0nuve.shop:21812?insecure=0#ID   HYSTERIA2-TCP-NTLS  202.155.10.236
 hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?insecure=0&sni=all-v4.dgi000.store&obfs=salamander&obfs-password=@azadi_az_inja_migzare#%40V2rayNG3%20%2310
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecure=1&sni=lsyd1.lansecs.top#MCI-IR--%40V2rayAlpha-16
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?security=tls&insecure=1&sni=lsyd1.lansecs.top#MCI-IR--%40V2rayAlpha-16
@@ -76,7 +78,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443?sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#@FarazV2ray
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@IRAN_V2RAY1
