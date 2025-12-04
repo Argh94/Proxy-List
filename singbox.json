@@ -24,6 +24,10 @@
     {
       "type": "block",
       "tag": "block"
+    },
+    {
+      "type": "direct",
+      "tag": "backup-direct"
     }
   ],
   "route": {
