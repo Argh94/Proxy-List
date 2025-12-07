@@ -1,11 +1,14 @@
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.23
-hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE   HYSTERIA2-TCP-NTLS - Ultahost, Inc.  84.200.87.248
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.40
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1#JP   HYSTERIA2-TCP-NTLS - SAKURA Internet Inc.  160.16.137.28
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  51.159.111.32
+hysteria2://d3b0b361-b878-4246-8a0e-ae86f6caa1f9@fr1.oomz.ru:30000?sni=bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  89.168.62.105
 hysteria2://dongtaiwang.com@163.172.21.105:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  163.172.21.105
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?sni=lundun1.nezhasu.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.21.45
+hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com:443?sni=ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com&insecure=1#HK   HYSTERIA2-TCP-NTLS - HKT Limited  220.246.94.129
+hysteria2://bcc58e88-e147-11ec-b286-f23c91cfbbc9@da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com:443?sni=da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com&insecure=1#US   HYSTERIA2-TCP-NTLS - SHARKTECH  107.167.18.109
 hysteria2://SNItest@37.18.14.169:443?sni=megafon.ru&insecure=1#RU   HYSTERIA2-TCP-NTLS - Global Cloud Network LLC  37.18.14.169
+hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?sni=nalog.ru&insecure=1&obfs=salamander#FI   HYSTERIA2-TCP-NTLS - Aeza International Ltd  79.137.184.44
+hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?insecure=0#NL   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  158.101.207.1
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1#JP   HYSTERIA2-TCP-NTLS - SAKURA Internet Inc.  160.16.137.28
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
 hysteria2://0114339c-488d-11ee-8792-f23c9164ca5d@00ee471a-t6ngg0-tbpkla-1otc2.us.hyhuawei.com:443?insecure=1&sni=00ee471a-t6ngg0-tbpkla-1otc2.us.hyhuawei.com#55%40oneclickvpnkeys
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecure=1&sni=lsyd1.lansecs.top#MCI-IR--%40V2rayAlpha-16
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?security=tls&insecure=1&sni=lsyd1.lansecs.top#MCI-IR--@V2rayAlpha-16
