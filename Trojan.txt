@@ -115,10 +115,44 @@ trojan://7f1744fb-e014-43e9-ab39-1dca96f5e604@141.193.213.199:443?sni=1cyq93vs4a
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#KR   TROJAN-TCP-TLS - ORACLE-BMC-31898  146.56.189.146
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn3.868863.xyz:2053?sni=17654164557530.206355.xyz&peer=17654164557530.206355.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.73
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#DE   TROJAN-TCP-TLS - IP-Projects GmbH & Co. KG  37.114.62.218
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#%40Filter_breaker
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-13-Dec-2025 02:46
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-1022
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0230
+trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.67.215:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.67.215-0291
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.13-0329
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AASE-70.34.218.149-0289
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.153.13-0328
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.106.144:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-0382
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0390
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.136.130-0371
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.233.76-0629
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=anetwork.ir#Join+Telegram:@Farah_VPN
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#Join+Telegram:@Farah_VPN
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&amp;security=reality&amp;pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=d9#Join+Telegram:@Farah_VPN
+trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:447?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#Join+Telegram:@Farah_VPN
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#Join+Telegram:@Farah_VPN
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@hn.xiaohouzi.club:18437?security=tls&sni=avas02.xiaohouzi.club#Join+Telegram:@Farah_VPN
+trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingnext.co.uk#Join+Telegram:@Farah_VPN
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10819?security=tls#Join+Telegram:@Farah_VPN
+trojan://LxJCPOP40a@206.206.77.237:51469?mode=gun&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#Join+Telegram:@Farah_VPN
+trojan://tunnel-astrovpn_official192@92.112.126.22:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=92.112.126.22#Join+Telegram:@Farah_VPN
+trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#Join+Telegram:@Farah_VPN
+trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&fp=chrome&note=@freeOnlineVPN#Join+Telegram:@Farah_VPN
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#Join+Telegram:@Farah_VPN
+trojan://BxceQaOe@43.198.206.171:4710?allowInsecure=1&sni=t.me%2Fripaojiedian#Join+Telegram:@Farah_VPN
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Join+Telegram:@Farah_VPN
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096/?type=ws&host=ts888.yumige.dpdns.org&path=/http://5555:5555@47.242.35.79:5555&security=tls&sni=ts888.yumige.dpdns.org&alpn=h3&allowInsecure=1&fp=chrome#Join+Telegram:@Farah_VPN
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3271?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
+trojan://BxceQaOe@52.195.5.65:804?allowInsecure=1&sni=t.me%252Fripaojiedian#Join+Telegram:@Farah_VPN
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#Join+Telegram:@Farah_VPN
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@hnm.xiaohouzi.club:17109?security=tls&sni=hkghc02.xiaohouzi.club#Join+Telegram:@Farah_VPN
+trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#Join+Telegram:@Farah_VPN
+trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com,bsi.ir,telewebion.com#Join+Telegram:@Farah_VPN
+trojan://telegram-id-directvpn@18.153.170.41:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#Join+Telegram:@Farah_VPN
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
