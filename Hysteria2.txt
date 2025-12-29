@@ -1,9 +1,8 @@
-hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@de3.xiaoliyu.cyou:443?insecure=1#DE   HYSTERIA2-TCP-NTLS - netcup GmbH  152.53.12.152
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
-hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@fr2.xiaoliyu.cyou:443?insecure=1#FR   HYSTERIA2-TCP-NTLS - ASNET  45.143.5.147
-hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?sni=dd.ircybersec.org&insecure=0&obfs=salamander#SE   HYSTERIA2-TCP-NTLS - Telia Company AB  90.229.164.70
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@51.178.55.157:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#FR   HYSTERIA2-TCP-NTLS - OVH SAS  51.178.55.157
-hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?sni=nalog.ru&insecure=1&obfs=salamander#FI   HYSTERIA2-TCP-NTLS - Aeza International Ltd  79.137.184.44
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443?insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  2001:bc8:1640:50eb:dc00:ff:fe57:dd6f
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  51.159.111.32
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.23
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@41f54602-t6ngg0-t7m3jq-1rnrp.us.hyhuawei.com:443?insecure=1#US   HYSTERIA2-TCP-NTLS - SHARKTECH  107.167.18.109
+hysteria2://e6499c55-5a54-4a2b-a1f8-725a17b4ae85@85.209.53.170:80?insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Georg Kroeber  85.209.53.170
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?insecure=1&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--%40V2rayAlpha--17
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--@V2rayAlpha--17
 hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?insecure=1&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-%23V2rayAlpha--19
