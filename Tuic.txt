@@ -13,3 +13,4 @@ tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@150.230.4.133:57277/?congestion_control=bbr&udp_relay_mode=native&sni=db1.nezhasu.com&alpn=h3#13@oneclickvpnkeys
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@158.180.79.168:64413/?congestion_control=bbr&udp_relay_mode=native&sni=chuncheon-2.nezhasu.com&alpn=h3#12@oneclickvpnkeys
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@163.192.55.17:59422/?congestion_control=bbr&udp_relay_mode=native&sni=sanjose.nezhasu.com&alpn=h3#7@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@132.226.99.211:64015/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-2.nezhasu.cn&alpn=h3#%E2%9D%84%EF%B8%8F%40Surfboardv2ray @Surfboardv2ray @AzarAndoozVPNbot
