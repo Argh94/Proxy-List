@@ -1,242 +1,252 @@
-trojan://8oypqu9q-vfc9-9ubt-264j-nphldqzsj6i3@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2026/01/05 | 23:44
-trojan://3t1w6895-xlfr-y2jp-1oxj-v0xra9666pln@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0yjugimp-bst1-gcjj-oryl-v7ttqc63ma27@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
-trojan://Aimer@172.64.33.128:443?sni=epme.ambercc.filegear-sg.me&peer=epme.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.33.128
-trojan://blue2024@69.48.218.217:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  69.48.218.217
-trojan://Aimer@104.21.31.253:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.31.253
-trojan://Aimer@27.50.48.61:2083?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.48.61
-trojan://e4f288433b@54.36.173.159:443?sni=&peer=&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  54.36.173.159
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?sni=&peer=&security=tls#AU   TROJAN-TCP-TLS - Cloudflare London, LLC  103.11.214.137
-trojan://blue2024@162.159.44.192:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.44.192
-trojan://ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0@45.135.235.238:2096?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#BZ   TROJAN-TCP-TLS - Cloudflare London, LLC  45.135.235.238
-trojan://blue2024@104.16.231.94:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.231.94
-trojan://auto@172.66.45.2:443?sni=dcf741e8.epeius-2gy.pages.dev&peer=dcf741e8.epeius-2gy.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.45.2
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.32.35
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://blue2024@188.114.97.105:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.97.105
-trojan://Aimer@172.66.207.17:2083?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.207.17
-trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@104.18.14.19:443?sni=azarandooz.azarina.workers.dev&peer=azarandooz.azarina.workers.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.14.19
-trojan://dns68@135.84.79.80:443?security=tls#US   TROJAN-TCP-TLS - USG-TOR-AS  135.84.79.80
-trojan://26224a7a-804d-48cc-bc95-cd86e6faf525@144.202.22.147:443?sni=v12.nmcf.me&peer=v12.nmcf.me&security=tls#US   TROJAN-TCP-TLS - AS-VULTR  144.202.22.147
-trojan://Aimer@104.17.158.110:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.158.110
-trojan://Aimer@162.159.129.106:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.129.106
-trojan://Aimer@92.243.74.239:8443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  92.243.74.239
-trojan://f898ffcb-6417-4373-9640-0b66091e8206@104.21.22.159:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.22.159
-trojan://telegram-id-privatevpns@52.47.189.11:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  52.47.189.11
-trojan://ttfang@45.80.110.216:2096?sni=&peer=&security=tls#EE   TROJAN-TCP-TLS - Cloudflare London, LLC  45.80.110.216
-trojan://telegram-id-directvpn@18.153.170.41:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  18.153.170.41
-trojan://NISHIKUITAN111@108.162.192.252:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  108.162.192.252
-trojan://Aimer@104.18.67.120:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.67.120
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life&peer=data.52daishu.life&security=tls#JP   TROJAN-TCP-TLS - G-Core Labs S.A.  31.223.184.248
-trojan://trojan@104.26.12.31:8443?sni=fofang.pages.dev&peer=fofang.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.12.31
-trojan://Aimer@104.19.39.28:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.39.28
-trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AS-GLOBALTELEHOST  142.202.48.220
-trojan://WOeXShhJpL@104.17.49.240:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.49.240
-trojan://blue2024@104.17.222.191:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.222.191
-trojan://NISHIKUITAN111@104.27.198.65:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.198.65
-trojan://5a2c16f9@221.125.10.8:57537?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#HK   TROJAN-TCP-TLS - HGC Global Communications Limited  221.125.10.8
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.246:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.246
-trojan://NISHIKUITAN111@185.148.106.44:443?sni=za.ylks.xyz&peer=za.ylks.xyz&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  185.148.106.44
-trojan://Aimer@172.64.154.38:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.154.38
-trojan://Aimer@104.21.225.247:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.225.247
-trojan://Aimer@47.79.38.17:443?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd.  47.79.38.17
-trojan://NISHIKUITAN111@92.53.191.173:443?security=tls#SI   TROJAN-TCP-TLS - Cloudflare London, LLC  92.53.191.173
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.15:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.133.15
-trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.214.246
-trojan://Aimer@172.64.35.227:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.35.227
-trojan://Aimer@188.166.162.201:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  188.166.162.201
-trojan://vip@104.18.42.163:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.42.163
-trojan://auto@172.67.174.252:443?sni=esetsecuritylicense1.vowexa5791.workers.dev&peer=esetsecuritylicense1.vowexa5791.workers.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.174.252
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?sni=&peer=&security=tls#DE   TROJAN-TCP-TLS - WIIT AG  217.79.184.76
-trojan://Aimer@162.159.134.201:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.134.201
-trojan://NISHIKUITAN111@104.27.117.74:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.117.74
-trojan://Aimer@104.17.30.254:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.30.254
-trojan://Aimer@172.67.222.241:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.222.241
-trojan://NISHIKUITAN111@88.216.67.148:443?security=tls#LT   TROJAN-TCP-TLS - Cloudflare London, LLC  88.216.67.148
-trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?sni=10-bPb-WORKer-paNEL.paGeS.dEV&peer=10-bPb-WORKer-paNEL.paGeS.dEV&security=tls#XX   TROJAN-TCP-TLS  None
-trojan://NISHIKUITAN111@141.193.213.141:443?security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  141.193.213.141
-trojan://blue2024@104.17.40.244:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.40.244
-trojan://NISHIKUITAN111@195.85.59.158:443?security=tls#CY   TROJAN-TCP-TLS - Cloudflare London, LLC  195.85.59.158
-trojan://NISHIKUITAN111@198.41.218.39:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.218.39
-trojan://Aimer@162.159.44.50:2087?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.44.50
-trojan://NISHIKUITAN111@185.162.228.1:443?security=tls#IM   TROJAN-TCP-TLS - Cloudflare London, LLC  185.162.228.1
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.205:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.152.205
-trojan://Aimer@66.81.247.230:2096?sni=epccn.ambercc.filegear-sg.me&peer=epccn.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  66.81.247.230
-trojan://Aimer@162.159.143.153:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.143.153
-trojan://NISHIKUITAN111@172.67.123.169:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.123.169
-trojan://Aimer@162.159.128.116:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.116
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.106:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.106
-trojan://NISHIKUITAN111@190.93.246.217:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.246.217
-trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.8:443?sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&peer=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  141.193.213.8
-trojan://Aimer@172.66.46.66:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.46.66
-trojan://5a2c16f9@193.123.161.116:443?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - ORACLE-BMC-31898  193.123.161.116
+trojan://q2q651ht-lijg-edqe-xlsz-otyoabw6j72s@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2026/01/06 | 04:22
+trojan://d1fz0yw4-sdmg-6by6-l7bn-xihtng2kzy07@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i4q9543y-wycu-qfce-cbp9-sd27jep19aey@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://Aimer@213.241.198.56:2083?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  213.241.198.56
 trojan://Aimer@104.21.236.115:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.236.115
-trojan://d889b4c8-dab9-4b0c-932b-e4071c727308@104.21.40.251:443?sni=M6ghjK.777169.xyz&peer=M6ghjK.777169.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.40.251
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.175.148:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.175.148
+trojan://NISHIKUITAN111@198.41.195.245:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.195.245
+trojan://Aimer@167.68.5.248:2087?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  167.68.5.248
+trojan://blue2024@104.25.171.193:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.25.171.193
+trojan://Aimer@104.16.48.55:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.48.55
+trojan://vip@172.67.70.188:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.70.188
+trojan://vip@104.26.2.223:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.2.223
 trojan://Aimer@104.19.145.74:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.145.74
-trojan://Aimer@27.50.49.166:8443?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.49.166
-trojan://telegram-id-directvpn@3.139.145.191:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  3.139.145.191
-trojan://Aimer@103.116.7.235:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  103.116.7.235
-trojan://bpb-trojan@162.159.153.229:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.153.229
-trojan://idc117okt@103.176.78.153:443?security=tls#ID   TROJAN-TCP-TLS - PT Cloud Hosting Indonesia  103.176.78.153
-trojan://k5l6m7n8-9012-3bcd-4abc-5678abcdef90@104.21.25.130:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.25.130
-trojan://blue2024@104.16.208.241:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.208.241
-trojan://SSorg@185.114.72.148:443?sni=&peer=&security=tls#ES   TROJAN-TCP-TLS - First Server Limited  185.114.72.148
-trojan://0RiSuJPsug%23v@104.21.43.168:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.43.168
-trojan://telegram-id-privatevpns@15.188.216.8:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.188.216.8
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.12.116:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.12.116
-trojan://5a2c16f9@152.67.197.197:19120?sni=&peer=&security=tls#KR   TROJAN-TCP-TLS - ORACLE-BMC-31898  152.67.197.197
-trojan://juzi@91.107.233.151:8443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE   TROJAN-TCP-TLS - Hetzner Online GmbH  91.107.233.151
-trojan://NISHIKUITAN111@104.24.180.183:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.180.183
-trojan://WOeXShhJpL@104.21.37.37:443?security=...#XX   TROJAN-TCP-... - CLOUDFLARENET  104.21.37.37
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.247:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.153.247
-trojan://5a2c16f9@5.78.77.41:2053?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Hetzner Online GmbH  5.78.77.41
-trojan://Aimer@104.26.15.133:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.15.133
-trojan://ttfang@45.12.30.216:2096?sni=&peer=&security=tls#RO   TROJAN-TCP-TLS - Cloudflare London, LLC  45.12.30.216
-trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org&peer=store.timimi.dpdns.org&security=tls#MU   TROJAN-TCP-TLS - CLOUDFLARENET  45.192.222.112
-trojan://blue2024@104.17.96.65:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.96.65
-trojan://Aimer@104.16.54.107:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.54.107
-trojan://8QOe%29&jIP%5E%5Dl%7BP.1@172.66.44.182:443?sni=JoInMAHdisErVER-78D.PaGEs.DEV&peer=JoInMAHdisErVER-78D.PaGEs.DEV&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.44.182
-trojan://NISHIKUITAN111@104.27.44.212:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.44.212
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.25.254.46:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.25.254.46
-trojan://yaml777@172.67.207.57:443?sni=yaml7.ggff.net&peer=yaml7.ggff.net&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.207.57
-trojan://blue2024@104.27.206.92:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.206.92
-trojan://SSorg@172.67.156.115:2087?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.156.115
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.82.39
-trojan://Aimer@104.16.202.243:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.202.243
-trojan://NISHIKUITAN111@104.24.130.166:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.130.166
-trojan://NISHIKUITAN111@5.10.247.97:443?security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  5.10.247.97
-trojan://blue2024@104.17.142.12:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.142.12
-trojan://i1j2k3l4-5678-9bcd-0abc-1234abcdef56@104.21.25.100:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.25.100
-trojan://trojan@ip.sb:8443?sni=fofang.pages.dev&peer=fofang.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.75.172
-trojan://Aimer@162.159.141.130:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.141.130
-trojan://bpb-trojan@141.101.121.171:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.171
-trojan://Aimer@162.159.134.228:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.134.228
-trojan://5a2c16f9@149.28.158.103:10030?sni=&peer=&security=tls#SG   TROJAN-TCP-TLS - AS-VULTR  149.28.158.103
-trojan://NISHIKUITAN111@104.24.73.226:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.73.226
-trojan://Aimer@162.159.135.157:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.135.157
-trojan://blue2024@104.17.246.107:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.246.107
-trojan://82bacaef-f56f-4ac4-9db3-d4754a06d1ef@172.67.172.91:443?sni=xCdFvgBHy6.457.Pp.uA&peer=xCdFvgBHy6.457.Pp.uA&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.172.91
-trojan://WOeXShhJpL@104.18.71.140:443?sni=09jzus.zdzdzd.xyz&peer=09jzus.zdzdzd.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.71.140
-trojan://Aimer@162.159.140.192:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.140.192
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  202.181.103.246
-trojan://Aimer@104.18.231.165:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.231.165
-trojan://5a2c16f9@146.56.48.138:23010?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#IN   TROJAN-TCP-TLS - ORACLE-BMC-31898  146.56.48.138
-trojan://bpb-trojan@198.41.204.23:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.204.23
-trojan://Aimer@104.19.168.104:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.168.104
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?sni=t9.qifei.app&peer=t9.qifei.app&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.82.176
-trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@104.21.75.121:443?sni=fr2a.88888806.xyz&peer=fr2a.88888806.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.75.121
-trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?sni=ads.x5.ru&peer=ads.x5.ru&security=tls#DE   TROJAN-TCP-TLS - AS-VULTR  80.240.17.154
-trojan://blue2024@104.24.48.31:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.48.31
-trojan://Aimer@104.17.151.96:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.151.96
-trojan://Aimer@162.159.137.11:443?sni=epcco.ambercc.filegear-sg.me&peer=epcco.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.137.11
-trojan://bpb-trojan@172.67.228.31:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.228.31
-trojan://NISHIKUITAN111@104.25.118.140:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.25.118.140
-trojan://SSorg@104.21.19.236:2087?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.19.236
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@162.159.128.101:443?sni=ssp1.100896.xyz&peer=ssp1.100896.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.101
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.44:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.44
-trojan://Aimer@154.211.8.155:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  154.211.8.155
-trojan://blue2024@108.162.195.161:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  108.162.195.161
-trojan://NISHIKUITAN111@185.162.230.71:443?security=tls#IM   TROJAN-TCP-TLS - Cloudflare London, LLC  185.162.230.71
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA   TROJAN-TCP-TLS - Old-Mutual-Life-Assurance  160.123.255.18
-trojan://Aimer@162.159.140.127:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.140.127
-trojan://blue2024@104.17.169.219:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.169.219
-trojan://Aimer@162.159.134.199:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.134.199
-trojan://Aimer@104.17.252.181:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.252.181
-trojan://Aimer@162.159.128.30:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.30
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?sni=Speedtest.net&peer=Speedtest.net&security=tls#NL   TROJAN-TCP-TLS - Scaleway S.a.s.  51.158.146.183
-trojan://NISHIKUITAN111@104.18.58.44:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.58.44
-trojan://Aimer@162.159.130.44:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.130.44
-trojan://9yu6m5okr@172.67.198.177:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.198.177
-trojan://bpb-trojan@104.17.68.111:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.68.111
-trojan://922b45c8-1ec8-4a65-9b32-137716a0e55f@69.84.182.108:8443?security=tls#US   TROJAN-TCP-TLS - HMS-ASN  69.84.182.108
-trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@161.35.83.110:443?sni=nl2-full.privateip.net&peer=nl2-full.privateip.net&security=tls#NL   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  161.35.83.110
-trojan://blue2024@104.18.36.97:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.36.97
-trojan://Aimer@154.211.8.209:8443?security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  154.211.8.209
-trojan://blue2024@141.101.115.163:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.115.163
-trojan://Aimer@104.16.45.207:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.45.207
-trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.115.138:443?sni=ssp6.100896.xyz&peer=ssp6.100896.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.115.138
-trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.144.126:443?sni=CFR56ty7890.288288.sHOP&peer=CFR56ty7890.288288.sHOP&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.144.126
-trojan://Aimer@104.19.44.67:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.44.67
-trojan://bpb-trojan@173.245.59.182:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  173.245.59.182
-trojan://NISHIKUITAN111@172.67.250.67:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.250.67
-trojan://Aimer@129.226.150.167:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue  129.226.150.167
-trojan://NISHIKUITAN111@185.135.9.137:443?security=tls#DE   TROJAN-TCP-TLS - Cloudflare London, LLC  185.135.9.137
-trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?sni=blueivy.qzz.io&peer=blueivy.qzz.io&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.73.246
-trojan://Aimer@188.164.159.74:8443?sni=epmw.ambercc.filegear-sg.me&peer=epmw.ambercc.filegear-sg.me&security=tls#AM   TROJAN-TCP-TLS - Cloudflare London, LLC  188.164.159.74
-trojan://Aimer@104.26.4.3:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.4.3
-trojan://Aimer@175.214.237.120:50000?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#KR   TROJAN-TCP-TLS - Korea Telecom  175.214.237.120
-trojan://blue2024@104.16.254.101:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.254.101
-trojan://vip@104.18.0.117:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.0.117
-trojan://5a2c16f9@172.64.229.64:443?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.229.64
-trojan://Aimer@199.231.45.35:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - PITNEYBOWES-AS-1  199.231.45.35
-trojan://NISHIKUITAN111@172.67.233.168:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.233.168
-trojan://NISHIKUITAN111@104.20.8.252:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.20.8.252
-trojan://NISHIKUITAN111@31.43.179.32:443?security=tls#KZ   TROJAN-TCP-TLS - Cloudflare London, LLC  31.43.179.32
-trojan://5a2c16f9@143.42.4.34:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Akamai Connected Cloud  143.42.4.34
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.34.202:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.34.202
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.149.172:443?sni=usa-sanjose-one.890614.filegear-sg.me&peer=usa-sanjose-one.890614.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.149.172
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.89:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.89
-trojan://blue2024@190.93.246.191:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.246.191
-trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443?sni=EEeEee4.hUAngSHANG2030.dPdNS.org&peer=EEeEee4.hUAngSHANG2030.dPdNS.org&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.181.193
-trojan://ttfang@31.12.75.216:2096?sni=&peer=&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  31.12.75.216
-trojan://5a2c16f9@94.140.0.238:2096?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#AE   TROJAN-TCP-TLS - Cloudflare London, LLC  94.140.0.238
-trojan://NISHIKUITAN111@104.19.154.230:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.154.230
-trojan://5a2c16f9@138.2.10.149:45638?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - ORACLE-BMC-31898  138.2.10.149
-trojan://Aimer@172.67.76.254:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.76.254
-trojan://Aimer@141.11.203.168:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#FR   TROJAN-TCP-TLS - Cloudflare London, LLC  141.11.203.168
-trojan://bpb-trojan@104.18.161.108:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.161.108
-trojan://Aimer@162.159.135.205:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.135.205
-trojan://Aimer@172.64.35.95:443?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.35.95
-trojan://NISHIKUITAN111@154.197.121.175:443?security=tls#GB   TROJAN-TCP-TLS - Cloudflare London, LLC  154.197.121.175
-trojan://bpb-trojan@108.165.216.155:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.216.155
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#HK   TROJAN-TCP-TLS - HKT Limited  58.152.110.40
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@188.42.145.182:443?sni=&peer=&security=tls#LU   TROJAN-TCP-TLS - Cloudflare London, LLC  188.42.145.182
-trojan://Aimer@172.67.69.163:443?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.69.163
-trojan://blue2024@104.16.146.105:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.146.105
-trojan://2YDH6ktJOt@104.21.15.33:8443?sni=support.sabapardaziran.ir&peer=support.sabapardaziran.ir&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.15.33
-trojan://Aimer@67.226.221.104:80?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  67.226.221.104
+trojan://Aimer@104.19.53.204:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.53.204
+trojan://Aimer@162.159.137.50:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.137.50
+trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls#FR   TROJAN-TCP-TLS - OVH SAS  146.59.3.14
+trojan://Aimer@104.16.8.54:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.8.54
+trojan://Aimer@104.26.6.228:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.6.228
+trojan://Aimer@104.17.221.252:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.221.252
+trojan://Aimer@162.159.128.235:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.235
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.17:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  209.46.30.17
+trojan://bpb-trojan@104.18.181.179:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.181.179
+trojan://Aimer@92.243.74.3:8443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  92.243.74.3
+trojan://telegram-id-privatevpns@15.237.21.253:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.237.21.253
+trojan://Aimer@108.165.152.225:2083?sni=epmw.ambercc.filegear-sg.me&peer=epmw.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.152.225
+trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?sni=CVFgTrE4.222560.XyZ&peer=CVFgTrE4.222560.XyZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.29.205
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.21.118
+trojan://0212fab5-e93c-4904-b7a8-187fd535f354@104.21.49.59:443?sni=3wsxcvbn.890617.xyz&peer=3wsxcvbn.890617.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.49.59
 trojan://Aimer@162.159.128.139:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.139
-trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@104.21.52.157:443?sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&peer=ZxsW34.FrEEvPN2026.DPdnS.ORg&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.52.157
-trojan://NISHIKUITAN111@154.83.2.121:443?security=tls#PH   TROJAN-TCP-TLS - Cloudflare London, LLC  154.83.2.121
-trojan://blue2024@104.17.1.234:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.1.234
-trojan://Aimer@206.238.237.92:2087?sni=&peer=&security=tls#SG   TROJAN-TCP-TLS - TERAEXCH  206.238.237.92
-trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?sni=sscDfr5.999182.XyZ&peer=sscDfr5.999182.XyZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.28.26
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.136.117
-trojan://blue2024@104.18.99.145:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.99.145
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#AT   TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H  212.183.88.58
-trojan://Aimer@104.18.40.113:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.40.113
-trojan://telegram-id-privatevpns@35.181.195.29:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  35.181.195.29
-trojan://Aimer@104.16.198.210:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.198.210
-trojan://NISHIKUITAN111@156.225.72.128:443?security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  156.225.72.128
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz&peer=ssanj01.100896.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  108.162.196.69
-trojan://Aimer@172.67.148.225:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.148.225
-trojan://NISHIKUITAN111@45.85.118.234:443?security=tls#RO   TROJAN-TCP-TLS - Cloudflare London, LLC  45.85.118.234
-trojan://uV8u9Q41e2@104.16.127.23:443?sni=DieGo.DIEgoMAraDOnA.iR.&peer=DieGo.DIEgoMAraDOnA.iR.&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.127.23
-trojan://mainssh-opoksjhh@172.67.73.39:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.73.39
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls#RU   TROJAN-TCP-TLS  212.193.18.144
-trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.247.155
-trojan://Aimer@104.16.2.159:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.2.159
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL   TROJAN-TCP-TLS - NForce Entertainment B.V.  185.107.56.52
-trojan://Aimer@104.16.58.13:443?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.58.13
-trojan://Aimer@104.19.51.103:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.51.103
-trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.68.56
-trojan://Aimer@27.50.48.239:8443?sni=epccn.ambercc.filegear-sg.me&peer=epccn.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.48.239
+trojan://Aimer@108.165.152.204:2096?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.152.204
+trojan://Aimer@172.67.157.168:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.157.168
+trojan://Aimer@104.26.7.2:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.7.2
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.124.55
+trojan://Aimer@104.16.54.90:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.54.90
+trojan://Aimer@172.66.45.126:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.45.126
+trojan://ttfang@45.40.155.216:2096?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - GO-DADDY-COM-LLC  45.40.155.216
+trojan://bpb-trojan@104.18.160.246:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.160.246
+trojan://Aimer@27.50.48.126:2083?sni=tyep.esslh.filegear-sg.me&peer=tyep.esslh.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.48.126
+trojan://blue2024@172.67.142.60:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.142.60
+trojan://NISHIKUITAN111@45.131.209.89:443?sni=za.ylks.xyz&peer=za.ylks.xyz&security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  45.131.209.89
+trojan://123456@104.18.11.39:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.11.39
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.77.79
+trojan://bpb-trojan@172.67.238.207:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.238.207
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.51.242
+trojan://Aimer@35.83.185.225:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  35.83.185.225
+trojan://NISHIKUITAN111@104.18.110.162:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.110.162
+trojan://5a2c16f9@211.48.77.114:12312?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#KR   TROJAN-TCP-TLS - Korea Telecom  211.48.77.114
+trojan://blue2024@104.18.118.171:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.118.171
+trojan://Aimer@104.26.13.3:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.13.3
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.21.25.85:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.25.85
+trojan://5a2c16f9@138.2.32.76:15821?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - ORACLE-BMC-31898  138.2.32.76
+trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?sni=FFfgtyy.7282728.XYZ&peer=FFfgtyy.7282728.XYZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.78.243
+trojan://Aimer@27.50.49.208:443?sni=epme.ambercc.filegear-sg.me&peer=epme.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.49.208
+trojan://Aimer@104.16.54.107:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.54.107
+trojan://Aimer@77.238.236.134:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#NL   TROJAN-TCP-TLS - Servers Tech Fzco  77.238.236.134
+trojan://vip@104.18.27.94:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.27.94
+trojan://Aimer@172.67.150.133:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.150.133
+trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877?sni=www.metaphysicalmagnet.click&peer=www.metaphysicalmagnet.click&security=tls#TH   TROJAN-TCP-TLS - Kaopu Cloud HK Limited  38.54.82.205
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@188.42.145.39:443?sni=&peer=&security=tls#LU   TROJAN-TCP-TLS - Cloudflare London, LLC  188.42.145.39
+trojan://Aimer@104.16.61.21:443?sni=epcco.ambercc.filegear-sg.me&peer=epcco.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.61.21
+trojan://Bc%23%3F%3Fcut0k9l@188.114.97.1:2053?sni=G7tAu5Zf41EQNf9fpWJ8RmQy3SFyEi4l.prX11.WOrkers.DEV&peer=G7tAu5Zf41EQNf9fpWJ8RmQy3SFyEi4l.prX11.WOrkers.DEV&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.97.1
+trojan://vip@104.20.19.168:2087?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.20.19.168
+trojan://NISHIKUITAN111@104.27.117.74:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.117.74
+trojan://blue2024@104.16.208.241:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.208.241
+trojan://NISHIKUITAN111@188.114.99.153:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.99.153
+trojan://WOeXShhJpL@104.17.8.124:443?sni=10jzus.zdzdzd.xyz&peer=10jzus.zdzdzd.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.8.124
+trojan://bpb-trojan@104.27.1.100:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.1.100
+trojan://5a2c16f9@193.246.161.65:54310?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - AKILE LTD  193.246.161.65
+trojan://Aimer@162.159.143.153:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.143.153
+trojan://5a2c16f9@64.227.158.180:443?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#IN   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  64.227.158.180
+trojan://NISHIKUITAN111@195.245.221.107:443?security=tls#KZ   TROJAN-TCP-TLS - Cloudflare London, LLC  195.245.221.107
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?sni=wus01.weyaf9sdoh2h.space&peer=wus01.weyaf9sdoh2h.space&security=tls#US   TROJAN-TCP-TLS - VCL-147-149513  23.186.200.107
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.206:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.206
+trojan://ttfang@45.12.31.216:2096?sni=&peer=&security=tls#RO   TROJAN-TCP-TLS - Cloudflare London, LLC  45.12.31.216
+trojan://Aimer@162.159.135.35:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.135.35
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.39.18:443?sni=&peer=&security=tls#CA   TROJAN-TCP-TLS - CLOUDFLARENET  23.227.39.18
+trojan://Aimer@162.159.135.47:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.135.47
+trojan://blue2024@172.67.133.143:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.133.143
+trojan://Aimer@107.173.155.242:2087?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AS-COLOCROSSING  107.173.155.242
+trojan://Aimer@172.67.158.150:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.158.150
+trojan://Aimer@104.21.226.116:443?sni=epcco.ambercc.filegear-sg.me&peer=epcco.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.226.116
+trojan://vip@104.18.0.117:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.0.117
+trojan://blue2024@104.16.144.251:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.144.251
+trojan://Aimer@108.165.152.175:2096?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.152.175
+trojan://NISHIKUITAN111@213.241.198.195:443?security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  213.241.198.195
+trojan://Txoodd2HQP-Og7Y7MdVTbg@45.95.241.173:443?sni=&peer=&security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  45.95.241.173
+trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.21.18
+trojan://Aimer@172.67.158.62:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.158.62
+trojan://telegram-id-directvpn@3.65.251.210:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  3.65.251.210
+trojan://T%40_WvT8Ho%40LW%25w_,@172.66.47.42:2053?sni=NOp-55q.pAgEs.dEv&peer=NOp-55q.pAgEs.dEv&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.66.47.42
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.171.36
+trojan://NISHIKUITAN111@104.19.95.55:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.95.55
+trojan://Aimer@104.26.6.173:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.6.173
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.120.10:443?sni=ssp2.100896.xyz&peer=ssp2.100896.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.10
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?sni=Speedtest.net&peer=Speedtest.net&security=tls#NL   TROJAN-TCP-TLS - Scaleway S.a.s.  51.158.146.183
+trojan://0000000@18.238.109.28:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  18.238.109.28
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.18.144:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.18.144
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.68.86:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.68.86
+trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - TERAEXCH  206.238.237.146
+trojan://NISHIKUITAN111@141.101.122.171:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.122.171
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.241:2096?sni=1744156312.speed.nycvara.china.nicchina.pp.ua&peer=1744156312.speed.nycvara.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.241
+trojan://Aimer@27.50.49.251:2083?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.49.251
+trojan://Aimer@103.116.7.67:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  103.116.7.67
+trojan://NISHIKUITAN111@181.214.1.7:443?security=tls#AE   TROJAN-TCP-TLS - Cloudflare London, LLC  181.214.1.7
+trojan://NISHIKUITAN111@141.101.123.249:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.123.249
+trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.124.198
+trojan://Aimer@154.197.64.62:2083?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#SC   TROJAN-TCP-TLS - Cloudflare London, LLC  154.197.64.62
+trojan://82bacaef-f56f-4ac4-9db3-d4754a06d1ef@172.67.172.91:443?sni=xCdFvgBHy6.457.Pp.uA&peer=xCdFvgBHy6.457.Pp.uA&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.172.91
+trojan://ttfang@45.85.119.216:2096?sni=&peer=&security=tls#RO   TROJAN-TCP-TLS - Cloudflare London, LLC  45.85.119.216
+trojan://blue2024@104.19.175.73:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.175.73
+trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.223.137:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.223.137
+trojan://blue2024@104.18.123.217:443?sni=ta.promote.icu&peer=ta.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.123.217
+trojan://cMlOekwbxM@91.99.150.121:26576?security=none#DE   TROJAN-TCP-NTLS - Hetzner Online GmbH  91.99.150.121
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.184:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.184
+trojan://Aimer@172.67.71.79:443?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.71.79
+trojan://KBgnXadFmC@88.99.184.17:40450?security=none#DE   TROJAN-TCP-NTLS - Hetzner Online GmbH  88.99.184.17
+trojan://NISHIKUITAN111@198.41.208.50:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.208.50
+trojan://Aimer@104.129.167.255:8443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  104.129.167.255
+trojan://bpb-trojan@190.93.245.69:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.245.69
+trojan://Aimer@162.159.130.123:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.130.123
+trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me&peer=epge.muarua.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  167.68.4.199
+trojan://Aimer@124.156.202.172:443?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue  124.156.202.172
+trojan://Aimer@160.79.105.160:8443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - ANTHROPIC  160.79.105.160
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz&peer=sg01.freeflyingcloud.xyz&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  13.248.169.48
+trojan://Aimer@162.159.140.209:443?sni=epcco.ambercc.filegear-sg.me&peer=epcco.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.140.209
+trojan://NISHIKUITAN111@173.245.49.43:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  173.245.49.43
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.192.1
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?sni=ts888.yumige.dpdns.org&peer=ts888.yumige.dpdns.org&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.145.93
+trojan://Aimer@199.34.228.50:2053?sni=epccs.ambercc.filegear-sg.me&peer=epccs.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - WEEBLY  199.34.228.50
+trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443?sni=ebank.bmi.ir&peer=ebank.bmi.ir&security=tls#FR   TROJAN-TCP-TLS - OVH SAS  54.36.191.211
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.133.75
+trojan://NISHIKUITAN111@104.25.233.12:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.25.233.12
+trojan://NISHIKUITAN111@45.131.211.23:443?security=tls#NL   TROJAN-TCP-TLS - Cloudflare London, LLC  45.131.211.23
+trojan://Aimer@104.16.14.85:443?sni=epms.ambercc.filegear-sg.me&peer=epms.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.14.85
+trojan://NISHIKUITAN111@104.27.58.225:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.58.225
+trojan://NISHIKUITAN111@198.41.193.49:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.193.49
+trojan://M2M4M2E0Rma3OA==@46.38.151.36:50187?security=none#IR   TROJAN-TCP-NTLS - Peyman Ertebatat Pouya Company (Ltd)  46.38.151.36
+trojan://blue2024@104.17.36.105:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.36.105
+trojan://Aimer@27.50.48.21:443?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - Cloudflare London, LLC  27.50.48.21
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.45:443?sni=&peer=&security=tls#CA   TROJAN-TCP-TLS - CLOUDFLARENET  23.227.38.45
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls#XX   TROJAN-TCP-TLS  None
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.144.63:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.144.63
-trojan://Aimer@162.159.129.136:443?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.129.136
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.76:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.76
+trojan://vip@104.26.6.112:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.6.112
+trojan://5a2c16f9@172.208.36.45:80?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#US   TROJAN-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK  172.208.36.45
+trojan://Aimer@49.51.179.33:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Tencent Building, Kejizhongyi Avenue  49.51.179.33
+trojan://telegram-id-privatevpns@52.28.215.27:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE   TROJAN-TCP-TLS - AMAZON-02  52.28.215.27
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@ct.877774.xyz:443?sni=cm2-bpg.filegear-sg.me&peer=cm2-bpg.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.229.173
+trojan://blue2024@104.16.110.37:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.110.37
+trojan://blue2024@104.24.160.227:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.24.160.227
+trojan://Aimer@188.164.159.18:443?sni=epmw.ambercc.filegear-sg.me&peer=epmw.ambercc.filegear-sg.me&security=tls#AM   TROJAN-TCP-TLS - Cloudflare London, LLC  188.164.159.18
+trojan://5a2c16f9@141.147.152.229:23333?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - ORACLE-BMC-31898  141.147.152.229
+trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.190.131
+trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?sni=Xxs345rf.857856.xYZ&peer=Xxs345rf.857856.xYZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.216.240
+trojan://Aimer@66.81.247.88:2083?sni=ameqo.esslh.filegear-sg.me&peer=ameqo.esslh.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  66.81.247.88
+trojan://bpb-trojan@173.245.59.182:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  173.245.59.182
+trojan://NISHIKUITAN111@104.18.113.114:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.113.114
+trojan://Aimer@104.16.4.161:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.4.161
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.11:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  209.46.30.11
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.149.172:443?sni=usa-sanjose-one.890614.filegear-sg.me&peer=usa-sanjose-one.890614.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.149.172
+trojan://Aimer@104.17.16.127:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.16.127
+trojan://trojan@104.21.22.11:8443?sni=betashop.foz.rf.gd&peer=betashop.foz.rf.gd&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.22.11
+trojan://Aimer@176.124.223.40:2053?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  176.124.223.40
+trojan://NISHIKUITAN111@104.27.25.157:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.25.157
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?sni=bangladeshipatri.com&peer=bangladeshipatri.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.147.77
+trojan://Aimer@108.165.152.82:8443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  108.165.152.82
+trojan://Aimer@172.67.170.18:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.170.18
+trojan://m9n0o1p2-3456-7bcd-8abc-9012abcdef34@104.21.25.140:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.25.140
+trojan://blue2024@162.159.44.194:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.44.194
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls#SG   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  139.59.119.143
+trojan://3778399737045327872@35.77.146.185:443?security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  35.77.146.185
+trojan://Aimer@162.159.128.233:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.233
+trojan://blue2024@190.93.246.191:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.246.191
+trojan://trojan@104.18.12.229:8443?sni=pangpi.pages.dev&peer=pangpi.pages.dev&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.12.229
+trojan://Aimer@104.16.199.254:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.199.254
+trojan://Aimer@104.17.178.92:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.178.92
+trojan://Aimer@104.26.10.101:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.10.101
+trojan://NISHIKUITAN111@104.17.85.90:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.85.90
+trojan://blue2024@104.18.121.158:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.121.158
+trojan://auto@104.20.22.241:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.20.22.241
+trojan://NISHIKUITAN111@104.17.52.133:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.52.133
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.129:2053?sni=1744156312.speed.baxsab.china.nicchina.pp.ua&peer=1744156312.speed.baxsab.china.nicchina.pp.ua&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.129
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.34.202:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.34.202
+trojan://Aimer@46.254.93.211:2053?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  46.254.93.211
+trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AS-GLOBALTELEHOST  142.202.48.220
+trojan://blue2024@104.27.116.34:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.27.116.34
+trojan://2d068083-2cb0-4ae3-a44a-6fc82f3039cc@104.21.38.90:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.38.90
+trojan://blue2024@104.16.104.65:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.104.65
+trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz&peer=fr2a.88888806.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.175.149
+trojan://0000000@3.168.86.35:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  3.168.86.35
+trojan://Aimer@104.16.34.120:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.34.120
+trojan://telegram-id-privatevpns@15.236.5.106:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR   TROJAN-TCP-TLS - AMAZON-02  15.236.5.106
+trojan://Aimer@172.64.157.51:443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.64.157.51
+trojan://Aimer@77.232.140.101:2053?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#RU   TROJAN-TCP-TLS - Cloudflare London, LLC  77.232.140.101
+trojan://Aimer@104.19.148.23:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.148.23
+trojan://auto@188.114.99.222:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.99.222
+trojan://Aimer@104.19.40.32:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.40.32
+trojan://blue2024@66.235.200.173:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - CLOUDFLARENET  66.235.200.173
+trojan://Aimer@162.159.128.172:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.128.172
+trojan://Aimer@162.159.140.164:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.140.164
+trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10-Bpb-WOrKer-paneL.pagEs.DeV&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0@64.181.227.82:443?sni=snippets.kkii.eu.org&peer=snippets.kkii.eu.org&security=tls#US   TROJAN-TCP-TLS - ORACLE-BMC-31898  64.181.227.82
+trojan://NISHIKUITAN111@198.41.217.62:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.217.62
+trojan://Aimer@172.67.65.113:2083?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.65.113
+trojan://blue2024@172.67.122.48:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.122.48
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@103.179.173.232:17751?sni=&peer=&security=tls#VN   TROJAN-TCP-TLS - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP  103.179.173.232
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.23:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.12.23
 trojan://NISHIKUITAN111@141.101.121.30:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.121.30
-trojan://Aimer@172.67.77.127:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.77.127
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.167:2096?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.52.167
-trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.218.63:443?sni=M4rrT.999157.XYz&peer=M4rrT.999157.XYz&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.218.63
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online&peer=nextstepcareer.online&security=tls#DE   TROJAN-TCP-TLS - DIGITALOCEAN-ASN  165.22.74.230
-trojan://bpb-trojan@198.41.202.175:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  198.41.202.175
-trojan://Aimer@119.196.34.173:50000?sni=&peer=&security=tls#KR   TROJAN-TCP-TLS - Korea Telecom  119.196.34.173
-trojan://aq8fDUEzAt@81.28.12.12:443?security=tls#NL   TROJAN-TCP-TLS - G-Core Labs S.A.  81.28.12.12
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.215:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  209.46.30.215
-trojan://Aimer@104.17.150.82:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.17.150.82
+trojan://blue2024@162.159.60.183:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.60.183
+trojan://WOeXShhJpL@104.16.148.178:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.16.148.178
+trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?sni=present-blowfish.sunbeam921.monster&peer=present-blowfish.sunbeam921.monster&security=tls#XX   TROJAN-TCP-TLS  None
+trojan://NISHIKUITAN111@104.26.9.14:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.9.14
+trojan://Aimer@103.116.7.189:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  103.116.7.189
+trojan://NISHIKUITAN111@104.21.67.193:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.67.193
+trojan://Aimer@104.18.0.96:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.0.96
+trojan://Aimer@104.26.1.253:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.1.253
+trojan://5a2c16f9@47.79.42.197:443?sni=&peer=&security=tls#JP   TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd.  47.79.42.197
+trojan://Aimer@162.159.140.127:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.140.127
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445?sni=flb.aaaa.gay&peer=flb.aaaa.gay&security=tls#CA   TROJAN-TCP-TLS - RICAWEBSERVICES  209.209.10.231
+trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.172.71:443?sni=M4sdRtyU.999165.xYZ&peer=M4sdRtyU.999165.xYZ&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.172.71
+trojan://blue2024@190.93.245.114:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  190.93.245.114
+trojan://Aimer@104.26.4.226:443?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.26.4.226
+trojan://Aimer@206.238.236.252:2096?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#SG   TROJAN-TCP-TLS - TERAEXCH  206.238.236.252
+trojan://blue2024@104.19.156.145:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.156.145
+trojan://Aimer@199.34.228.164:2087?sni=epccz.ambercc.filegear-sg.me&peer=epccz.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - WEEBLY  199.34.228.164
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls#KR   TROJAN-TCP-TLS - ORACLE-BMC-31898  138.2.114.255
+trojan://Aimer@172.67.145.119:443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  172.67.145.119
+trojan://Aimer@104.21.74.120:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.21.74.120
+trojan://Aimer@162.159.141.17:443?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.141.17
+trojan://Aimer@154.26.182.37:443?sni=&peer=&security=tls#US   TROJAN-TCP-TLS - DMIT  154.26.182.37
+trojan://Aimer@bestcf.030101.xyz:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.87.213
+trojan://NISHIKUITAN222@141.101.120.152:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  141.101.120.152
+trojan://NISHIKUITAN111@159.246.55.202:443?security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  159.246.55.202
+trojan://Aimer@104.19.33.63:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.19.33.63
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#AT   TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H  212.183.88.172
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@94.177.131.150:46002?security=tls#JP   TROJAN-TCP-TLS - G-Core Labs S.A.  94.177.131.150
+trojan://blue2024@162.159.61.229:443?sni=&peer=&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  162.159.61.229
+trojan://Aimer@104.18.7.58:443?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  104.18.7.58
+trojan://Aimer@135.84.74.27:8443?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US   TROJAN-TCP-TLS - USG-PROD-WEST01  135.84.74.27
+trojan://Go5e2nKM8T@188.42.88.144:2053?sni=aa.v2jey.fun&peer=aa.v2jey.fun&security=tls#LU   TROJAN-TCP-TLS - Cloudflare London, LLC  188.42.88.144
+trojan://bpb-trojan@188.114.96.34:443?security=tls#XX   TROJAN-TCP-TLS - CLOUDFLARENET  188.114.96.34
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%9F%A971%40oneclickvpnkeys
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096/?type=ws&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&alpn=h3&allowInsecure=1&fp=edge#
+trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#%F0%9F%92%9BShared%20via%20%40AzarAndoozVPNbot
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40Filter_breaker
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F&security=tls&insecure=0&host=_acme-challenge.2go.cloudns.be&type=ws&allowInsecure=0&sni=_acme-challenge.2go.cloudns.be#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9A%A1%20%7C`**
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
+trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:443?hiddify=1&sni=filma.video-fun-new.com.de&type=ws&alpn=http%2F1.1&path=%2FMhTmxpkpcD3E2KuHxT&host=filma.video-fun-new.com.de&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_11_6%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F103.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#Filter%20tls%20WS%20CDN%20trojan
+trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:443?hiddify=1&sni=filma.video-fun-new.com.de&type=grpc&alpn=h2&path=MhTmxpkpKWUvzLtY5bR0&host=filma.video-fun-new.com.de&serviceName=MhTmxpkpKWUvzLtY5bR0&mode=gun&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_11_6%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F103.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#Filter%20tls%20grpc%20CDN%20trojan
+trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=ws&host=filma.video-fun-new.com.de&path=/MhTmxpkpcD3E2KuHxT&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=http/1.1#Filter2
+trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@185.251.80.0:443?type=grpc&mode=gun&serviceName=MhTmxpkpKWUvzLtY5bR0&security=tls&fp=chrome&sni=filma.video-fun-new.com.de&alpn=h2#Filter4
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Telegram%3A%20%40v2node
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-0243
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0266
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1981
@@ -245,22 +255,7 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1983
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network#%F0%9F%87%A9%F0%9F%87%AADE-185.235.137.77-0317
 trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.104-0315
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&headerType=none&type=tcp&sni=www.fuzzyfeelergauge.click#%F0%9F%92%9BShared%20via%20%40AzarAndoozVPNbot
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40Filter_breaker
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F&security=tls&insecure=0&host=_acme-challenge.2go.cloudns.be&type=ws&allowInsecure=0&sni=_acme-challenge.2go.cloudns.be#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9A%A1%20%7C`**
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
-trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%9F%A971%40oneclickvpnkeys
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096/?type=ws&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&alpn=h3&allowInsecure=1&fp=edge#
-trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%252Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
-trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@54.199.226.29:3194?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv#%40Hope_Net-join-us-on-Telegram
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=
@@ -346,7 +341,9 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pb
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=apple.com&sid=aabbccdd#[75914]
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%40Spotify_Porteghali%202331
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#[openproxylist.com]
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#Join+Telegram:@Farah_VPN
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#@v2ray_configs_pool®France©Parisping:30.84ms
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN?ed=2560&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=aabbccdd#@ATLAS_V2VPN84
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN-@ATLAS_V2VPN?ed=2560&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=aabbccdd#Join+Telegram:@Farah_VPN
@@ -1209,7 +1206,6 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?allowInsecure=0&s
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?allowInsecure=0&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?allowInsecure=0&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1985
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2005
@@ -1219,10 +1215,10 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?allowInsecure=0&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1981
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?security=tls&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1933?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2008
@@ -1241,7 +1237,6 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?allowInsecure=1&s
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?allowInsecure=1&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?allowInsecure=1&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1983
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
@@ -1251,11 +1246,11 @@ trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
+trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#@v2ray_configs_pool®Japan©Osakaping:260ms
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?allowInsecure=0&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1980
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=www.nintendogames.net#[openproxylist.com]
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?security=tls&sni=
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:4006?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2007
