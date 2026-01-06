@@ -8,8 +8,3 @@ tuic://d9812081-7f61-456d-9340-a1fb8dfd603b%3Ad9812081-7f61-456d-9340-a1fb8dfd60
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b%3Ad9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-2.nezhasu.cn:55279?sni=phoenix-2.nezhasu.cn&alpn=h3&congestion_control=bbr#%F0%9F%A5%A9%40AzarAndoozVPNbot
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b%3Ad9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-3.nezhasu.com:58324?sni=phoenix-3.nezhasu.com&alpn=h3&congestion_control=bbr#%F0%9F%A5%A9%40AzarAndoozVPNbot
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b%3Ad9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-4.nezhasu.com:56507?sni=phoenix-4.nezhasu.com&alpn=h3&congestion_control=bbr#%F0%9F%A5%A9%40AzarAndoozVPNbot
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@marseille-1.nezhasu.com:55826/?congestion_control=bbr&udp_relay_mode=native&sni=marseille-1.nezhasu.com&alpn=h3#36@oneclickvpnkeys
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-1.nezhasu.cn:59945/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-1.nezhasu.cn&alpn=h3#38@oneclickvpnkeys
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-2.nezhasu.cn:55279/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-2.nezhasu.cn&alpn=h3#40@oneclickvpnkeys
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-3.nezhasu.com:58324/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-3.nezhasu.com&alpn=h3#37@oneclickvpnkeys
-tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-4.nezhasu.com:56507/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-4.nezhasu.com&alpn=h3#39@oneclickvpnkeys
