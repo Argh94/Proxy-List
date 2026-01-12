@@ -1,7 +1,5 @@
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?sni=www.apple.com&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.76.84
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://9bb452b106ffc217@207.148.22.93:443?insecure=1&obfs=salamander#US   HYSTERIA2-TCP-NTLS - AS-VULTR  207.148.22.93
-hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?sni=www.google.com&insecure=1&obfs=salamander#FR   HYSTERIA2-TCP-NTLS - Aeza International Ltd  77.221.152.71
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?sni=api.push.apple.com&insecure=1#SG   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  152.69.220.212
+hysteria2://S1XZDIaoUX@193.108.112.6:50163?insecure=1&obfs=salamander#AL   HYSTERIA2-TCP-NTLS - ASNET  193.108.112.6
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:49405/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
@@ -233,9 +231,9 @@ hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443?sni=www.apple
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?insecure=1&sni=api.push.apple.com#All-%40V2rayAlpha--2
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--2
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--2ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#All-%40V2rayAlpha--3
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-@V2rayAlpha--2
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20free
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20freevless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=%2Fvless&security=none&encryption=none&host=france-paris.hostinger.kcartik-vps.com&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
 hysteria2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-jp.mxtn.net:21554/?insecure=1&sni=fq-jp.mxtn.net#%E2%9C%88%EF%B8%8F23%40oneclickvpnkeys
 hysteria2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#%E2%9C%88%EF%B8%8F21%40oneclickvpnkeys
 hysteria2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902?insecure=1&sni=www.bing.com#US48%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
@@ -259,8 +257,6 @@ hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gava
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%94%9120%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=
-hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%E2%9C%88%EF%B8%8F22%40oneclickvpnkeys
-hy2://e3c9c176-7ce6-40c8-9206-ff5ea72b1f0a@fq-jp.mxtn.net:21554/?insecure=1&sni=fq-jp.mxtn.net#%E2%9C%88%EF%B8%8F23%40oneclickvpnkeys
 hy2://yhqy5AHofQq@channel3.saghetalaie.homes:46914/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%E2%9A%A7%EF%B8%8F82%40onecliclvpnkeys
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%E2%9C%88%EF%B8%8F76%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#Germany
