@@ -1,5 +1,7 @@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.40
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a14:3f87:f001:1a::a:35000?insecure=0&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:1a::a
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?sni=www.bing.com&insecure=1#SG   HYSTERIA2-TCP-NTLS - Akamai Connected Cloud  139.162.37.41
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.23
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35200?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:53686/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:44949/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
@@ -45,6 +47,7 @@ hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&obfs
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%E2%9C%85%20%40ConfigV2RayNG%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%E2%9C%85%20%40ConfigV2RayNG%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfigvless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=0&sni=gavazn.55994421.xyz#
 hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#22@ConfigV2RayNG
 hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@V2rayBaaz&insecure=0&sni=gavazn.55994421.xyz#telegram@V2rayBaaz
@@ -187,8 +190,8 @@ hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?insecure=1&sn
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--1
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-@V2rayAlpha--1
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?insecure=1&sni=api.push.apple.com#All-%40V2rayAlpha--2
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--2
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--2ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#All-%40V2rayAlpha--3
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-@V2rayAlpha--2
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20free
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20freevless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=%2Fvless&security=none&encryption=none&host=france-paris.hostinger.kcartik-vps.com&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
