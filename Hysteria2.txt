@@ -23,7 +23,8 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Telegram=@SOSkeyNET
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@SimChin_iR
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#Telegram
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%9A%A1Telegram%20%3D%20%40vmessorg
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#Telegram=@SOSkeyNET
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@vpnbaz
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
@@ -47,9 +48,12 @@ hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&o
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#telegram
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#telegram%20%C2%BB%20mainv%F0%9D%9F%AEray%C2%B9%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Telegram = @SOSkeyNET
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#Telegram = @SOSkeyNET
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#United%20States
 hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-de.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F16%40oneclickvpnkeys
-hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-es.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F27%40oneclickvpnkeysvless://71031aa1-067e-425e-97f5-37875f838a10@144.31.2.63:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#%E2%99%A8%EF%B8%8F30%40oneclickvpnkeys
+hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-es.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F27%40oneclickvpnkeys
 hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-ru.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F42%40oneclickvpnkeys
 hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-se.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F23%40oneclickvpnkeys
 hy2://23328858-29e1-4dd0-85cc-614dba485c0d@yue-tr.yuetoto.net:443/?mport=21001-21999&insecure=1#%E2%99%A8%EF%B8%8F40%40oneclickvpnkeys
@@ -67,7 +71,6 @@ hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=
 hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
-hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#Netherlands
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
 hy2://fe793ec6-b7a9-4f30-b623-d3c9ca6eb37c@ssr-de-152.rosena.ggff.net:18349/?insecure=1&sni=ssr-de-152.rosena.ggff.net#%E2%99%A8%EF%B8%8F17%40oneclickvpnkeys
