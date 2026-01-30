@@ -1,10 +1,10 @@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?sni=www.apple.com&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.76.84
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
-hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?sni=hy5.hy2yydsapi.top&insecure=1#HK   HYSTERIA2-TCP-NTLS - AKILE LTD  156.226.173.8
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?sni=www.apple.com&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.76.84
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?sni=hy5.hy2yydsapi.top&insecure=1#HK   HYSTERIA2-TCP-NTLS - AKILE LTD  156.226.173.8
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
 hysteria2://3680d93f-683f-4f41-b3f5-2361df917ae6@us2.anliangjifei.top:50793,50000-55000/?insecure=1&sni=apps.apple.com#@APPXA-02
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#HK53%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#
@@ -27,7 +27,6 @@ hysteria2://7cd68008-f7f1-485f-b97f-2a9c384ba457@us2.anliangjifei.top:50644,5000
 hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@kr2.miyazono-kaori.com:42382?insecure=1&sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc#KR22%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
 hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443?insecure=1&sni=hy8.hy2yydsapi.top#%40Magsin_Vpn%20%F0%9F%98%8D
-hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443?security=tls&insecure=1&sni=hy8.hy2yydsapi.top#@Magsin_Vpn
 hysteria2://UiIoI79ktLVSpD8Fh6vTq5l5@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYS
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayNG3
@@ -75,8 +74,9 @@ hy2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16667/?sni=los.zuomom
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#%F0%9F%86%9497%40oneclickvpnkeys
-hy2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443/?insecure=1&sni=hy8.hy2yydsapi.top#%3E%3E%40oneclickvpnkeys%3A%3AES
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@172.233.97.125:8443/?insecure=1&sni=hy8.hy2yydsapi.top#Spain
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%86%9447%40oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%289%29
