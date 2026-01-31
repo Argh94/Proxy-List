@@ -20,7 +20,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--%40V2rayAlpha
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#rya@V2rayBaaz
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#NL%20%20ROSE08
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#r%E2%99%A1ya%40V2rayBaaz%E2%97%87%E2%83%9F%F0%9F%92%9C%20%231
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#rya@V2rayBaaz
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#r%E2%99%A1ya%40V2rayBaaz%E2%97%87%E2%83%9F%F0%9F%92%9C%20%232
@@ -49,6 +48,7 @@ hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@167.234.251.78:443?insecure=1&s
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20free
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20freevless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=%2Fvless&security=none&encryption=none&host=france-paris.hostinger.kcartik-vps.com&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://f2f816e5-6d2e-4fde-9cc2-773aa293dc8b@103.190.179.40:8080?insecure=1&sni=sg10.352343.cc#SG5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
