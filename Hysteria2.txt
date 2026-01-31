@@ -1,8 +1,8 @@
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?sni=www.apple.com&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.76.84
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#HK53%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk02.poke-mon.xyz:20000?insecure=1&sni=www.bing.com#AE1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
@@ -55,9 +55,36 @@ hysteria2://f2f816e5-6d2e-4fde-9cc2-773aa293dc8b@103.190.179.40:8080?insecure=1&
 hysteria2://f2f816e5-6d2e-4fde-9cc2-773aa293dc8b@202.85.53.142:8080?insecure=1&sni=hkt08.344233.cc#HK52%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://f2f816e5-6d2e-4fde-9cc2-773aa293dc8b@36.231.66.157:8080?insecure=1&sni=5gzdx.233235.xyz#TW12%EF%BD%9C%E5%95%86%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@129.153.76.186:50000?insecure=1&sni=fastcdn.hoyoverse.com#US6%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@152.69.160.74:50000?insecure=1&sni=fastcdn.hoyoverse.com#AU1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@193.122.12.150:50000?insecure=1&sni=fastcdn.hoyoverse.com#DE21%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@168.138.233.67:50000?insecure=1&sni=fastcdn.hoyoverse.com#BR1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@193.123.93.213:50000?insecure=1&sni=fastcdn.hoyoverse.com#AE1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@103.62.49.132:55000?insecure=1&sni=fastcdn.hoyoverse.com#JP5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://fbf28ef0-3981-4ac6-ab33-95e599afdd99@kr1.miyazono-kaori.com:42101?insecure=1&sni=kr1.miyazono-kaori.com&obfs=salamander&obfs-password=MKsqfibVxwhZ3pCf#KR4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://fbf28ef0-3981-4ac6-ab33-95e599afdd99@kr2.miyazono-kaori.com:42329?insecure=1&sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc#KR5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://c24191f6-2d66-44b0-af03-6a66dac2be43@jp.xiongchumo.shop:21512?insecure=1&sni=jp.xiongchumo.shop#JP7%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21977?insecure=1&sni=jp.xiongchumo.shop#JP8%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21293?insecure=1&sni=jp.xiongchumo.shop#JP9%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21512?insecure=1&sni=jp.xiongchumo.shop#JP10%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://c24191f6-2d66-44b0-af03-6a66dac2be43@jp.xiongchumo.shop:21006?insecure=1&sni=jp.xiongchumo.shop#JP11%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21545?insecure=1&sni=jp.xiongchumo.shop#JP12%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://7c014d1d-262d-4ce0-97d0-2d622b9910c2@jp.xiongchumo.shop:21617?insecure=1&sni=jp.xiongchumo.shop#JP13%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://c24191f6-2d66-44b0-af03-6a66dac2be43@jp.xiongchumo.shop:21301?insecure=1&sni=jp.xiongchumo.shop#JP14%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://c24191f6-2d66-44b0-af03-6a66dac2be43@jp.xiongchumo.shop:21707?insecure=1&sni=jp.xiongchumo.shop#JP15%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://8eefda16-80d0-46ca-ace1-5fc35a57992c@jp.xiongchumo.shop:21543?insecure=1&sni=jp.xiongchumo.shop#JP16%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://c24191f6-2d66-44b0-af03-6a66dac2be43@jp.xiongchumo.shop:21315?insecure=1&sni=jp.xiongchumo.shop#JP17%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://ab586e14-5ee0-4b4e-b309-566552eda49a@jp.xiongchumo.shop:21744?insecure=1&sni=jp.xiongchumo.shop#JP22%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://ab586e14-5ee0-4b4e-b309-566552eda49a@jp.xiongchumo.shop:21733?insecure=1&sni=jp.xiongchumo.shop#JP23%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://870ece4c-2d40-450d-827f-de99bb71f4e1@jp.xiongchumo.shop:21258?insecure=1&sni=jp.xiongchumo.shop#JP24%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://870ece4c-2d40-450d-827f-de99bb71f4e1@jp.xiongchumo.shop:21787?insecure=1&sni=jp.xiongchumo.shop#JP25%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://bd6d7f79-a074-4371-a8ee-251975422dd0@jp.xiongchumo.shop:21919?insecure=1&sni=jp.xiongchumo.shop#JP26%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://bd6d7f79-a074-4371-a8ee-251975422dd0@jp.xiongchumo.shop:21246?insecure=1&sni=jp.xiongchumo.shop#JP27%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@193.123.93.213:50000?insecure=1&sni=fastcdn.hoyoverse.com#AE1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9%202
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=
 hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#United%20States
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
