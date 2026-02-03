@@ -387,6 +387,8 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&%3
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&%3Bpbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&%3BheaderType=none&%3Bfp=random&%3Btype=tcp&%3Bsni=apple.com&%3Bsid=aabbccdd#Join+Telegram:@Farah_VPN
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&%3Bpbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&%3BheaderType=none&%3Bfp=random&%3Btype=tcp&%3Bsni=
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#Telegram:@IP_CF
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#@v2ray_configs_pool®France©Parisping:30.74ms
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#@v2ray_configs_pool®France©Parisping:30.88ms
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#Join+Telegram:@Farah_VPN
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#Join+Telegram:@Farah_VPN
@@ -784,6 +786,7 @@ trojan://1bf36abe-aa32-41f5-9523-70d713645ba6@172.67.203.189:443/?type=ws&path=%
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8714
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#Telegram:@IP_CF
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=
 trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443/?type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#%40Hope_Net-join-us-on-Telegram
 trojan://1f709fdb-2176-4de7-8398-56a75b745eee@127.0.0.1:443?allowInsecure=0
@@ -1338,6 +1341,3 @@ trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10821?security=tls&
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10822?security=tls&headerType=none&fp=chrome&type=tcp&sni=
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10823?security=tls&headerType=none&fp=chrome&type=tcp&sni=
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10824?security=tls&headerType=none&fp=chrome&type=tcp&sni=
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10825?security=tls&headerType=none&fp=chrome&type=tcp&sni=
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10826?security=tls&headerType=none&fp=chrome&type=tcp&sni=
-trojan://49d51e4a-7770-4a78-9165-b4fed003bfcb@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2022
