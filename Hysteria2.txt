@@ -148,6 +148,13 @@ hysteria2://fbf28ef0-3981-4ac6-ab33-95e599afdd99@kr1.miyazono-kaori.com:42101?in
 hysteria2://fbf28ef0-3981-4ac6-ab33-95e599afdd99@kr2.miyazono-kaori.com:42329?insecure=1&sni=kr2.miyazono-kaori.com&obfs=salamander&obfs-password=rVYx28ncsHBinunc#KR5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?insecure=1#ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com%3A443
+hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?insecure=1#22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com%3A443
+hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com:443?insecure=1#9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com%3A443
+hysteria2://4fb15f9c-f078-11ed-814b-f23c91369f2d@22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com:443?insecure=1#22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com%3A443
+hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?insecure=1#9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com%3A443
+hysteria2://bd515574-3b10-11ee-ac14-f23c9164ca5d@ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com:443?insecure=1#ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com%3A443
+hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?insecure=1#4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com%3A443
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=
 hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
