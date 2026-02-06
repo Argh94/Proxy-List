@@ -115,50 +115,42 @@ trojan://a9570330-769d-11ef-90dc-1577c1651679@104.18.1.196:443?sni=sg-trojan.and
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?sni=www.nintendogames.net&peer=www.nintendogames.net&security=tls#JP   TROJAN-TCP-TLS - SAKURA Internet Inc.  160.16.116.227
 trojan://bhwua3vr-iubr-wpam-uzoh-19bgkl3rwne9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
 trojan://9kzl7i2d-g0h8-609p-2d9h-xbxkny3sresc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#%E5%86%B0%E5%B2%9B+V2CROSS.COM
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&allowInsecure=1#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://telegram-id-privatevpns@13.38.170.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=1&sni=37.202.200.19#JP21%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%2Fripaojiedian#HK20%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%252Fripaojiedian#HK2%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#HK3%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me%252Fripaojiedian#HK4%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=219.76.135.98#HK24%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#HK10%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://056b39f5-ffb3-4145-8f75-2ffdeb53cb48@bestcdn0.868863.xyz:2087?allowInsecure=1&sni=17698512162997.682637.xyz&type=ws&host=17698512164336.682637.xyz&path=%2Fahyrtuyjykl#US4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://056b39f5-ffb3-4145-8f75-2ffdeb53cb48@bestcdn4.868863.xyz:2083?allowInsecure=1&sni=17698512161222.206355.xyz&type=ws&host=17698512161457.206355.xyz&path=%2Fvideomuaawe#US5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://5f4142b3-b20f-43f1-bc09-41c0e00662f9@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK11%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://14f7a5c0-e8ae-40a7-884c-41555730e3b6@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#HK12%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://4a14fe06-1b03-4d93-a360-1e33ae972896@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK13%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://80429ec5-265a-4a99-b0bb-ddc9e75411c0@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK14%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://21f085a7-ace6-495e-b550-281c8bfde899@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK16%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://19fcde52-c498-4863-8fb1-5923c75dec39@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK17%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://397b6abf-c044-4fa7-9b70-269d9ada828d@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK18%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://c22516d4-a4a2-4c62-917f-b73437d5827c@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US16%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://c30d5cba-aa70-4588-86b5-4cc897839ab8@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US9%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://3692ef88-4d16-4848-a01b-b646f9448b11@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#US10%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://41a4f30b-10d2-43e1-8e7f-0605eb63b064@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US12%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://ad8c3eed-70b9-4a22-94ca-b16e888290da@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US13%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowInsecure=1&sni=frankfurtrm2.686911.xyz#DE24%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?allowInsecure=1&sni=torontorm1.686911.xyz#CA1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://572685d1-c0d9-47e6-9764-05b7ada3745f@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US15%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://1face1ff-4075-4e3c-823d-dafd3430140b@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&sni=xiaozhu1.kkieo555.cn#US17%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://f7cecc70-524e-4bea-af14-d7367fdb4080@bestcdn4.868863.xyz:8443?allowInsecure=1&sni=17698511625136.206353.xyz&type=ws&host=17698511625590.206353.xyz&path=%2Fagrbniuh#DE27%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://5fb072e0ddd631cf66cf752b09210480@3.112.45.123:3373?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@13.115.128.246:1820?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@52.195.179.165:2266?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@18.183.170.92:26378?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://BxceQaOe@57.181.30.136:532?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@52.194.248.81:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://1@22.08--2026.02.04.time:2208?security=tls&headerType=&type=tcp&sni=fake_ip_for_sub_link#@meliproxyy
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@meliproxyy
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@meliproxyy
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@meliproxyy
+trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@meliproxyy
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#@Capoit4.
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#Telegram = @SOSkeyNET
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#@AR14N24b  # #proxy #v2ray     /   |   |     @AR14N24B
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Telegram = @SOSkeyNET
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@AR14N24b
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%40meliproxyy
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%40meliproxyy
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#Tele%3A+%40configraygan++4
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#Telegram = @SOSkeyNET
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#@AR14N24b
+trojan://telegram-id-directvpn@13.38.170.83:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@13.38.170.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tele%3A+%40configraygan++1
+trojan://telegram-id-directvpn@13.38.170.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b
+trojan://telegram-id-directvpn@3.127.12.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@3.127.12.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b
+trojan://telegram-id-directvpn@3.76.176.201:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Telegram = @SOSkeyNET   Telegram = @SOSkeyNET  
+trojan://telegram-id-directvpn@3.76.176.201:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#@AR14N24b
+trojan://telegram-id-directvpn@3.76.176.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@3.76.176.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b
+trojan://telegram-id-directvpn@35.181.252.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET   Telegram = @SOSkeyNET  
+trojan://telegram-id-privatevpns@13.38.170.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Telegram = @SOSkeyNET
+trojan://telegram-id-privatevpns@13.38.170.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tele%3A+%40configraygan++2
+trojan://telegram-id-privatevpns@13.38.170.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b
+trojan://telegram-id-privatevpns@3.127.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
+trojan://telegram-id-privatevpns@3.127.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b  # #proxy #v2ray     /   |   |     @AR14N24B
+trojan://telegram-id-privatevpns@3.76.176.201:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Telegram = @SOSkeyNET
+trojan://telegram-id-privatevpns@3.76.176.201:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#@AR14N24b
+trojan://telegram-id-privatevpns@3.76.176.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
+trojan://telegram-id-privatevpns@3.76.176.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@AR14N24b
+trojan://telegram-id-privatevpns@35.181.252.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.252.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram = @SOSkeyNET
 trojan://d03e1173-3109-43c0-a5dd-e2b56916c540@xiaozhu1.kkieo555.cn:11278?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#jtc3-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
 trojan://66037360-50d4-49c3-b3e7-810de84917e9@xiaozhu1.kkieo555.cn:11278?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#bd8h-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#IR-%40V2rayAlpha-32`
@@ -222,13 +214,31 @@ trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?allowInsecure=0&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://BxceQaOe@52.194.248.81:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.234.230-1763
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.190.13-1765
-trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.107.76-1766
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-1761
-trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1760
-trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1762
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0410
+trojan://c1d83c0c7d57cead4379ba14a82df69b@178.128.114.70:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A5
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12%201.3MB%2Fs
+trojan://BxceQaOe@52.195.179.165:2266?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://BxceQaOe@18.183.170.92:26378?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://5fb072e0ddd631cf66cf752b09210480@3.112.45.123:3373?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%203.3MB%2Fs
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A54
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A55
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS%E5%86%B0%E5%B2%9B%202.6MB%2Fs
+trojan://d03e1173-3109-43c0-a5dd-e2b56916c540@xiaozhu1.kkieo555.cn:11278?security=tls&headerType=none&type=tcp&sni=TelegramWangCai2#%E6%9C%AA%E7%9F%A510
+trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%203.5MB%2Fs
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20687.0KB%2Fs
+trojan://6a8c843d-d692-44cd-894e-e9114d3a006e@220.130.58.136:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE%2045.9KB%2Fs
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:5076?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A511
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9#%F0%9F%87%B3%F0%9F%87%B4NO%E6%8C%AA%E5%A8%81
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A512
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4%202.0MB%2Fs
+trojan://BxceQaOe@13.115.128.246:1820?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
+trojan://BxceQaOe@57.181.30.136:532?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7%20776.2KB%2Fs
+trojan://BxceQaOe@52.194.248.81:4569?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
@@ -398,6 +408,12 @@ trojan://0c6a3341e8d5ab17@5.44.249.42:3389?security=tls&allowInsecure=1&type=tcp
 trojan://0c6a3341e8d5ab17@5.44.249.44:3389?security=tls&allowInsecure=1&type=tcp
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.144.61-1683
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@60a22220-8a8f-46e7-82ba-76d42df68c34.661.qzz.io:443?allowInsecure=0&sni=60a22220-8A8f-46e7-82bA-76D42Df68c34.661.qZZ.Io&ws=1&wspath=%2FMkQ4MzFOyssdW9ksbbZ1wwDhJ3#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@60a22220-8a8f-46e7-82ba-76d42df68c34.661.qzz.io:443?allowInsecure=0&sni=60a22220-8A8f-46e7-82bA-76D42Df68c34.661.qZZ.Io&ws=1&wspath=%2FMkQ4MzFOyssdW9ksbbZ1wwDhJ3#Join+Telegram:@Farah_VPN
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@60a22220-8a8f-46e7-82ba-76d42df68c34.661.qzz.io:443?allowInsecure=0&sni=
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io:443?allowInsecure=0&sni=6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io&ws=1&wspath=%2FMkQ4MzFOyssdW9ksbbZ1wwDhJ3#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io:443?allowInsecure=0&sni=6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io&ws=1&wspath=%2FMkQ4MzFOyssdW9ksbbZ1wwDhJ3#Join+Telegram:@Farah_VPN
+trojan://0c6b96bc-5e3a-4500-8497-6dead1965609@6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io:443?allowInsecure=0&sni=
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=
 trojan://0cc6b4268dea0ba8@103.168.155.73:3306?security=tls&sni=
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls
@@ -610,6 +626,8 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&security=tls&sni=
 trojan://21f085a7-ace6-495e-b550-281c8bfde899@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK16%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-4849
+trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501?security=tls&sni=green2.cdntencentmusic.com#[openproxylist.com]
+trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501?security=tls&sni=
 trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2008
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
@@ -753,6 +771,9 @@ trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21118?security=tls&
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?security=tls&sni=
 trojan://2b9f96246284482db6c8c64c562ac174@118.142.55.62:443?security=tls&allowInsecure=1&type=tcp
 trojan://2b9f96246284482db6c8c64c562ac174@202.64.1.234:443?security=tls&allowInsecure=1&type=tcp
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=0&sni=blackshadow.dpdns.org&ws=1&wspath=%2F195.123.218.174-443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=0&sni=blackshadow.dpdns.org&ws=1&wspath=%2F195.123.218.174-443#Join+Telegram:@Farah_VPN
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=0&sni=
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?security=tls&sni=
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?security=tls&sni=
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=
@@ -1202,29 +1223,18 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?
 trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@103.173.255.228:28443?security=tls&type=tcp&headerType=none
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@202.8.9.67:28443?security=tls&type=tcp&headerType=none
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@91.243.81.42:28443?security=tls&type=tcp&headerType=none
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@download1hkt.windowsupdate1.com:28443?security=tls&type=tcp&headerType=none
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@download2tw.windowsupdate1.com:28443?security=tls&type=tcp&headerType=none
-trojan://5d59a6f0-48a1-11f0-94a7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?type=ws&sni=
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?type=ws&sni=
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?allowInsecure=0&sni=
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&sni=
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=
-trojan://5e65f547-15ec-49f0-9fe6-2340cf1aa2e0@cajs.stablize.top:443?type=tcp&allowInsecure=1
-trojan://5e65f547-15ec-49f0-9fe6-2340cf1aa2e0@sajs.stablize.top:443?type=tcp&allowInsecure=1
-trojan://5f4142b3-b20f-43f1-bc09-41c0e00662f9@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#HK11%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://5f4142b3-b20f-43f1-bc09-41c0e00662f9@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%8F%81RELAY-172.67.184.107-1736
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443/?type=tcp&security=tls&sni=
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%203
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#JP-13.231.234.230-0036
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#JP-13.231.234.230-1763
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#JP-13.231.234.230-1763%202
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#SG%E6%96%B0%E5%8A%A0%E5%9D%A13%202.5MB%2Fs
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=0&sni=
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?allowInsecure=0&sni=bBbNmKl.TAIwAn2028.IndEvs.In&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?allowInsecure=0&sni=bBbNmKl.TAIwAn2028.IndEvs.In&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#Join+Telegram:@Farah_VPN
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?allowInsecure=0&sni=
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@ggghj.www890604.dpdns.org:443?allowInsecure=0&sni=ggghj.www890604.dpdns.org&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@ggghj.www890604.dpdns.org:443?allowInsecure=0&sni=ggghj.www890604.dpdns.org&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#Join+Telegram:@Farah_VPN
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@ggghj.www890604.dpdns.org:443?allowInsecure=0&sni=
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@kkko9.191288.xyz:443?allowInsecure=0&sni=kKko9.191288.xyz&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@kkko9.191288.xyz:443?allowInsecure=0&sni=kKko9.191288.xyz&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#Join+Telegram:@Farah_VPN
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@kkko9.191288.xyz:443?allowInsecure=0&sni=
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mk.huangshang.online:443?allowInsecure=0&sni=mK.huAngshanG.OnlINe&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mk.huangshang.online:443?allowInsecure=0&sni=mK.huAngshanG.OnlINe&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#Join+Telegram:@Farah_VPN
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mk.huangshang.online:443?allowInsecure=0&sni=
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?allowInsecure=0&sni=mMKK.WwW890604.DpdNS.OrG&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?allowInsecure=0&sni=mMKK.WwW890604.DpdNS.OrG&ws=1&wspath=%2FhV829BTVzg35A6ueyyZnWd#Join+Telegram:@Farah_VPN
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?allowInsecure=0&sni=
