@@ -1,10 +1,8 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://b99a0551-c00f-4508-86a8-67388a0710c0@uk1.jueduibupao.top:42958?sni=uk1.jueduibupao.top&insecure=1#GB   HYSTERIA2-TCP-NTLS - Global Connectivity Solutions Llp  87.120.219.234
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490?sni=de1.jueduibupao.top&insecure=1#DE   HYSTERIA2-TCP-NTLS - Global Connectivity Solutions Llp  185.161.251.40
-hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21293?insecure=1&sni=jp.xiongchumo.shop#JP9%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21512?insecure=1&sni=jp.xiongchumo.shop#JP10%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://2e6285da-20a7-4aea-a5f0-20cf44479265@jp.xiongchumo.shop:21545?insecure=1&sni=jp.xiongchumo.shop#JP12%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
@@ -48,7 +46,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#canfingV2rayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@meliproxyy
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40V2rayNG3%20%233
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@V2rayNG3
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@V2rayNG3
@@ -71,12 +68,9 @@ hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20%E2%80%94%20%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91%202
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=
 hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#United%20States
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
-hy2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490/?insecure=1&sni=de1.jueduibupao.top#%E2%98%A2%EF%B8%8F3%40oneclickvpnkeys
 hy2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490/?insecure=1&sni=de1.jueduibupao.top#3@oneclickvpnkeys
-hy2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490/?insecure=1&sni=de1.jueduibupao.top#3@proxy_kafee
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%8D%87%20%40AzarAndoozVPNbot
@@ -86,7 +80,6 @@ hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhu
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=
 hy2://b99a0551-c00f-4508-86a8-67388a0710c0@uk1.jueduibupao.top:42958/?insecure=1&sni=uk1.jueduibupao.top#%E2%98%A2%EF%B8%8F5%40oneclickvpnkeys
 hy2://b99a0551-c00f-4508-86a8-67388a0710c0@uk1.jueduibupao.top:42958/?insecure=1&sni=uk1.jueduibupao.top#5@oneclickvpnkeys
-hy2://b99a0551-c00f-4508-86a8-67388a0710c0@uk1.jueduibupao.top:42958/?insecure=1&sni=uk1.jueduibupao.top#5@proxy_kafee
 hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443/?mport=20000-50000&sni=
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
