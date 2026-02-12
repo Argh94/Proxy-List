@@ -10,13 +10,11 @@ hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy1.xiaoliyu.us:2056?insecure
 hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056?insecure=1&sni=mlxy2.xiaoliyu.us#%F0%9F%92%AB8%40oneclickvpnkeys
 hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#Telegram%3A%40config_proxy%20%F0%9F%92%A6
 hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#Telegram%3A%40config_proxy%20%F0%9F%92%A6%202
-hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#Telegram:@config_proxy
 hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#
 hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:12345?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=us.jljd.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2031
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#%40filembad
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#@filembad
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%40proxy_kafee
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%40proxy_kafeevless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40proxy_kafee%E2%98%80%EF%B8%8F%F0%9F%A6%81%F0%9F%91%91%F0%9F%83%8F1vless://d4e6cdff-91c8-49f5-b211-f6b349617c49@de001c.ketabv.ir:443?path=%2FuqBYRQhpA2NzSIhejwuqjz%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de001c.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=de001c.ketabv.ir#%40proxy_kafee%F0%9F%A6%81%E2%98%80%EF%B8%8F%F0%9F%83%8F%E2%9C%8C%EF%B8%8F%202
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@proxy_kafee
@@ -91,8 +89,10 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#62@oneclickvpnkeys
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#60@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%92%AB9%40oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#9@oneclickvpnkeys
