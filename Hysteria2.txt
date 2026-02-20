@@ -1,3 +1,19 @@
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
+hysteria2://Telegram--%3E%40Ln2Ray@2a14:3f87:f001:9::a:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:9::a
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.40
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:35200?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  2a14:3f87:f001:13::a
+hysteria2://1bce1f4a-3a17-4e13-8b47-9090b39297a4@208.87.242.163:50000?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.242.163
+hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak1.smt001.top:30000?sni=us-ak1.smt001.top&insecure=0#US   HYSTERIA2-TCP-NTLS - PEG-LA  45.202.243.168
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.23
+hysteria2://1bce1f4a-3a17-4e13-8b47-9090b39297a4@129.153.71.226:50000?sni=www.microsoft.com&insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  129.153.71.226
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088?sni=apple.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  2001:bc8:32d7:302::17
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://1bce1f4a-3a17-4e13-8b47-9090b39297a4@208.87.242.105:50000?sni=www.bing.com&insecure=1#US   HYSTERIA2-TCP-NTLS - AS40676  208.87.242.105
+hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyz&insecure=0#GR   HYSTERIA2-TCP-NTLS - Nearoute Limited.  46.20.109.240
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088?sni=apple.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  2001:bc8:32d7:302::11
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=#%40Trick_mobil
 hysteria2://1bce1f4a-3a17-4e13-8b47-9090b39297a4@129.153.71.226:50000?insecure=1&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2010
 hysteria2://1bce1f4a-3a17-4e13-8b47-9090b39297a4@208.87.242.105:50000?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2013
