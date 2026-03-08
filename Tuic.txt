@@ -1,4 +1,1 @@
-tuic://2c94ca4e-2912-4fe3-95ed-00ed9635869a:2c94ca4e-2912-4fe3-95ed-00ed9635869a@204.152.198.183:40572?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - AS-COLOCROSSING  204.152.198.183
-tuic://2c94ca4e-2912-4fe3-95ed-00ed9635869a:2c94ca4e-2912-4fe3-95ed-00ed9635869a@62.84.172.51:60024?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL   TUIC-TCP-NTLS - DELUXHOST  62.84.172.51
-tuic://2c94ca4e-2912-4fe3-95ed-00ed9635869a:2c94ca4e-2912-4fe3-95ed-00ed9635869a@194.58.38.116:53614?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#BR   TUIC-TCP-NTLS - ASNET  194.58.38.116
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
