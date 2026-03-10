@@ -1,5 +1,1 @@
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#GB   TUIC-TCP-NTLS - Cristian Tudor Marcus  89.144.35.94
-tuic://7064fd82-5f12-4137-92d8-6e85b37bcdd2:7064fd82-5f12-4137-92d8-6e85b37bcdd2@207.174.28.26:31851?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - ASIPFB  207.174.28.26
-tuic://7064fd82-5f12-4137-92d8-6e85b37bcdd2:7064fd82-5f12-4137-92d8-6e85b37bcdd2@107.175.51.245:40001?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - AS-COLOCROSSING  107.175.51.245
-tuic://7064fd82-5f12-4137-92d8-6e85b37bcdd2:7064fd82-5f12-4137-92d8-6e85b37bcdd2@104.223.85.174:41252?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#CA   TUIC-TCP-NTLS - ASN-QUADRANET-GLOBAL  104.223.85.174
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
