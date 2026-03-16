@@ -1,24 +1,22 @@
-hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  152.70.176.68
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&insecure=1#HK   HYSTERIA2-TCP-NTLS - HKT Limited  203.198.38.159
-hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?sni=db1.mangshe.xyz&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.78.85
-hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@lsj1.mangshe.xyz:2056?sni=lsj1.mangshe.xyz&insecure=1#US   HYSTERIA2-TCP-NTLS - BAXET-GROUP  38.114.101.78
-hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@132.145.28.17:65535?sni=www.microsoft.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.28.17
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@flkf.mangshe.xyz:2056?sni=flkf.mangshe.xyz&insecure=1#DE   HYSTERIA2-TCP-NTLS - SYNLINQ  37.114.49.38
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://l5g9ai6vj1.BQzhF42QERUurZ3U@panel.appleragmcp.com:443?sni=hysteria.apple-rag.com&insecure=0#US   HYSTERIA2-TCP-NTLS - AS-COLOCROSSING  198.12.70.36
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
-hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@132.145.52.10:65535?sni=www.microsoft.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.52.10
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@132.145.52.10:65535?sni=www.microsoft.com&insecure=1#GB   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  132.145.52.10
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
+hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@lsj1.mangshe.xyz:2056?sni=lsj1.mangshe.xyz&insecure=1#US   HYSTERIA2-TCP-NTLS - BAXET-GROUP  38.114.101.78
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?sni=db1.mangshe.xyz&insecure=1#AE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  193.123.78.85
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
+hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@152.70.176.68:1?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  152.70.176.68
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?sni=de.xn--ehqa22b.site&insecure=1#DE   HYSTERIA2-TCP-NTLS - Ultahost, Inc.  84.201.20.84
-hysteria2://020c5523-7fbf-4130-9509-8f2281505837@hkt.sevenka.top:34561?insecure=1#Telegram:@config_proxy
+hysteria2://l5g9ai6vj1.BQzhF42QERUurZ3U@panel.appleragmcp.com:443?sni=hysteria.apple-rag.com&insecure=0#US   HYSTERIA2-TCP-NTLS - AS-COLOCROSSING  198.12.70.36
+hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&insecure=1#HK   HYSTERIA2-TCP-NTLS - HKT Limited  203.198.38.159
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=#%40Trick_mobil
 hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?sni=svt1.fq.ito8.com#
 hysteria2://1f3a8f7a-ce7d-4005-81ba-44e03a0022aa@jp.xn--ehqa22b.site:21844?insecure=1&sni=jp.xn--ehqa22b.site#JP8%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#%40V2HUBIR
-hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?security=tls&insecure=1&sni=www.bing.com#@V2HUBIR
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927/?insecure=1&sni=de.xn--ehqa22b.site#8@oneclickvpnkeys
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insecure=1&sni=de.xn--ehqa22b.site#DE43%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@jp.xn--ehqa22b.site:21476?insecure=1&sni=jp.xn--ehqa22b.site#JP20%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
@@ -38,6 +36,7 @@ hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@jp.xn--ehqa22b.site:21522?insec
 hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@my.xn--ehqa22b.site:21735?insecure=1&sni=my.xn--ehqa22b.site#MY4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@my.xn--ehqa22b.site:21902?insecure=1&sni=my.xn--ehqa22b.site#MY13%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?insecure=1&sni=db1.mangshe.xyz#%F0%9F%87%A6%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%98%BF%E8%81%94%E9%85%8B%2001
+hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?sni=db1.mangshe.xyz&obfs=none&insecure=1#Telegram:@config_proxy
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@flkf.mangshe.xyz:2056?insecure=1&sni=flkf.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2002
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@lsj1.mangshe.xyz:2056?insecure=1&sni=lsj1.mangshe.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
 hysteria2://9cf5c4ba-6939-40b2-a78a-98a582e233bc@de.xn--ehqa22b.site:21078?insecure=1&sni=de.xn--ehqa22b.site#DE26%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
@@ -48,7 +47,6 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=#%40Trick_mobil%20%233
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=#%40Trick_mobil%20%234
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#telegram
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--%40V2rayAlpha
