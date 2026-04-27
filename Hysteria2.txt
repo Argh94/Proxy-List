@@ -1,25 +1,24 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?sni=vpn-uk-002.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  16.60.27.19
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?sni=vpn-kr-003.fastervpn.world&insecure=1#KR   HYSTERIA2-TCP-NTLS - AMAZON-02  54.180.135.118
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://48a46e1a-ca6a-4e17-9490-beba65edf2a6@us1.cloudsegl1.ccwu.cc:30003?sni=www.iq.com&insecure=1#US   HYSTERIA2-TCP-NTLS - PEG-LA  45.202.240.122
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  35.77.86.209
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?sni=vpn-us-005.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  54.202.175.223
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-001.fastervpn.world:443?sni=vpn-fr-001.fastervpn.world&insecure=1#FR   HYSTERIA2-TCP-NTLS - AMAZON-02  51.44.220.217
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?sni=vpn-ca-002.fastervpn.world&insecure=1#CA   HYSTERIA2-TCP-NTLS - AMAZON-02  15.156.203.252
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  3.68.167.21
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&insecure=1#GB   HYSTERIA2-TCP-NTLS - AMAZON-02  3.8.158.43
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?sni=vpn-jp-004.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  43.207.109.215
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?sni=vpn-jp-003.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  13.193.217.252
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?sni=vpn-us-006.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  35.88.23.33
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?sni=vpn-us-006.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  34.219.205.87
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&insecure=1#GB   HYSTERIA2-TCP-NTLS - AMAZON-02  35.177.233.159
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  3.68.167.21
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?sni=vpn-jp-004.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  18.181.163.21
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?sni=vpn-uk-002.fastervpn.world&insecure=1#GB   HYSTERIA2-TCP-NTLS - AMAZON-02  35.176.152.92
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?sni=vpn-kr-003.fastervpn.world&insecure=1#KR   HYSTERIA2-TCP-NTLS - AMAZON-02  13.125.218.190
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  13.230.23.167
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?sni=vpn-us-005.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  54.149.115.62
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?sni=vpn-ca-002.fastervpn.world&insecure=1#CA   HYSTERIA2-TCP-NTLS - AMAZON-02  99.79.48.129
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?sni=vpn-jp-003.fastervpn.world&insecure=1#US   HYSTERIA2-TCP-NTLS - AMAZON-02  13.193.103.15
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
 hysteria2://48a46e1a-ca6a-4e17-9490-beba65edf2a6@us1.cloudsegl1.ccwu.cc:30003?insecure=1&sni=www.iq.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2006
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#
 hysteria2://992af1b9-8494-4d6e-8d41-4cf1a20ea618@seednet-2.388898.xyz:13003?insecure=1&sni=www.bing.com#C%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2020%20TG%3A%20%40nodpai
 hysteria2://992af1b9-8494-4d6e-8d41-4cf1a20ea618@seednet-2.388898.xyz:13005?insecure=1&sni=www.bing.com&obfs=&obfs-password=#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2010%20TG%3A%20%40nodpai
 hysteria2://992af1b9-8494-4d6e-8d41-4cf1a20ea618@seednet-2.388898.xyz:13006?insecure=1&sni=www.bing.com#C%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2021%20TG%3A%20%40nodpai
@@ -27,6 +26,7 @@ hysteria2://9d9519a0-7df0-42a4-a765-29512ab65f5c@151.241.130.90:55000?insecure=1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--%40V2rayAlpha
 hysteria2://a1102edc-f382-4720-99f5-ecc0a74507af@207.174.28.26:51372?insecure=1&sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
+hysteria2://a1102edc-f382-4720-99f5-ecc0a74507af@207.174.28.26:51372?insecure=1&sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#
 hysteria2://a5742cd0-a98e-4d24-b610-f09af673f4e5@us1.cloudsegl1.ccwu.cc:30005?insecure=1&sni=www.iq.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#%40V2RAYROZ%20%F0%9F%90%A5%F0%9F%8C%B7
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@V2rayNG3
@@ -58,7 +58,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&sni=vpn-jp-003.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2009
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2006
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2013
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?insecure=1&sni=vpn-jp-011.fastervpn.world#A%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2002%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?insecure=1&sni=vpn-jp-011.fastervpn.world#JP_4%7C515KB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&sni=vpn-kr-001.fastervpn.world#KR_6%7C1.5MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2003
@@ -84,8 +83,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2004%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2007%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-017.fastervpn.world:443?insecure=1&sni=vpn-us-017.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2005%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-017.fastervpn.world:443?insecure=1&sni=vpn-us-017.fastervpn.world&obfs=&obfs-password=#A%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-020.fastervpn.world:443?insecure=1&sni=vpn-us-020.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2004%20TG%3A%20%40nodpai
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=
 hy2://5046SHWqk6@91.132.51.160:844/
