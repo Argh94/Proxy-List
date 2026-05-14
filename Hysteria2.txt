@@ -1,19 +1,20 @@
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?sni=vpn-jp-002.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  54.238.222.173
+hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@bwg.11022.net:25004?sni=bwg.11022.net&insecure=0#US   HYSTERIA2-TCP-NTLS - IT7NET  104.194.85.53
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
 hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@v3.aimaii.com:25004?sni=v3.aimaii.com&insecure=1#US   HYSTERIA2-TCP-NTLS - COGENT-174  38.65.92.127
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  178.18.147.66
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
 hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@racknerd.18kv.com:25004?sni=racknerd.18kv.com&insecure=0#US   HYSTERIA2-TCP-NTLS - MULTA-ASN1  148.135.93.111
 hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#US   HYSTERIA2-TCP-NTLS - AS-COLOCROSSING  107.172.224.252
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@dmit.adminsis.xyz:25004?sni=dmit.adminsis.xyz&insecure=0#US   HYSTERIA2-TCP-NTLS - GTT Communications Inc.  69.63.193.5
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?sni=vpn-jp-002.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  54.249.139.28
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?sni=vpn-in-001.fastervpn.world&insecure=1#IN   HYSTERIA2-TCP-NTLS - AMAZON-02  13.233.132.27
 hysteria2://Kz0JGcGICb@srm.kishonline.online:443?sni=srm.kishonline.online&insecure=0&obfs=salamander#IR   HYSTERIA2-TCP-NTLS - Peimayesh Ertebat Oxin Co.(PJSC)  5.22.201.217
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@bwg.11022.net:25004?sni=bwg.11022.net&insecure=0#US   HYSTERIA2-TCP-NTLS - IT7NET  104.194.85.53
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  54.178.16.213
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?sni=vpn-in-001.fastervpn.world&insecure=1#IN   HYSTERIA2-TCP-NTLS - AMAZON-02  43.205.198.9
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - dataforest GmbH  178.18.147.66
-hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
+hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@dmit.adminsis.xyz:25004?sni=dmit.adminsis.xyz&insecure=0#US   HYSTERIA2-TCP-NTLS - GTT Communications Inc.  69.63.193.5
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world&insecure=1#JP   HYSTERIA2-TCP-NTLS - AMAZON-02  54.250.143.150
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.3MB/s
 hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
 hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#US_5%7C1.0MB%2Fs
 hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#
@@ -37,30 +38,29 @@ hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@bwg.11022.net:25004?sni=bwg.110
 hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@dmit.adminsis.xyz:25004?sni=dmit.adminsis.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2016
 hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@racknerd.18kv.com:25004?sni=racknerd.18kv.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2015
 hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@v3.aimaii.com:25004?insecure=1&sni=v3.aimaii.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@zo.18kv.com:25004?insecure=1&alpn=h3&sni=#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.4MB/s
 hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2003%20TG%3A%20%40nodpai
 hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#%E2%9B%B0%EF%B8%8F39@oneclickvpnkeysss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@87.120.126.2:8388#%E2%9B%B0%EF%B8%8F40@oneclickvpnkeys
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#%E2%9B%B0%EF%B8%8F39@oneclickvpnkeysss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@87.120.126.2:8388#%E2%9B%B0%EF%B8%8F40@oneclickvpnkeysvless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.79:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%E2%9B%B0%EF%B8%8F41@oneclickvpnkeystrojan://8r%3C%5B9%27l6hAO%238ZQi@195.226.194.222:2053?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%E2%9B%B0%EF%B8%8F42@oneclickvpnkeystrojan://1710442808@188.114.98.0:443?host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#%E2%9B%B0%EF%B8%8F43@oneclickvpnkeystrojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%E2%9B%B0%EF%B8%8F44@oneclickvpnkeysvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.220:443?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%E2%9B%B0%EF%B8%8F45@oneclickvpnkeys
 hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#39@oneclickvpnkeys
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1NL_5%7C1.0MB/s
 hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#NL_2%7C1.1MB%2Fs
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.5MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-001.fastervpn.world:443?insecure=1&sni=vpn-ca-001.fastervpn.world#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C1.0MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.3MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#%F0%9F%87%AE%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%B0%E5%BA%A6%2001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2001
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.8MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2024%20TG%3A%20%40nodpai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?insecure=1&fp=&sni=vpn-jp-002.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.3MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?insecure=1&sni=vpn-jp-002.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2003%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&sni=vpn-jp-003.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2006%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2005%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&fp=&sni=vpn-kr-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.9MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?insecure=1&fp=&sni=vpn-sg-003.fastervpn.world&obfs=&obfs-password=#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.2MB/s
 hysteria2://tSVwuwRnNk@srm.kishonline.online:443?insecure=0&sni=srm.kishonline.online&obfs=salamander&obfs-password=kish-data-center#%D8%A8%D8%B1%D8%A7%DB%8C%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%2B%D8%AC%D9%88%DB%8C%D9%86%2B%D8%B4%D9%88%F0%9F%97%BE%2Bprro...
 hysteria2://tSVwuwRnNk@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%4
 hysteria2://tSVwuwRnNk@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#+++++prrofile_purple@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk
 hy2://5046SHWqk6@91.132.51.160:844/
 hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray
