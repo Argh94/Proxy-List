@@ -374,7 +374,9 @@ trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=/?ed=256
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?security=tls&sni=t.hongkong6.qzz.io&type=ws&path=/&Host=t.hongkong6.qzz.io
 trojan://0RiSuJPsug
 trojan://0RiSuJPsug%23v@104.21.43.168:443/?type=ws&host=2.lINK-KoN.IR&path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&sni=2.link-kon.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized
+trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db
 trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2012%20TG%3A%20%40nodpai
+trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#[openproxylist.com]
 trojan://0a9f1f5a397bd427@125.227.86.45:443?sni=TG.freecodes&allowInsecure=1&type=grpc&serviceName=db&mode=gun&alpn=h2&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2006
 trojan://0a9f1f5a397bd427@125.227.86.47:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443/?type=tcp&security=tls&sni=sherasheba.com
@@ -614,8 +616,6 @@ trojan://162534@31.56.117.108:2096/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3
 trojan://162534@43.165.190.11:42841?allowInsecure=0&sni=cchh2.pages.dev&ws=1&wspath=%2F
 trojan://162534@43.165.190.11:42841?allowInsecure=0&sni=cchh2.pages.dev&ws=1&wspath=%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://162534@43.165.190.11:42841?allowInsecure=0&sni=cchh2.pages.dev&ws=1&wspath=%2F#Join+Telegram:@Farah_VPN
-trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=%2F
-trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#[56593]
 trojan://162534@43.165.190.11:42841?sni=cchh2.pages.dev
 trojan://162534@43.165.190.11:42841?sni=cchh2.pages.dev#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
 trojan://162534@43.165.190.11:42841?sni=cchh2.pages.dev#Join+Telegram:@Farah_VPN
@@ -1061,10 +1061,10 @@ trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.36:443?security=tls&sni=
 trojan://3f29ee90-8567-4671-8d99-9875874e472f@116.fastea.top:53316?security=tls&type=tcp&headerType=none
 trojan://3f5bc61547b1f0d9@125.227.86.46:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db
 trojan://3f5bc61547b1f0d9@125.227.86.46:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2010%20TG%3A%20%40nodpai
-trojan://3f5bc61547b1f0d9@125.227.86.46:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#[openproxylist.com]
 trojan://3f5bc61547b1f0d9@125.227.86.46:443?security=tls&sni=TG.freecodes
 trojan://3f5bc61547b1f0d9@125.227.86.46:443?security=tls&sni=TG.freecodes#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.86.46-1537
 trojan://3f5bc61547b1f0d9@125.227.86.47:443?allowInsecure=1&sni=TG.freecodes&type=grpc&serviceName=db#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2006%20TG%3A%20%40nodpai
+trojan://3f5bc61547b1f0d9@125.227.86.48:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db
 trojan://3f5bc61547b1f0d9@125.227.86.48:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2008%20TG%3A%20%40nodpai
 trojan://3f5bc61547b1f0d9@125.227.86.48:443?security=tls&sni=TG.freecodes
 trojan://3f5bc61547b1f0d9@125.227.86.48:443?security=tls&sni=TG.freecodes#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.86.48-1644
