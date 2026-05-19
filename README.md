@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/license-Not%20specified-lightgrey?style=flat-square" alt="No License">
   <img src="https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square" alt="Maintained">
 </div>
-[![oosmetrics]( https://api.oosmetrics.com/api/v1/badge/achievement/7a9e91e8-5763-4c36-a7f6-4349048a24dd.svg)](https://oosmetrics.com/repo/Argh94/Proxy-List )
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/7a9e91e8-5763-4c36-a7f6-4349048a24dd.svg)](https://oosmetrics.com/repo/Argh94/Proxy-List)
+
 ---
 
 ## 🌟 Overview
