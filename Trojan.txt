@@ -394,6 +394,8 @@ trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443/?type=ws&path=%2
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?allowInsecure=0&sni=proxy.luoxi.xin#
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?security=tls&sni=proxy.luoxi.xin#
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?security=tls&sni=proxy.luoxi.xin#%F0%9F%8F%81RELAY-172.67.153.253-1537
+trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?sni=proxy.luoxi.xin&peer=proxy.luoxi.xin&security=tls#
+trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?sni=proxy.luoxi.xin&type=ws&path=%2F&fp=chrome#
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?sni=proxy.luoxi.xin&type=ws&path=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2011
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?sni=proxy.luoxi.xin&type=ws&path=/?ed=2048#
 trojan://062cfabd-2224-4a36-9f24-e816d0f57e6c@xn--b6gac.eu.org:443?type=ws&path=%2F%3Fed%3D2048&security=tls&sni=proxy.luoxi.xin#
@@ -835,7 +837,6 @@ trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&se
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#Join+Telegram:@Farah_VPN
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A531
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A535
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#Join+Telegram:@Farah_VPN
 trojan://102de9c2-938d-4e39-9847-7493b5ccc16c@6w7j3p01.mcfront.xyz:31606#
 trojan://102de9c2-938d-4e39-9847-7493b5ccc16c@6w7j3p01.mcfront.xyz:31701#
@@ -981,7 +982,6 @@ trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&securit
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#RELAY
-trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#
 trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#
 trojan://123456@104.25.165.83:8443/?type=ws&host=top-azx.pages.dev&security=tls&sni=top-azx.pages.dev#
 trojan://123456@194.233.88.107:443?allowInsecure=1&sni=trojan-ctb-sg01.globalssh.xyz#
