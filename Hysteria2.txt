@@ -1,10 +1,10 @@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.37
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  5.175.249.174
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
 hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - Hetzner Online GmbH  2a01:4f9:4b:f378::1
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - LUME Solutions  77.90.41.197
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?sni=vpn-kr-001.fastervpn.world&insecure=1#KR   HYSTERIA2-TCP-NTLS - AMAZON-02  13.124.32.189
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Unesty Company  181.214.99.162
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#NL   HYSTERIA2-TCP-NTLS - MACARNE  206.71.158.41
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?sni=vpn-kr-001.fastervpn.world&insecure=1#KR   HYSTERIA2-TCP-NTLS - AMAZON-02  54.180.136.185
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?insecure=0&alpn=h3&fp=&sni=s559.ccgfw.top&obfs=&obfs-password=#
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top&insecure=0#
@@ -49,7 +49,6 @@ hysteria2://8d9ddfb4-7583-45b3-acf1-5343db385a38@sg15.476579.xyz:8080?sni=sg15.4
 hysteria2://8d9ddfb4-7583-45b3-acf1-5343db385a38@sg15.476579.xyz:8080?sni=sg15.476579.xyz&insecure=0#
 hysteria2://9P5zfc7S0s@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#
 hysteria2://9ad97279-ff33-411f-a710-5383619d2469@usa2.vpnmiao.site:10001?insecure=0#
-hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#
 hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#%40Proxy_Vpney%20v%2Bp%20%284%29
 hysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#@Proxy_Vpney
 hysteria2://KevinZakaria#
@@ -119,3 +118,4 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&s
 hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@nice.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=nice.cuda-cluster-metrics.sbs&peer=nice.cuda-cluster-metrics.sbs&alpn=h3#
 hysteria2://tg_7230388099:s1XZZ8Km1YajFNyd@sweden.cuda-cluster-metrics.sbs.alexanderoff.ru:443/?sni=sweden.cuda-cluster-metrics.sbs&peer=sweden.cuda-cluster-metrics.sbs&alpn=h3#
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
