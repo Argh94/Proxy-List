@@ -1,6 +1,3 @@
-tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@151.245.32.32:46981?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - RELIABLESITE  151.245.32.32
-tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - Liberty Global B.V.  104.253.175.139
-tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@23.94.175.162:43652?sni=www.python.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - AS-COLOCROSSING  23.94.175.162
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native#
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native&version=5#
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native&version=5#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2014
