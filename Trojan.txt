@@ -392,7 +392,6 @@ trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=%2F%3Fed%3D2048&security=t
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1sni=www.app-cloud.ir#
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#
-trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#%E6%9C%AA%E7%9F%A510
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#%E6%9C%AA%E7%9F%A58
 trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#Join+Telegram:@Farah_VPN
 trojan://%F0%9F%A4%A0%4A%4B%56%50%4E%5F%4A%4B%56%50%4E%F0%9F%A4%A0@www.speedtest.net:80?path=%2F%54%45%4C%45%47%52%41%4D%5F%42%59%41%5F%43%48%41%4E%45%4C%5F%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%3Fed%3D2048&security=none&host=joker.ahang-alpha.ir&type=ws#
@@ -640,8 +639,6 @@ trojan://0FMrl2zi9o@138.124.182.202:56338?security=reality&sni=www.intel.com&fp=
 trojan://0FMrl2zi9o@138.124.182.202:56338?type=raw&headerType=none&security=reality&fp=chrome&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&sni=www.intel.com&sid=77&spx=%2F#
 trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&fp=chrome&sni=www.intel.com&sid=77&spx=%2F#
 trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&fp=chrome&sni=www.intel.com&sid=77&spx=/#
-trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&fp=chrome&sni=www.intel.com&sid=77&spx=/#35701
-trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&fp=chrome&sni=www.intel.com&sid=77&spx=/#Join+Telegram:@Farah_VPN
 trojan://0RiSuJPsug#
 trojan://0RiSuJPsug%23v@104.21.43.168:443/?type=ws&host=2.lINK-KoN.IR&path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&sni=2.link-kon.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#
 trojan://0Y9gOHSdRt@150.230.249.42:443?allowInsecure=1#
@@ -1307,3 +1304,6 @@ trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443/?type=tcp&securi
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp&sni=support.zoom.us.sg4.6n6.net#
 trojan://162534@103.118.42.16:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#
+trojan://162534@103.118.42.16:8443?encryption=none&security=tls&sni=cchh2.pages.dev&fp=chrome&insecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#
+trojan://162534@103.118.42.16:8443?encryption=none&security=tls&sni=cchh2.pages.dev&fp=chrome&insecure=1&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/wangcai2#
+trojan://162534@103.45.246.200:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#
