@@ -1,1 +1,1 @@
-wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8%2FZog6ZW0c%3D@188.114.97.6:7281?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A81cf%3Aafd6%3A7564%3Ae1f3%3A2827%2F128&reserved=141%2C180%2C70&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#@V2raysCollector-CloudFlare+Warp
+wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8%2FZog6ZW0c%3D@188.114.97.6:7281?presharedkey=&address=172.16.0.2%2F32&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#%40meliproxyy
