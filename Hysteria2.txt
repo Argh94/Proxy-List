@@ -1,12 +1,7 @@
-hysteria2://6yhPOr3f9o@47.242.216.193:30236?sni=go.microsoft.com&insecure=1#HK   HYSTERIA2-TCP-NTLS - Alibaba US Technology Co., Ltd.  47.242.216.193
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  62.210.124.146
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  155.248.209.237
-hysteria2://masir_sefid@18.194.63.255:443?sni=content.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.194.63.255
-hysteria2://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@185.227.108.195:11000?sni=de-node.farnet.top&insecure=0#DE   HYSTERIA2-TCP-NTLS - Kamatera Inc  185.227.108.195
-hysteria2://e3a5bb40be52de65@89.251.26.111:55555?sni=apps.apple.com&insecure=1#HK   HYSTERIA2-TCP-NTLS - Alice Networks Ltd  89.251.26.111
-hysteria2://Masir_Sefid@18.157.222.169:1040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.157.222.169
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772?sni=bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  62.210.26.173
 hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  130.61.50.75
-hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?sni=go.microsoft.com&insecure=1#HK   HYSTERIA2-TCP-NTLS - Alibaba US Technology Co., Ltd.  47.76.94.197
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772?sni=bing.com&insecure=1#FR   HYSTERIA2-TCP-NTLS - Scaleway S.a.s.  62.210.26.173
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9D%98%BE%F0%9D%99%81
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#49134%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FSO...
 hysteria2://6yhPOr3f9o@47.242.216.193:30236?sni=go.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B049584%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
@@ -104,12 +99,5 @@ hysteria2://masir_sefid@3.121.136.75:443?security=tls&obfs=salamander&obfs-passw
 hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#
 hysteria2://s12fFiUvpP8B@vps-vmiss-usa.maze-maker.com:37749?insecure=0&sni=vps-vmiss-usa.maze-maker.com#%F0%9F%87%BA%F0%9F%87%B8US_6%7C2.0MB/s
 hysteria2://s12fFiUvpP8B@vps-vmiss-usa.maze-maker.com:37749?insecure=0&sni=vps-vmiss-usa.maze-maker.com#US_6%7C2.0MB%2Fs
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AA49134%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
-hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%87%AB%F0%9F%87%AE49164%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
-hysteria2://Masir_Sefid@18.157.222.169:44044?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%232
-hysteria2://Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%234
-hysteria2://Masir_Sefid@18.157.222.169:54040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%F0%9F%87%A9%F0%9F%87%AA%20%231
-hysteria2://Masir_Sefid@18.159.66.5:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40mehrosaboran
-hysteria2://Masir_Sefid@34.196.169.182:444?insecure=0&sni=masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2025%F0%9F%95%8A%E2%9C%A8%EF%B8%8F%282%29
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AADE%20%20ROSE%E2%80%9403
