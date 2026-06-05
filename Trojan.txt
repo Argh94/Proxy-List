@@ -651,11 +651,9 @@ trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9n
 trojan://0FMrl2zi9o@138.124.182.202:56338?type=tcp&security=reality&pbk=Hbg-UI9nXbK55b92yQ_keS2wQY4HGBL075aklMOItlk&fp=chrome&sni=www.intel.com&sid=77&spx=/#
 trojan://0Kn43NAwDY@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dg.aananas.ir.#
 trojan://0Kn43NAwDY@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dg.aananas.ir.#
-trojan://0Kn43NAwDY@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dg.aananas.ir.#
 trojan://0Kn43NAwDY@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dg.aananas.ir.&fp=chrome&allowInsecure=0#
 trojan://0Kn43NAwDY@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dg.aananas.ir.&fp=chrome&allowInsecure=0#%@MoOon_proxy
-trojan://0Kn43NAwDY@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dg.aananas.ir.&fp=chrome&allowInsecure=0#49354
-trojan://0Kn43NAwDY@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dg.aananas.ir.&fp=chrome&allowInsecure=0#@VPNine1
+trojan://0Kn43NAwDY@188.114.97.6:443?type=ws&security=tls&path=/?ed=2048&sni=dg.aananas.ir.&fp=chrome&allowInsecure=0#Join+Telegram:@Farah_VPN
 trojan://0RiSuJPsug#
 trojan://0RiSuJPsug%23v@104.21.43.168:443/?type=ws&host=2.lINK-KoN.IR&path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&sni=2.link-kon.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#
 trojan://0WJVF0eQOv@65.109.208.248:43660?path=%2F&security=none&type=ws#
@@ -1181,8 +1179,7 @@ trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngf
 trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#8
 trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#Join+Telegram:@Farah_VPN
 trojan://1111@172.64.147.96:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&security=tls#
-trojan://1111@172.64.147.96:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&security=tls#49418
-trojan://1111@172.64.147.96:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&security=tls#@VPNine1
+trojan://1111@172.64.147.96:2053?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&security=tls#Join+Telegram:@Farah_VPN
 trojan://1111@173.245.59.64:2083?path=%2F%3Fed%3D2560&security=tls&host=support.zoom.us.v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=support.zoom.us.v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#
 trojan://1111@173.245.59.64:2083?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#
 trojan://1111@173.245.59.64:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev#
@@ -1310,3 +1307,6 @@ trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@stw9-tg-data.amazonwebservicess.co
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@udhk2-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=tls.amazonwebservicess.com#
 trojan://12345678@198.62.62.4:443/?type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev&security=tls&sni=7bdfb97a.ikl.pages.dev#
 trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1&type=tcp#
+trojan://123456@104.25.165.81:8443/?type=ws&host=top-azx.pages.dev&security=tls&sni=top-azx.pages.dev#
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#
+trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#
