@@ -1,7 +1,7 @@
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=1&obfs=salamander#HK   HYSTERIA2-TCP-NTLS  130.49.161.70
-hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.157.222.169
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  130.61.50.75
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  155.248.209.237
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - ORACLE-BMC-31898  130.61.50.75
+hysteria2://%40Masir_Sefid@18.157.222.169:4040?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.157.222.169
 hysteria2://%40Express_freevpn@18.157.222.169:54040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Express_freevpn#
 hysteria2://%40Express_freevpn@18.157.222.169:54040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Express_freevpn#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8F%B5%20Tele...
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
