@@ -289,6 +289,14 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.hel
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=%40arshiacomplus&insecure=0&sni=n.acp.us.ci#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?sni=n.acp.us.ci&insecure=0&obfs=salamander#
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
+hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@sg3.xiaoliyu.cyou:1935?insecure=1&sni=sg3.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
+hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
+hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@us3.xiaoliyu.cyou:4433?insecure=1&sni=us3.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2001
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1#130.61.50.75%3A6443
+hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?insecure=1&sni=cn.cremedelamer.com#%E7%BE%8E%E5%9B%BD%20Nokia
+hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?insecure=1&sni=cn.cremedelamer.com#%E6%BE%B3%E6%B4%B2
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#%E7%BE%8E%E5%9B%BD%207
+hysteria2://dongtaiwang.com@62.210.10.108:22000?insecure=1&sni=www.microsoft.com#%E6%B3%95%E5%9B%BD%206
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
