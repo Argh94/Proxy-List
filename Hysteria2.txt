@@ -322,6 +322,8 @@ hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?securi
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?sni=www.microsoft.com&insecure=0&obfs=salamander#
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#
+hysteria2://%40V2RayyNGvpn@213.156.152.76:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=V2RayyNGvpn$miracle$krouky#%F0%9F%87%B9%F0%9F%87%B774625%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?insecure=1&sni=vpn-sg-003.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
