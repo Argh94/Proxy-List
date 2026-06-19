@@ -124,8 +124,6 @@ trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=t
 trojan://humanity@141.193.213.11:443?sni=www.calmloud.com&peer=www.calmloud.com&security=tls#US   TROJAN-TCP-TLS - Cloudflare London, LLC  141.193.213.11
 trojan://05ii7x3b-dn29-hcus-i33v-dzgwjcuzgcdh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
 trojan://x4qilxyo-c58n-w532-fxsb-3mhavqfircyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
-trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#V2rayng_Fast
-trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%40mehrosaboran
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?allowInsecure=0&sni=103.125.216.169#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.152:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?allowInsecure=1&sni=103.125.219.70#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
@@ -187,6 +185,39 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B8_IS_%E5%86%B0%E5%B2%9B
 trojan://BxceQaOe@95.40.68.150:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=103.125.216.169#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome&insecure=1&allowInsecure=1#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.53.3:53018?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+trojan://BxceQaOe@43.198.84.209:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@18.166.66.17:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@18.181.208.41:28694?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.59.3:5701?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@3.112.174.152:37973?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.0MB/s
+trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.59.3:29642?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@16.163.104.155:29642?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://BxceQaOe@18.166.66.17:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@52.195.226.220:17005?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://e0195c73018d597b1c2f0ea89d8676ae@18.163.80.1:17005?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://BxceQaOe@16.163.107.6:39959?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.152:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&type=ws&path=/#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.5MB/s
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@18.182.54.28:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&type=ws&path=/#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.6MB/s
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.26.187.6:443?sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#%F0%9F%87%BA%F0%9F%87%B8US_10%7C1.2MB/s
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.237.13.221:443?sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C1.8MB/s
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@188.253.118.174:443?sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C1.6MB/s
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@129.154.50.159:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&type=ws&host=tjsp.hhxaf.cc.cd&path=/#KR_speednode_0004
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.28.152:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#US_speednode_0069
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@69.63.223.42:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&type=ws&host=tjsp.hhxaf.cc.cd&path=/#US_speednode_0070
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0120
+trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?security=tls&sni=www.spotwebs.click#%F0%9F%87%BA%F0%9F%87%B8US-144.31.55.10-0504
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.59-0131
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0140
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189#%F0%9F%87%A9%F0%9F%87%AADE-38.54.13.189-0141
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0161
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&sni=103.125.219.70#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.219.70-0155
+trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AADE-2.26.54.174-0192
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0226
+trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#V2rayng_Fast
+trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%40mehrosaboran
 trojan://!
 trojan://!#
 trojan://!%3Cstr%3E%20123456@104.21.16.217:2053?type=ws&sni=Bpbg.aNGuSweN.top&path=%2FeyJqdW5rIjoiYWJZUDZ0Z2RMTSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0%3D%3Fed%3D2560#
