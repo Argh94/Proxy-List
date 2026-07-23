@@ -1,7 +1,7 @@
 tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - AS-COLOAM  216.183.230.2
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443?sni=azure.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS  45.59.131.37
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS  216.23.84.41
 tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@sg01.uzifan.monster:8443?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#SG   TUIC-TCP-NTLS - Alibaba US Technology Co., Ltd.  47.84.207.66
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS  216.23.84.41
+tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us01.uzifan.monster:8443?sni=azure.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS  45.59.131.37
 tuic://1ae7c1a7-53a4-49d3-87ef-597634834c6c:1ae7c1a7-53a4-49d3-87ef-597634834c6c@q5rvfp.yydzx.xyz:27104?sni=q5rvfp.yydzx.xyz&congestion_control=bbr&udp_relay_mode=native&alpn=h3#
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@m61wz8.yydzx.xyz:27105?alpn=h3&congestion_control=bbr&sni=m61wz8.yydzx.xyz#
 tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@xbns1y.yydzx.xyz:27102?alpn=h3&congestion_control=bbr&sni=xbns1y.yydzx.xyz#
