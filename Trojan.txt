@@ -849,8 +849,6 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&security=tls&sni=xxscdF56.999182.xYZ#
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@172.67.170.51:443/?type=tcp&security=tls&sni=sscDfr5.999182.XyZ#
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#EPODONIOS
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#Join+Telegram:@Farah_VPN
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
@@ -1059,15 +1057,15 @@ trojan://3%5DsjM!r%7CL%3BQl@172.66.46.213:443/?type=tcp&security=tls&sni=zs41t69
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@uk2-full.privateip.net:443?security=tls#
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#
 trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443?security=tls#
+trojan://32b2m2w7hsdd93z7@177.3.208.169:443?sni=titandarkness.mooo.com&type=grpc&serviceName=%2F43588%2FG43plZahWW&mode=gun&fp=chrome#
 trojan://32b2m2w7hsdd93z7@177.3.208.169:443?sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW&mode=gun&fp=chrome#
 trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?authority=31.76.11.46.cdn-one.org&security=tls&serviceName=%2F50779%2FNQmry9z8yR&type=grpc#
-trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=%2F50779%2FNQmry9z8yR&mode=gun&fp=chrome#
 trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?type=grpc&serviceName=%2F50779%2FNQmry9z8yR&security=tls&sni=31.76.11.46.cdn-one.org#
-trojan://32b2m2w7hsdd93z7@31.76.11.46:443?sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=/50779/NQmry9z8yR&mode=gun&fp=chrome#
 trojan://32b2m2w7hsdd93z7@31.76.251.127.cdn-one.org:443?authority=31.76.251.127.cdn-one.org&security=tls&serviceName=%2F28786%2F4U7gXXHftA&type=grpc#
 trojan://32b2m2w7hsdd93z7@83.143.112.140.cdn-one.org:443?authority=83.143.112.140.cdn-one.org&security=tls&serviceName=%2F56227%2FrSnUrv2yXU&type=grpc#
 trojan://32b2m2w7hsdd93z7@83.143.112.140.cdn-one.org:443?security=tls&sni=83.143.112.140.cdn-one.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=%2F56227%2FrSnUrv2yXU&mode=gun#
 trojan://32b2m2w7hsdd93z7@titandarkness.mooo.com:443?authority=titandarkness.mooo.com&security=tls&serviceName=%2F43588%2FG43plZahWW&type=grpc#
+trojan://32b2m2w7hsdd93z7@titandarkness.mooo.com:443?sni=titandarkness.mooo.com&type=grpc&serviceName=%2F43588%2FG43plZahWW&mode=gun&fp=chrome#
 trojan://33ac36d0-3ccc-4b76-80c5-498c50041f36@172.67.173.73:443/?type=tcp&security=tls&sni=jpmax03.170203.xyz#
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#EPODONIOS
@@ -1155,3 +1153,5 @@ trojan://3c4e10af98c30972@185.230.245.210:3306?security=tls&sni=n2.gladns.com&al
 trojan://3c4e10af98c30972@185.230.245.211:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#
 trojan://3c4e10af98c30972@185.230.245.213:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#United%20State%20Nato
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#Join+Telegram:@Farah_VPN
