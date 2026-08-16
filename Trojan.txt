@@ -924,7 +924,6 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&security=tls&sni=xxscdF56.999182.xYZ#
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@172.67.170.51:443/?type=tcp&security=tls&sni=sscDfr5.999182.XyZ#
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#
-trojan://224afxe9-t6wc-vlp3-8ey7-m2hc2fkvm5xt@127.0.0.1:8081?security=tls&type=tcp#
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://23391d1e-3567-4555-9e40-de87569d74f6@213.202.216.14:443?security=tls&sni=downloadde.xn--mes358acgm99l.com&allowInsecure=1&type=tcp#
@@ -1055,6 +1054,9 @@ trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21118?security=tls&
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?security=tls&sni=k30.tudou211.com#
 trojan://2b9f96246284482db6c8c64c562ac174@118.142.55.62:443?security=tls&allowInsecure=1&type=tcp#
 trojan://2b9f96246284482db6c8c64c562ac174@202.64.1.234:443?security=tls&allowInsecure=1&type=tcp#
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=1&sni=blackshadow.dpdns.org#
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=1&sni=blackshadow.dpdns.org#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowInsecure=1&sni=blackshadow.dpdns.org#Join+Telegram:@Farah_VPN
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=jobscareertoday.com#
@@ -1207,5 +1209,3 @@ trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptw5.cnamazon.sbs:443?security=t
 trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@aeadjpaes01.xn--z4q48lcvp.com:443?security=tls&sni=aeadjpaes01.xn--z4q48lcvp.com&type=tcp#
 trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@hk-sjfx-95s-xjfa-xmasf.jumaonet.com:13622?security=tls&sni=hk-sjfx-95s-xjfa-xmasf.jumaonet.com&type=tcp#
 trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@jp-45s-s65x-595adf.jumaonet.com:10443?security=tls&sni=jp-45s-s65x-595adf.jumaonet.com&type=tcp#
-trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@jp-45s-s65x-595adf.jumaonet.com:18080?security=tls&sni=jp-45s-s65x-595adf.jumaonet.com&type=tcp#
-trojan://3e820eb0-3f06-4337-a4fc-0c3c7c0d3b4d@sg-aaa-sjf-4555-ass-78xa.jumaonet.com:12232?security=tls&sni=sg-aaa-sjf-4555-ass-78xa.jumaonet.com&type=tcp#
