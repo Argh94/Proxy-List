@@ -593,6 +593,7 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls#%
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-2098
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=/&fp=chrome#
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/&fp=chrome#
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.64.80.1:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=/cmh&fp=chrome#
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/&fp=chrome#
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?type=ws&security=tls&path=%2F&sni=app-538961.user-y0o4gm.workers.dev&fp=chrome#
@@ -1048,13 +1049,9 @@ trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-104.21.88.77-1519
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org&type=ws&host=blackshadow.dpdns.org&path=%2F195.123.218.174-443#
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org&type=ws&host=blackshadow.dpdns.org&path=%2F195.123.218.174-443#%E8%8A%82%E7%82%B9%E6%97%A5%E6%9C%9F%EF%BC%9A2026-08-20
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org#
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org#%E6%9C%AA%E7%9F%A531
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org#Join+Telegram:@Farah_VPN
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=jobscareertoday.com#
-trojan://2cdcceba-68e9-6855-3e86-c92fb6706ce5@rvg-production-6c35.up.railway.app:443?mode=packet-up&path=%2Ftxhttp-siz10%2Fpacket-up%2F2cdcceba-68e9-6855-3e86-c92fb6706ce5&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=rvg-production-6c35.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c35.up.railway.app#
 trojan://2cdcceba-68e9-6855-3e86-c92fb6706ce5@rvg-production-6c35.up.railway.app:443?mode=packet-up&path=%2Ftxhttp-siz10%2Fpacket-up%2F2cdcceba-68e9-6855-3e86-c92fb6706ce5&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=rvg-production-6c35.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c35.up.railway.app#US
 trojan://2cdcceba-68e9-6855-3e86-c92fb6706ce5@rvg-production-6c35.up.railway.app:443?mode=packet-up&path=/txhttp-siz10/packet-up/2cdcceba-68e9-6855-3e86-c92fb6706ce5&security=tls&alpn=h2,http/1.1&insecure=0&host=rvg-production-6c35.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c35.up.railway.app#
 trojan://2cdcceba-68e9-6855-3e86-c92fb6706ce5@rvg-production-6c35.up.railway.app:443?mode=packet-up&path=/txhttp-siz10/packet-up/2cdcceba-68e9-6855-3e86-c92fb6706ce5&security=tls&alpn=h2,http/1.1&insecure=0&host=rvg-production-6c35.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c35.up.railway.app#EPODONIOS
@@ -1216,3 +1213,6 @@ trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443/?type=tcp&securi
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.71.131:443/?type=ws&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&security=tls&sni=m5rt.999854.xyz#
 trojan://407ecce0-dc85-465f-89f5-e520e9378baf@104.17.238.76:443/?type=tcp&security=tls&sni=ld.223350.xyz#
 trojan://40bb32c0-3f10-11f0-8c33-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#
+trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#
+trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-3467
+trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22/?type=tcp&security=tls#
