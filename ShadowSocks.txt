@@ -867,6 +867,10 @@ ss://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none
 ss://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 ss://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=/&security=none&encryption=none&type=ws#
 ss://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:&sni=ViP.iTV2RAY.lol#
+ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
+ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
+ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#EPODONIOS
+ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#filembad-30
 ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
 ss://008678b8-5e27-49fa-b95a-1fff4c61a849@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
 ss://00a398f3-b1e4-46c5-9527-94a3e97fe8ea@altaria.proxy.rlwy.net:24348?encryption=none&host=&path=%2F&security=none&type=httpupgrade#US
@@ -881,11 +885,9 @@ ss://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?security=reality&en
 ss://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#REALITY|RU
 ss://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#
 ss://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#EPODONIOS
-ss://00dda8ac-c263-4106-a740-1e4478a7dc44@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#
 ss://00e4da0c-7d10-4a37-9699-64d0f998d200@151.242.168.238:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#
 ss://00e4e2d8-ecf4-4652-a883-dc36d3f2a6ed@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#
-ss://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=kurdnet.kurdmarivanzaribar.xyz&path=/&security=tls&sni=kurdnet.kurdmarivanzaribar.xyz&type=httpupgrade#
-ss://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=kurdnet.kurdmarivanzaribar.xyz&path=/&security=tls&sni=kurdnet.kurdmarivanzaribar.xyz&type=httpupgrade#EPODONIOS
+ss://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=%2F&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#
 ss://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=/&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#EPODONIOS
 ss://00e7e47a-4fec-4931-da61-2c9aba8190d6@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#
 ss://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?allowInsecure=0&sni=lc82.lebasnoo.ir.&type=ws&host=lc82.lebasnoo.ir.&path=/servernett#
@@ -910,15 +912,15 @@ ss://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf7.466688.xyz:8880?fp=chrome&host=sum
 ss://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf9.466688.xyz:8880?&packet-encoding=xudp&type=ws&headerType=none&host=summer-bonus-aa63.52-c03.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian#
 ss://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf9.466688.xyz:8880?host=summer-bonus-aa63.52-c03.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net%40https%3A%2F%2Ft.me%2FQiangLieTuiJian+&security=none&type=ws#
 ss://010158f4-1a88-4dfa-8420-c770dc1584e1@31.58.181.88:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&sni=tradingview.com#
+ss://010bf7ad-b6ec-482b-8392-ae038f466a0a@www.g.mobilesari.ir:4777?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
 ss://010bf7ad-b6ec-482b-8392-ae038f466a0a@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
+ss://010bf7ad-b6ec-482b-8392-ae038f466a0a@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#EPODONIOS
 ss://010bf7ad-b6ec-482b-8392-ae038f466a0a@www.g.mobilesari.ir:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#
 ss://010ddaac-7bac-4dcc-a353-215d01feb06e@116.203.75.81:36313?type=grpc&serviceName=&security=reality&fp=chrome&pbk=UKw4crSzH0M3eceNPmo4bNs4NyIfhaCUEMi52k6J5DI&sni=khor.sarezh.click&sid=c74cb910&spx=%2F#
 ss://0110d1d5-12c2-4a80-bad9-8c33722e8699@141.193.213.20:80/?type=ws&encryption=none&host=lk.sahanwickramasinghe.shop#
 ss://0110d1d5-12c2-4a80-bad9-8c33722e8699@170.114.45.6:80/?type=ws&encryption=none&host=lk.sahanwickramasinghe.shop&path=%2F#
 ss://0117a6a8-046f-4a70-bf7a-f3e17b28933b@103.168.19.163:20829?security=none&encryption=none&headerType=none&type=tcp#
 ss://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none#
-ss://012b46e2-6b11-4420-80f0-0dab6eddd909@62.238.53.13:443?security=reality&type=xhttp&path=%2Ffarasati1&sni=www.wikipedia.org&fp=chrome&sid=1c213fd68e13&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&encryption=none#
-ss://012f5e18-d018-4eaa-a84b-339798ee322b@fr1.free-imi.ir:443?encryption=none&security=none&type=tcp&headerType=none&host=fr2.free-imi.ir#
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.189.251:8880?security=&sni=Telegram-channel-WangCai2&type=ws&path=/Telegram#
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@103.160.204.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@103.169.142.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#
@@ -996,5 +998,3 @@ ss://0132166f-e702-48ed-a9e7-b07af768faf8@91.209.253.251:8880/?type=ws&encryptio
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560#
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.188.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#
 ss://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.189.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%20%40WangCai2%20#
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@94.247.142.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#
-ss://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#
